@@ -1,0 +1,38 @@
+.container-about{
+    width: 70vw;
+    margin: 3em 0;
+    padding: 0 5%;
+}
+
+.container-about p{
+    text-align: justify;
+    font-size: 1.2em;
+    line-height: 1.4em;
+}
+
+/* --- Médias Telas --- */
+@media screen and (min-width: 668px) and (max-width: 1023px){
+    .container-about{
+        padding: 0;
+        width: 100vw;
+        text-align: center;
+    }
+    .container-about p{
+        padding: 0 8%;
+        text-align: center;
+    }
+}
+
+/* --- Mobiles --- */
+@media screen and (max-width: 500px){
+    .container-about{
+        padding: 0;
+        text-align: center;
+        width: 100vw;
+    }
+
+    .container-about p{
+        padding: 0 8%;
+        text-align: justify;
+    }
+}

@@ -1,0 +1,61 @@
+.container-logistic{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 2px solid #000;
+    height: 25vh;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 13%;
+}
+
+.container-logistic svg{
+    width: 3em;
+    height: 1.8em;
+}
+
+.info{
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.info p{
+    margin: 0;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+.info p:nth-child(1){
+    font-weight: normal;
+    font-size: 0.9em;
+}
+
+@media screen and (width < 902px){
+    .container-logistic{
+        padding: 0 5%;
+        height: 12vh;
+    }
+    .container-logistic svg{
+        width: 1em;
+        height: 0.8em;
+    }
+    .info p{
+        font-size: 0.5em;
+    }
+    .info p:nth-child(1){
+        font-weight: normal;
+        font-size: 0.9em;
+    }
+}
+
+@media screen and (min-width: 668px) and (max-width: 1023px) {
+    .container-logistic svg{
+        width: 1.5em;
+        height: 1.3em;
+    }
+    .info p{
+        font-size: 0.8em;
+    }
+    .info p:nth-child(1){
+        font-weight: normal;
+        font-size: 1em;
+    }
+}

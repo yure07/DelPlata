@@ -1,0 +1,120 @@
+.container-catalog{
+    width: 100vw;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+}
+.card-product{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    width: 17vw;
+    height: 40vh;
+    margin-top: 5em;
+    box-shadow: 0 0 20px var(--color-silver);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1em;
+    transition: all 0.4s;
+    text-align: center;
+}
+.card-product a{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.card-product:hover{
+    transform: scale(1.1);
+}
+.image-product{
+    width: 140px;
+    height: 170px;
+    margin-bottom: 0.7em;
+    background-position: center;
+    background-size: cover;
+}
+
+.card-product strong{
+    margin-top: 0em;
+    font-size: 1.2em;
+}
+
+.card-product p:nth-child(3){
+    font-size: 1.2em;
+    margin-bottom: 0;
+    text-decoration: line-through;
+    color: var(--color-silver);
+}
+.card-product p:nth-child(4){
+    margin: 0;
+    font-size: 1.6em;
+}
+
+/* --- Grandes Telas --- */
+@media screen and (min-width: 1024px) and (max-width: 1268px){
+    .card-product{
+        width: 25vw;
+        height: 40vh;
+    }
+
+    .image-product{
+        width: 160px;
+        height: 200px;
+    }
+}
+
+/* --- Médias Telas --- */
+@media screen and (min-width: 668px) and (max-width: 1023px) {
+    .card-product{
+        height: 20vh;
+        width: 23vw;
+    }
+
+    .card-product strong{
+        margin: 0;
+        font-size: 0.8em;
+        text-align: center;
+    }
+
+    .image-product{
+        width: 11.2vw;
+        height: 10vh;
+    }
+
+    .card-product p:nth-child(3){
+        font-size: 1.2em;
+    }
+    .card-product p:nth-child(4){
+        font-size: 1.6em;
+    }
+}
+
+/* --- Mobiles --- */
+@media screen and (max-width: 500px) {
+    .container-catalog{
+        grid-template-columns: auto auto;
+        justify-content: space-around;
+        text-align: center;
+    }
+    .card-product{
+        width: 35vw;
+        height: 21vh;
+        margin-bottom: 0;
+        margin-top: 1.5em;
+    }
+    .card-product strong{
+        font-size: 0.6em;
+    }
+
+    .image-product{
+        max-width: 22vw;
+        height: 13vh;
+    }
+
+    .card-product p:nth-child(3){
+        font-size: 0.7em;
+    }
+    .card-product p:nth-child(4){
+        font-size: 0.9em;
+    }
+}

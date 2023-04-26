@@ -1,0 +1,44 @@
+.container-filter{
+    width: 100vw;
+    background-color: var(--color-silver);
+    display: flex;
+    border: 1px solid #000;
+    align-items: center;
+    margin: 0;
+}
+
+.container-filter > ul{
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 17px;
+    display: flex;
+    width: 100%;
+    padding: 0;
+    justify-content: space-around;
+}
+
+.container-filter > ul > a{
+    text-decoration: none;
+    color: #000;
+}
+
+/* --- Médias Telas --- */
+@media screen and (min-width: 668px) and (max-width: 1023px){
+    .container-filter > ul{
+        font-size: 0.8em;
+        padding: 0 2%;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1268px) {
+    .container-filter > ul{
+        font-size: 0.8em;
+        padding: 0 4%;
+    }
+}
+
+@media screen and (width <= 768px) {
+    .container-filter {
+        display: none;
+    }
+}

@@ -1,0 +1,45 @@
+.container-main{
+    display: flex;
+}
+
+.image{
+    width: 50vw;
+    height: 25vw;
+    display: flex;
+    background: url(../../assets/prata.jpg);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    background-position: center;
+}
+.image2{
+    width: 50vw;
+    height: 25vw;
+    display: flex;
+    background: url(../../assets/frase.png);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    background-position: center;
+}
+
+
+@media screen and (width < 450px){
+    .container-main{
+        flex-direction: column;
+    }
+    .container-silver{
+        width: 100vw;
+        height: 33vw;
+        background-color: transparent;
+        border-bottom: 1px solid #000;
+    }
+    .image{
+        width: 100vw;
+        height: 45vw; 
+    }
+    .image2 {
+        width: 100vw;
+        height: 45vw;  
+    }
+}
