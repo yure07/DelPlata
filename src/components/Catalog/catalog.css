@@ -53,8 +53,8 @@
 /* --- Grandes Telas --- */
 @media screen and (min-width: 1024px) and (max-width: 1268px){
     .card-product{
-        width: 25vw;
-        height: 40vh;
+        width: 250px;
+        height: 320px;
     }
 
     .image-product{
@@ -66,19 +66,19 @@
 /* --- Médias Telas --- */
 @media screen and (min-width: 668px) and (max-width: 1023px) {
     .card-product{
-        height: 20vh;
-        width: 23vw;
+        height: 300px;
+        width: 200px;
     }
 
     .card-product strong{
         margin: 0;
-        font-size: 0.8em;
+        font-size: 0.9em;
         text-align: center;
     }
 
     .image-product{
-        width: 11.2vw;
-        height: 10vh;
+        width: 150px;
+        height: 180px;
     }
 
     .card-product p:nth-child(3){
@@ -97,13 +97,14 @@
         text-align: center;
     }
     .card-product{
-        width: 35vw;
-        height: 21vh;
+        width: 33vw;
+        max-height: 22vh;
         margin-bottom: 0;
         margin-top: 1.5em;
     }
     .card-product strong{
-        font-size: 0.6em;
+        font-size: 0.7em;
+        width: 100%;
     }
 
     .image-product{
@@ -112,9 +113,9 @@
     }
 
     .card-product p:nth-child(3){
-        font-size: 0.7em;
+        font-size: 0.8em;
     }
     .card-product p:nth-child(4){
-        font-size: 0.9em;
+        font-size: 1em;
     }
 }

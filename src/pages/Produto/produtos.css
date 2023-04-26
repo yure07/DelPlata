@@ -6,17 +6,16 @@
     flex-direction: row-reverse;
 }
 .carousel{
-    width: 380px;
-    height: 440px;
+    width: 400px;
+    height: 460px;
     margin: auto;
     margin: 0;
     position: relative;
-    
 }
 
 .tink-img{
-    width: 380px;
-    height: 440px;
+    width: 400px;
+    height: 460px;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -26,7 +25,7 @@
     position: absolute;
     top: 0;
     width: 100%;
-    height: 100%;
+    height: 460px;
     background: none;
     display: flex;
     justify-content: space-between;
@@ -49,7 +48,7 @@
 }
 
 .container-product strong{
-    font-size: 2em;
+    font-size: 2.5em;
 }
 
 #title-mobile{
@@ -57,19 +56,19 @@
 }
 
 .container-product p:nth-child(2){
-    width: 300px;
-    font-size: 1.1em;
+    width: 400px;
+    font-size: 1.3em;
 }
 
 .container-product p:nth-child(4){
     text-decoration: line-through;
     color: #777272;
-    font-size: 1.5em;
+    font-size: 1.6em;
     margin-bottom: 0;
 }
 
 .container-product p:nth-child(5){
-    font-size: 1.7em;
+    font-size: 1.8em;
     margin: 0;
     font-weight: 700;
 }
@@ -81,8 +80,9 @@
 
 .container-product .silver{
     background-color: var(--color-silver);
-    padding: 5% 0;
-    width: 100px;
+    padding: 3% 0;
+    width: 150px;
+    font-size: 18px;
     text-align: center;
     border-radius: 0.5em;
 }
@@ -91,17 +91,34 @@
     background-color: #17D817;
     color: #fff;
     border: 0;
-    padding: 5% 0;
+    padding: 3% 0;
     width: 150px;
     border-radius: 0.5em;
-    font-size: 1.2em;
+    font-size: 1.3em;
     cursor: pointer;
+}
+
+/* --- Grandes Telas --- */
+@media screen and (min-width: 1024px) and (max-width: 1268px){
+    .container-product{
+        column-gap: 50px;
+    }
+    .container-product strong{
+        font-size: 1.7em;
+    }
 }
 
 /* --- Médias Telas --- */
 @media screen and (min-width: 668px) and (max-width: 1023px){
     .container-product{
-        column-gap: 5vw;
+        column-gap: 30px;
+    }
+    .container-product strong{
+        font-size: 1.3em;
+    }
+    .container-product p:nth-child(2){
+        width: 280px;
+        font-size: 1em;
     }
     #title-mobile{
         display: none;
@@ -109,10 +126,17 @@
     .carousel{
         width: 300px;
         height: 350px;
+        margin: 0;
+    }
+    .btn{
+        width: 300px;
+        height: 350px;
     }
     .container-product .tink-img{
         width: 300px;
         height: 350px;
+        margin: 0;
+        padding: 0;
     }
 }
 
@@ -123,12 +147,12 @@
         align-items: center;
         justify-content: center;
         width: 100vw;
+        margin-top: 2em;
     }
     #title-mobile{
         display: flex;
-        font-size: 4.5vw;
+        font-size: 19px;
         justify-content: center;
-        margin: -2em 0 1em;
     }
     #title-pc{
         display: none;
@@ -136,7 +160,11 @@
     .carousel{
         width: 320px;
         height: 300px;
-        margin-bottom: 2em;
+        margin-bottom: 3em;
+    }
+    .btn{
+        width: 320px;
+        height: 380px;
     }
     .container-product .tink-img{
         width: 320px;

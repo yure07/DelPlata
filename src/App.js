@@ -4,11 +4,11 @@ import { DataProvider } from "./context/Dataprovider.js";
 
 function App() {
   return (
+    <DataProvider>
       <BrowserRouter>
-        <DataProvider>
           <RoutesApp/>
-        </DataProvider>
       </BrowserRouter>
+    </DataProvider>
   );
 }
 

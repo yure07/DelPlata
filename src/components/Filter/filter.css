@@ -22,6 +22,10 @@
     color: #000;
 }
 
+.container-filter > ul > a:hover{
+    color: #000000a2;
+}
+
 /* --- Médias Telas --- */
 @media screen and (min-width: 668px) and (max-width: 1023px){
     .container-filter > ul{

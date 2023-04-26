@@ -24,7 +24,8 @@
     color: #000;
 }
 .navlinks a:hover{
-    border-bottom: 2px solid #000;
+    border: none;
+    color: #00000089;
 }
 
 .btn-header{
@@ -77,6 +78,10 @@
         padding: 0 4%;
         border-bottom: 1px solid #000;
     }
+    .header img{
+        height: 55px;
+        width: 55px;
+    }
     .menu-mobile{
         display: flex;
         height: 60vh;
@@ -90,5 +95,12 @@
         gap: 1.4em;
         display: flex;
         flex-direction: column;
+    }
+    .menu-mobile > ul > li:hover{
+        color: #000000a2;
+    }
+    .navlinks a:hover{
+        border: none;
+        color: #000000a2;
     }
 }
