@@ -2,7 +2,13 @@ import Header from '../../components/Header/index.js'
 import Filter from '../../components/Filter/index.js'
 import Footer from '../../components/Footer/index.js'
 import './sobre.css'
+import { useEffect } from 'react'
 export default function Sobre () {
+
+    useEffect(()=>{
+        window.scrollTo(0, 0)
+    },[])
+
     return(
         <>
         <Header/>

@@ -19,7 +19,9 @@ export default function Produto () {
     const imgs = [details.image, details.image2, details.image3]
     let count = 0
 
+
     useEffect(()=>{
+        window.scrollTo(0, 0)
         produtos.forEach(produto =>{
             if (produto.id === parseInt(params.id)){
                 setDetails(produto)

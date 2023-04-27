@@ -5,14 +5,19 @@ import {BsInstagram, BsWhatsapp} from 'react-icons/bs/index.esm.js'
 import { Link } from 'react-router-dom'
 
 export default function Footer () {
+
+    const toHome = () =>{
+        window.scrollTo(0, 0)
+    }
+
     return(
         <>
         <footer>
 
             <div className='card'>
                 <h3>Início</h3>
-                <Link to='/'>Home</Link>
-                <a href='/sobre'>Sobre Nós</a>
+                <Link to='/' onClick={toHome}>Home</Link>
+                <Link to='/sobre'>Sobre Nós</Link>
                 <Link to='https://wa.link/rn6a84' target='_blank'>Contato</Link>
             </div>
 
