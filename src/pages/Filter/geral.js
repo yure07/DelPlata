@@ -1,7 +1,6 @@
-import { useState, useContext } from "react"
+import { useContext } from "react"
 import { useParams } from "react-router-dom"
 import { DataContext } from "../../context/Dataprovider.js"
-import { Link } from "react-router-dom"
 import Header from "../../components/Header/index.js"
 import Filter from "../../components/Filter/index.js"
 import Footer from "../../components/Footer/index.js"
@@ -21,12 +20,12 @@ export default function Geral (){
                 if (produto.name === params.name){
                     return(
                     <div className='card-product' key={produto.id}>
-                        <Link to={`/produto/${produto.title}/${produto.id}`} id='link'>
+                        <a href={`/produto/${produto.title}/${produto.id}`} id='link'>
                             <div className='image-product' style={ {backgroundImage: `url(${produto.image})` } }></div>
                             <strong>{produto.title}</strong>
                             <p>R$ {produto.price}</p>
                             <p>R$ {produto.priceNow}</p>
-                        </Link>
+                        </a>
                     </div>
                     )
                 }

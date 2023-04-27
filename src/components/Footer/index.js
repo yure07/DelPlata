@@ -12,7 +12,7 @@ export default function Footer () {
             <div className='card'>
                 <h3>Início</h3>
                 <Link to='/'>Home</Link>
-                <Link to='/sobre'>Sobre Nós</Link>
+                <a href='/sobre'>Sobre Nós</a>
                 <Link to='https://wa.link/rn6a84' target='_blank'>Contato</Link>
             </div>
 
