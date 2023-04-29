@@ -1,3 +1,5 @@
+import { overrideMimeType } from 'stream-http/lib/capability';
+
 const data = {
     status: "success",
     items: [
@@ -489,6 +491,61 @@ const data = {
             overview: "Anel Coração Infinito - 16 e 19cm. O anel Coração Infinito é uma escolha elegante e sofisticada para quem procura uma joia versátil e atemporal. Além disso, o anel pode ser facilmente combinado com outras peças de joalheria, tornando-o um item indispensável para qualquer guarda-roupa.",
             parcel: "5x de 8,40",
             buy: "https://wa.link/vww0u9"
+        },
+        {
+            id: 43,
+            name: "colar",
+            image: require('../assets/produtos/corrente-laminada.jpeg'),
+            title: "CORRENTE LAMINADA",
+            price: "149,99",
+            priceNow: "135,99",
+            overview: "Corrente Laminada - 45cm. Uma corrente é mais do que um acessório, é uma expressão da sua personalidade e estilo. É a forma perfeita de realçar a sua beleza e marcar presença por onde passa. Marque presença usando Del Plata.",
+            parcel: "5x de 27,20",
+            buy: "https://wa.link/t2i6xm"
+        },
+        {
+            id: 44,
+            name: "masculino",
+            image: require('../assets/produtos/pulseira-masc-20cm.jpeg'),
+            title: "PULSEIRA MASCULINA",
+            price: "109,99",
+            priceNow: "93,99",
+            overview: "Pulseira Masculina - 20cm. - 3,2GR. Uma pulseira é mais do que um simples adorno, é um símbolo de elegância, sofisticação e personalidade. Invista em uma pulseira de qualidade e eleve o seu estilo a um novo patamar.",
+            parcel: "5x de 18,80",
+            buy: "https://wa.link/job6ys"
+        },
+        {
+            id: 45,
+            name: "masculino",
+            image: require('../assets/produtos/pulseira-masc2.jpeg'),
+            title: "PULSEIRA MASCULINA",
+            price: "94,99",
+            priceNow: "81,99",
+            overview: "Pulseira Masculina - 20cm. Um acessório que complementa o seu visual, tornando-o ainda mais charmoso e marcante. Seja para ocasiões formais ou informais, a pulseira certa é o toque final para um look perfeito",
+            parcel: "5x de 16,40",
+            buy: "https://wa.link/yleyb0"
+        },
+        {
+            id: 46,
+            name: "masculino",
+            image: require('../assets/produtos/pulseira-masc3.jpeg'),
+            title: "PULSEIRA MASCULINA",
+            price: "159,99",
+            priceNow: "134,99",
+            overview: "Pulseira Masculina - 21cm. Uma pulseira é mais do que um simples adorno, é uma peça que carrega consigo sentimentos e memórias que te acompanharão para sempre. Carregue a sua história com a Del Plata",
+            parcel: "5x de 27,00",
+            buy: "https://wa.link/9p10d3"
+        },
+        {
+            id: 47,
+            name: "masculino",
+            image: require('../assets/produtos/pulseira-masc4.jpeg'),
+            title: "PULSEIRA MASCULINA",
+            price: "109,99",
+            priceNow: "96,99",
+            overview: "Pulseira Masculina - 21cm. Um objeto que representa a sua personalidade e história, além de ser uma forma de expressão única que demonstra o seu estilo e bom gosto. Adquira agora a sua pulseira e sinta a emoção de ter um acessório que irá te acompanhar em todos os momentos da sua vida.",
+            parcel: "5x de 19,40",
+            buy: "https://wa.link/4h5aq4"
         }
     ],
 };

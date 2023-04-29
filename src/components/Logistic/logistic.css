@@ -4,8 +4,8 @@
     border-bottom: 2px solid #000;
     height: 25vh;
     align-items: center;
-    justify-content: space-between;
-    padding: 0 13%;
+    justify-content: space-around;
+    
 }
 
 .container-logistic svg{
@@ -30,15 +30,14 @@
 
 @media screen and (width < 902px){
     .container-logistic{
-        padding: 0 5%;
         height: 12vh;
     }
     .container-logistic svg{
-        width: 1em;
-        height: 0.8em;
+        width: 1.2em;
+        height: 1em;
     }
     .info p{
-        font-size: 0.5em;
+        font-size: 0.7em;
     }
     .info p:nth-child(1){
         font-weight: normal;

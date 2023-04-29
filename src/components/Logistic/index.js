@@ -17,11 +17,6 @@ export default function Logistic () {
             <p>FRETE GRÁTIS <p>EM PEDIDOS ACIMA DE R$199,99</p> </p>
             </div>
 
-            <div className='info'>
-                <label><RiArrowGoBackLine/></label>
-            <p>DEVOLUÇÃO <p>EM ATÉ 30 DIAS</p> </p>
-            </div>
-
         </div>
     )
 }

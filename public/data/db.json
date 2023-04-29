@@ -293,6 +293,41 @@
             "title": "ANEL CORAÇÃO INFINITO",
             "price": "55,99",
             "priceNow": "41,99"
+        },
+        {
+            "id": 43,
+            "image": "../images/produtos/corrente-laminada.jpeg",
+            "title": "CORRENTE LAMINADA",
+            "price": "149,99",
+            "priceNow": "135,99"
+        },
+        {
+            "id": 44,
+            "image": "../images/produtos/pulseira-masc-20cm.jpeg",
+            "title": "PULSEIRA MASCULINA",
+            "price": "109,99",
+            "priceNow": "93,99"
+        },
+        {
+            "id": 45,
+            "image": "../images/produtos/pulseira-masc2.jpeg",
+            "title": "PULSEIRA MASCULINA",
+            "price": "94,99",
+            "priceNow": "81,99"
+        },
+        {
+            "id": 46,
+            "image": "../images/produtos/pulseira-masc3.jpeg",
+            "title": "PULSEIRA MASCULINA",
+            "price": "159,99",
+            "priceNow": "134,99"
+        },
+        {
+            "id": 47,
+            "image": "../images/produtos/pulseira-masc4.jpeg",
+            "title": "PULSEIRA MASCULINA",
+            "price": "109,99",
+            "priceNow": "96,99"
         }
     ]
 }
