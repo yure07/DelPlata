@@ -32,11 +32,12 @@ const data = {
             id: 3,
             name: "colar",
             image: require('../assets/produtos/colar-fe.jpeg'),
+            image2: require('../assets/produtos/colar-fe2.jpeg'),
             image3: require('../assets/tamanhos-colar.webp'),
             title: "COLAR PRATA FÉ",
             price: "89,99",
             priceNow: "79,99",
-            overview: "Colar Prata Fé. Aquela joia que vai te conquistar, um modelo simples e delicado. Um lembrete diário para carregar junto ao coração.",
+            overview: "Colar Prata Fé - 40cm. Aquela joia que vai te conquistar, um modelo simples e delicado. Um lembrete diário para carregar junto ao coração.",
             parcel: "5x de R$ 15,60",
             buy: "https://wa.link/lisc25"
         },

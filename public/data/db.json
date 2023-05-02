@@ -8,22 +8,15 @@
             "priceNow": "59,99"
         },
         {
-            "id": 2,
-            "image": "../images/produtos/colar-bolinha.jpeg",
-            "title": "COLAR BOLINHA",
-            "price": "99,99",
-            "priceNow": "80,99"
-        },
-        {
             "id": 3,
-            "image": "../images/produtos/colar-fe.jpeg",
+            "image": "../images/produtos/colar-fe2.jpeg",
             "title": "COLAR PRATA FÉ",
             "price": "89,99",
             "priceNow": "79,99"
         },
         {
             "id": 4,
-            "image": "../images/produtos/corrente-lua.jpeg",
+            "image": "../images/produtos/corrente-lua2.jpeg",
             "title": "CORRENTE LUA",
             "price": "139,99",
             "priceNow": "114,99"
