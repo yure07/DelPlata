@@ -148,13 +148,6 @@
             "priceNow": "64,99"
         },
         {
-            "id": 23,
-            "image": "../images/produtos/anel-coracao.jpeg",
-            "title": "ANEL CORAÇÃO",
-            "price": "99,99",
-            "priceNow": "79,99"
-        },
-        {
             "id": 24,
             "image": "../images/produtos/anel-quadrado.jpeg",
             "title": "ANEL QUADRADO",
@@ -321,6 +314,83 @@
             "title": "PULSEIRA MASCULINA",
             "price": "109,99",
             "priceNow": "96,99"
+        },
+        {
+            "id": 48,
+            "image": "../images/produtos/colar-gota.jpeg",
+            "title": "COLAR GOTA",
+            "price": "99,99",
+            "priceNow": "77,99"
+        },
+        {
+            "id": 49,
+            "image": "../images/produtos/colar-chave.jpeg",
+            "title": "COLAR CHAVE",
+            "price": "99,99",
+            "priceNow": "77,99"
+        },
+        {
+            "id": 50,
+            "image": "../images/produtos/colar-estrela.jpeg",
+            "title": "COLAR ESTRELA",
+            "price": "99,99",
+            "priceNow": "77,99"
+        },
+        {
+            "id": 51,
+            "image": "../images/produtos/choker-coracao.jpeg",
+            "title": "CHOKER CORAÇÃO",
+            "price": "99,99",
+            "priceNow": "77,99"
+        },
+        {
+            "id": 52,
+            "image": "../images/produtos/choker-olho-grego.jpeg",
+            "title": "CHOKER OLHO GREGO",
+            "price": "99,99",
+            "priceNow": "77,99"
+        },
+        {
+            "id": 53,
+            "image": "../images/produtos/anel-amor.jpeg",
+            "title": "ANEL AMOR",
+            "price": "69,99",
+            "priceNow": "48,99"
+        },
+        {
+            "id": 54,
+            "image": "../images/produtos/anel-pandora.jpeg",
+            "title": "ANEL PANDORA",
+            "price": "79,99",
+            "priceNow": "65,99"
+        },
+        {
+            "id": 55,
+            "image": "../images/produtos/anel-coracao-cravejado.jpeg",
+            "title": "ANEL CRAVEJADO",
+            "price": "109,99",
+            "priceNow": "91,99"
+        },
+        {
+            "id": 56,
+            "image": "../images/produtos/anel-pedra.jpeg",
+            "title": "ANEL LISO",
+            "price": "149,99",
+            "priceNow": "121,99"
+        },
+        {
+            "id": 57,
+            "image": "../images/produtos/anel-solitario.jpeg",
+            "title": "ANEL SOLITÁRIO",
+            "price": "59,99",
+            "priceNow": "49,99"
+        },
+        {
+            "id": 58,
+            "image": "../images/produtos/corrente-3-elo-1.jpeg",
+            "title": "CORRENTE MASCULINA",
+            "price": "229,99",
+            "priceNow": "189,99"
         }
     ]
 }
