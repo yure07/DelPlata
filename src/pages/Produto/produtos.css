@@ -153,6 +153,7 @@
         display: flex;
         font-size: 19px;
         justify-content: center;
+        text-align: center;
     }
     #title-pc{
         display: none;
@@ -160,7 +161,7 @@
     .carousel{
         width: 320px;
         height: 300px;
-        margin-bottom: 3em;
+        margin-bottom: 4em;
     }
     .btn{
         width: 320px;

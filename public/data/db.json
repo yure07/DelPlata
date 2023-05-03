@@ -391,6 +391,89 @@
             "title": "CORRENTE MASCULINA",
             "price": "229,99",
             "priceNow": "189,99"
+        },
+        {
+            "id": 59,
+            "image": "../images/produtos/pulseira-zirconia-pendurada.jpeg",
+            "title": "PULSEIRA ZIRCÔNIA COLORIDA",
+            "price": "69,99"
+        },
+        {
+            "id": 60,
+            "image": "../images/produtos/pulseira-zircônia-rosa.jpeg",
+            "title": "PULSEIRA ZIRCÔNIA ROSA",
+            "price": "74,99",
+            "priceNow": "64,99"
+        },
+        {
+            "id": 61,
+            "image": "../images/produtos/pulseira-zircônias-coloridas.jpeg",
+            "title": "PULSEIRA ZIRCÔNIA COLORIDA",
+            "price": "79,99",
+            "priceNow": "70,99"
+        },
+        {
+            "id": 62,
+            "image": "../images/produtos/pulseira-coracao.jpeg",
+            "title": "PULSEIRA CORAÇÃO",
+            "price": "89,99",
+            "priceNow": "79,99"
+        },
+        {
+            "id": 63,
+            "image": "../images/produtos/pulseira-zircônia-quadrada.jpeg",
+            "title": "PULSEIRA ZIRCÔNIA QUADRADA",
+            "price": "77,99",
+            "priceNow": "67,99"
+        },
+        {
+            "id": 64,
+            "image": "../images/produtos/pulseira-borboleta-colorida.jpeg",
+            "title": "PULSEIRA BORBOLETAS COLORIDAS",
+            "price": "83,99",
+            "priceNow": "73,99"
+        },
+        {
+            "id": 65,
+            "image": "../images/produtos/pulseira-olho-grego-redondo.jpeg",
+            "title": "PULSEIRA OLHO GREGO",
+            "price": "81,99",
+            "priceNow": "71,99"
+        },
+        {
+            "id": 66,
+            "image": "../images/produtos/pulseira-olho-grego-coração.jpeg",
+            "title": "PULSEIRA OLHO GREGO",
+            "price": "71,99",
+            "priceNow": "61,99"
+        },
+        {
+            "id": 67,
+            "image": "../images/produtos/pulseira-elo-vazado.jpeg",
+            "title": "PULSEIRA ELOS VAZADOS",
+            "price": "174,99",
+            "priceNow": "154,99"
+        },
+        {
+            "id": 68,
+            "image": "../images/produtos/pulseira-elos-coracao.jpeg",
+            "title": "PULSEIRA ELOS CORAÇÃO",
+            "price": "94,99",
+            "priceNow": "74,99"
+        },
+        {
+            "id": 69,
+            "image": "../images/produtos/pulseira-acabamento-envelhecido.jpeg",
+            "title": "PULSEIRA ACABAMENTO ENVELHECIDO",
+            "price": "77,99",
+            "priceNow": "67,99"
+        },
+        {
+            "id": 70,
+            "image": "../images/produtos/pulseira-retalhada.jpeg",
+            "title": "PULSEIRA RETALHADA",
+            "price": "129,99",
+            "priceNow": "109,99"
         }
     ]
 }
