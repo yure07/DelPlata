@@ -6,9 +6,7 @@
     width: 50vw;
     height: 25vw;
     display: flex;
-    background: url(../../assets/prata.jpg);
-    background-repeat: no-repeat;
-    object-fit: cover;
+    background: url(../../assets/prata.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -17,8 +15,6 @@
     height: 25vw;
     display: flex;
     background: url(../../assets/frase.png);
-    background-repeat: no-repeat;
-    object-fit: cover;
     background-size: cover;
     background-position: center;
 }
