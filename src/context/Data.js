@@ -1034,7 +1034,7 @@ const data = {
             id: 84,
             name: "infantil",
             image: require('../assets/produtos/pulsiera-infantil-ponto-de-luz.jpeg'),
-            image2: require('../assets/produtos/pulsiera-infantil-ponto-de-luz.jpeg'),
+            image2: require('../assets/produtos/pulsiera-infantil-ponto-de-luz2.jpeg'),
             image3: require('../assets/produtos/pulsiera-infantil-ponto-de-luz.jpeg'),
             title: "PULSEIRA INFANTIL",
             price: "59,99",
@@ -1042,6 +1042,19 @@ const data = {
             overview: "Pulseira Infantil Ponto de Luz Azul - 14.5cm. Uma pulseira infantil é um presente que pode marcar a infância de uma criança para sempre, é um acessório delicado e charmoso, que pode ser usado em diversas ocasiões especiais. Escolha agora uma pulseira infantil encantadora para presentear uma criança especial e tornar esse momento ainda mais inesquecível.",
             parcel: "5x de 8,20",
             buy: "https://wa.link/fjsw2n"
+        },
+        {
+            id: 85,
+            name: "infantil",
+            image: require('../assets/produtos/pulseira-infantil-ponto-vermelho.jpeg'),
+            image2: require('../assets/produtos/pulseira-infantil-ponto-vermelho2.jpeg'),
+            image3: require('../assets/produtos/pulseira-infantil-ponto-vermelho.jpeg'),
+            title: "PULSEIRA INFANTIL",
+            price: "49,99",
+            priceNow: "37,99",
+            overview: "Pulseira Infantil Ponto de Luz Vermelho - 13.5cm. As crianças adoram acessórios divertidos e coloridos, e uma pulseira infantil pode ser o presente perfeito para deixar o seu filho ou filha ainda mais feliz.  Adquira agora uma pulseira infantil de qualidade e faça o dia do seu filho ou filha ainda mais especial.",
+            parcel: "5x de 7,60",
+            buy: "https://wa.link/50x7kp"
         }
     ],
 };

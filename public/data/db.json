@@ -382,7 +382,8 @@
             "id": 59,
             "image": "../images/produtos/pulseira-zirconia-pendurada.jpeg",
             "title": "PULSEIRA ZIRCÔNIA COLORIDA",
-            "price": "69,99"
+            "price": "69,99",
+            "priceNow": "54,99"
         },
         {
             "id": 60,
@@ -558,6 +559,13 @@
             "title": "PULSEIRA INFANTIL",
             "price": "59,99",
             "priceNow": "40,99"
+        },
+        {
+            "id": 85,
+            "image": "../images/produtos/pulseira-infantil-ponto-vermelho.jpeg",
+            "title": "PULSEIRA INFANTIL",
+            "price": "49,99",
+            "priceNow": "37,99"
         }
     ]
 }
