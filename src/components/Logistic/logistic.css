@@ -33,11 +33,12 @@
         height: 12vh;
     }
     .container-logistic svg{
-        width: 1.2em;
+        width: 1em;
         height: 1em;
+        margin-right: 10px;
     }
     .info p{
-        font-size: 0.7em;
+        font-size: 0.5em;
     }
     .info p:nth-child(1){
         font-weight: normal;

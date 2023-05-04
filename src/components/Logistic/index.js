@@ -1,6 +1,5 @@
 import './logistic.css'
-import {BsCreditCard, BsBox} from 'react-icons/bs/index.esm.js'
-import {RiArrowGoBackLine} from 'react-icons/ri/index.esm.js'
+import {BsCreditCard, BsBox, BsFillSendFill} from 'react-icons/bs/index.esm.js'
 
 export default function Logistic () {
 
@@ -14,7 +13,12 @@ export default function Logistic () {
 
             <div className='info'>
                 <label><BsBox/></label>
-            <p>FRETE GRÁTIS <p>EM PEDIDOS ACIMA DE R$199,99</p> </p>
+            <p>FRETE GRÁTIS <p>PEDIDOS ACIMA DE R$199,99</p> </p>
+            </div>
+
+            <div className='info'>
+                <label><BsFillSendFill/></label>
+            <p>ENTREGAMOS <p>EM TODO BRASIL</p> </p>
             </div>
 
         </div>
