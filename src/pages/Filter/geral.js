@@ -24,7 +24,7 @@ export default function Geral (){
                             <div className='image-product' style={ {backgroundImage: `url(${produto.image})` } }></div>
                             <strong>{produto.title}</strong>
                             <p>R$ {produto.price}</p>
-                            <p>R$ {produto.priceNow}</p>
+                            <p>{produto.priceNow}</p>
                         </Link>
                     </div>
                     )

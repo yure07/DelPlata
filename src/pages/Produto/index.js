@@ -80,12 +80,16 @@ export default function Produto () {
                     <div className='silver'>Prata 925</div>
 
                     <p>R$ {details.price}</p>
-                    <p>R$ {details.priceNow}</p>
+                    <p> {details.priceNow}</p>
                     <p>ou em até <b>{details.parcel}</b> </p>
                     
+                    {details.priceNow === 'ESGOTADO' ? 
+                    <button className='product-off'>ESGOTADO</button>
+                    : 
                     <a href={details.buy} target="_blank">
                     <button className='buy-product'>Comprar</button>
                     </a>
+                }
 
                 </div>
             </div>

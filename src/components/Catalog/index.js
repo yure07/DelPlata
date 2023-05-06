@@ -30,7 +30,7 @@ export default function Catalog () {
                         <div className='image-product' style={ {backgroundImage: `url(${item.image})` } }></div>
                         <strong>{item.title}</strong>
                         <p>R$ {item.price}</p>
-                        <p>R$ {item.priceNow}</p>
+                        <p>{item.priceNow}</p>
                     </Link>
                 </div>
                 )

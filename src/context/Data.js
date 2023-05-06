@@ -11,7 +11,7 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "CHOKER PONTO DE LUZ",
             price: "79,99",
-            priceNow: "59,99",
+            priceNow: "R$ 59,99",
             overview: "Choker Ponto de Luz 40cm. Um colar com um design exclusivo e com cada detalhe pensado para completar e trazer mais beleza ao estilo de cada mulher.",
             parcel: "5x de R$ 11,99",
             buy: "https://wa.link/f4z9yt"
@@ -24,7 +24,7 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "COLAR PRATA FÉ",
             price: "89,99",
-            priceNow: "79,99",
+            priceNow: "R$ 79,99",
             overview: "Colar Prata Fé - 40cm. Aquela joia que vai te conquistar, um modelo simples e delicado. Um lembrete diário para carregar junto ao coração.",
             parcel: "5x de R$ 15,60",
             buy: "https://wa.link/lisc25"
@@ -37,7 +37,7 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "CORRENTE LUA",
             price: "139,99",
-            priceNow: "114,99",
+            priceNow: "R$ 114,99",
             overview: "Corrente Pingente de Lua 45cm. Uma joia que lembra o céu, o lugar mais lindo e misterioso que temos, essa prata com certeza irá lhe admirar.",
             parcel: "5x de R$ 22,99",
             buy: "https://wa.link/haue93"
@@ -50,7 +50,7 @@ const data = {
             image3: require('../assets/produtos/argola.jpeg'),
             title: "ARGOLA MEIA CANA",
             price: "69,99",
-            priceNow: "55,99",
+            priceNow: "R$ 55,99",
             overview: "Argola Meia Cana Grossa 2cm. O brinco de argola em prata é uma peça queridinha e indispensável no porta-joias.",
             parcel: "5x de 11,20",
             buy: "https://wa.link/z6i5rv"
@@ -63,7 +63,7 @@ const data = {
             image3: require('../assets/produtos/piercing.jpeg'),
             title: "PIERCING PALITO",
             price: "99,99",
-            priceNow: "85,99",
+            priceNow: "R$ 85,99",
             overview: "Piercing Palito Com Estrela. Perfeito para quem gosta de looks ousados e modernos. Design minimalista perfeito para montar diversas combinações incríveis, inspire-se e surpreenda-se",
             parcel: "5x de 17,20",
             buy: "https://wa.link/niwkzq"
@@ -76,7 +76,7 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "CORRENTE MASCULINA 70CM",
             price: "159,99",
-            priceNow: "139,99",
+            priceNow: "R$ 139,99",
             overview: "Corrente Masculina 70cm. Os colares de corrente transformam qualquer visual básico, deixando você super estiloso e com presença.",
             parcel: "5x de 27,99",
             buy: "https://wa.link/dffqji"
@@ -89,7 +89,7 @@ const data = {
             image3: require('../assets/produtos/anel-liso.jpeg'),
             title: "ANEL TRIÂNGULO LISO",
             price: "49,99",
-            priceNow: "38,99",
+            priceNow: "R$ 38,99",
             overview: "Anel de Prata Triângulo Liso 14cm. Com um design liso e simples, o anel se encaixa perfeitamente em qualquer look e ocasião.",
             parcel: "5x de 7,80",
             buy: "https://wa.link/ff6lqk"
@@ -102,7 +102,7 @@ const data = {
             image3: require('../assets/produtos/brinco-ponto.jpeg'),
             title: "BRINCO PONTO DE LUZ",
             price: "59,99",
-            priceNow: "46,50",
+            priceNow: "R$ 46,50",
             overview: "Brinco Ponto de Luz Quadrado 9x9. Com certeza esse será o brinco favorito da sua coleção, se encaixa a qualquer ambiente, dia a dia, festas, trabalho(leve, básico e confortável",
             parcel: "5x de 9,30",
             buy: "https://wa.link/e7p04t" 
@@ -115,7 +115,7 @@ const data = {
             image3: require('../assets/produtos/brinco-trio-coracao.jpeg'),
             title: "BRINCO TRIO CORAÇÃO",
             price: "75,99",
-            priceNow: "62,99",
+            priceNow: "R$ 62,99",
             overview: "Brinco Trio Coração Zircônia. Com tamanhos em 4mm / 6mm / 8mm. O brinco é o toque final que ilumina o meu estilo, um detalhe que não pode faltar no seu look.",
             parcel: "5x de 12,60",
             buy: "https://wa.link/32uugj"
@@ -128,7 +128,7 @@ const data = {
             image3: require('../assets/produtos/brinco-trio-cor.jpeg'),
             title: "BRINCO TRIO COLORIDO",
             price: "59,99",
-            priceNow: "46,99",
+            priceNow: "R$ 46,99",
             overview: "Brinco Trio Corações Colorido. Com tamanho de 4mm. Brilhe com confiança, use um brinco como uma coroa de estilo!, se tem um brinco que que te surpreenderá em belza, com certeza é esse.",
             parcel: "5x de 9,40",
             buy: "https://wa.link/hobdlw"
@@ -141,7 +141,7 @@ const data = {
             image3: require('../assets/produtos/brinco-trio-rosa.jpeg'),
             title: "BRINCO TRIO ROSA",
             price: "59,99",
-            priceNow: "49,99",
+            priceNow: "R$ 49,99",
             overview: "Brinco Trio Corações Zircônias Coloridos Com tamanhos - 4mm / 5mm / 6mm. Um brinco pode transformar não apenas a sua aparência, mas também a sua confiança e atitude.",
             parcel: "5x de 9,99",
             buy: "https://wa.link/azhnzs"
@@ -154,7 +154,7 @@ const data = {
             image3: require('../assets/produtos/brinco-duplinha.jpeg'),
             title: "BRINCO DUPLO PONTO DE LUZ",
             price: "64,99",
-            priceNow: "49,99",
+            priceNow: "R$ 49,99",
             overview: "Brinco Duplinha Ponto de Luz. Com tamanhos em 6mm. O brinco certo pode fazer toda a diferença no seu visual, adicionando elegância, brilho e um toque de personalidade que é só seu. Não espere mais para elevar o seu look com um lindo par de brincos.",
             parcel: "5x de 9,99",
             buy: "https://wa.link/u5gcap"
@@ -167,7 +167,7 @@ const data = {
             image3: require('../assets/produtos/argola-lisa.jpeg'),
             title: "ARGOLA LISA",
             price: "149,99",
-            priceNow: "126,99",
+            priceNow: "R$ 126,99",
             overview: "Argola Lisa 55mm. Uma argola é mais do que uma joia, é uma declaração de estilo e uma expressão de personalidade.",
             parcel: "5x de 25,40",
             buy: "https://wa.link/q7sye3"
@@ -180,7 +180,7 @@ const data = {
             image3: require('../assets/produtos/brinco-luz-coracao.jpeg'),
             title: "BRINCO CORAÇÃO",
             price: "44,99",
-            priceNow: "33,99",
+            priceNow: "R$ 33,99",
             overview: "Brinco Ponto de Luz Coração. O brinco é o toque de estilo que completa o seu visual, essa joia não pode ficar de fora da sua coleção.",
             parcel: "5x de 6,80",
             buy: "https://wa.link/4h86xt"
@@ -193,7 +193,7 @@ const data = {
             image3: require('../assets/produtos/anel-4-fio.jpeg'),
             title: "ANEL 4 FIOS",
             price: "149,99",
-            priceNow: "123,99",
+            priceNow: "R$ 123,99",
             overview: "Anel 4 Fios 3 Zircônias Coloridas, com tamanho de 16cm. Um anel é o símbolo do seu poder interior e da sua elegância exterior.",
             parcel: "5x de 24,80",
             buy: "https://wa.link/b7tvuf"
@@ -206,7 +206,7 @@ const data = {
             image3: require('../assets/produtos/anel-dois-coracoes.jpeg'),
             title: "ANEL DOIS CORAÇÕES",
             price: "119,99",
-            priceNow: "104,99",
+            priceNow: "R$ 104,99",
             overview: "Anel Dois Corações Entrelaçados, com tamanhode 16cm. Seu anel é o símbolo do seu poder e elegância, uma joia que brilha com a sua personalidade.",
             parcel: "5x de 20,99",
             buy: "https://wa.link/en2wdk"
@@ -219,7 +219,7 @@ const data = {
             image3: require('../assets/produtos/anel-infinito.jpeg'),
             title: "ANEL INFINITO",
             price: "59,99",
-            priceNow: "43,99",
+            priceNow: "R$ 43,99",
             overview: "Anel Infinito - 16cm. O anel é a joia que marca seu compromisso com o amor, uma promessa eterna gravada em metal precioso.",
             parcel: "5x de 8,80",
             buy: "https://wa.link/stz98z"
@@ -232,7 +232,7 @@ const data = {
             image3: require('../assets/produtos/berloque-tabua.jpeg'),
             title: "BERLOQUE TÁBUA",
             price: "69,99",
-            priceNow: "56,99",
+            priceNow: "R$ 56,99",
             overview: "Berloque Tábua com Faca. Pequenos detalhes, grandes lembranças, adquira berloques e eternize momentos!",
             parcel: "5x de 11,40",
             buy: "https://wa.link/2usxeu"
@@ -245,7 +245,7 @@ const data = {
             image3: require('../assets/produtos/berloque-pedras.jpeg'),
             title: "BERLOQUE PEDRA CLARA",
             price: "75,99",
-            priceNow: "64,99",
+            priceNow: "R$ 64,99",
             overview: "Berloque com Pedra Clara. Os berloques são como pequenos tesouros que contam a história da sua vida, eternize cada momento com um!",
             parcel: "5x de 12,99",
             buy: "https://wa.link/ec69ud"
@@ -258,7 +258,7 @@ const data = {
             image3: require('../assets/produtos/berloque-pedras.jpeg'),
             title: "BERLOQUE PEDRA COLORIDA",
             price: "75,99",
-            priceNow: "64,99",
+            priceNow: "R$ 64,99",
             overview: "Berloque com Pedra Colorida. Pequenos detalhes, grandes histórias. Complete sua pulseira com nossos encantadores berloques.",
             parcel: "5x de 12,99",
             buy: "https://wa.link/m0o1wg"
@@ -271,7 +271,7 @@ const data = {
             image3: require('../assets/produtos/anel-quadrado.jpeg'),
             title: "ANEL QUADRADO",
             price: "81,99",
-            priceNow: "61,99",
+            priceNow: "R$ 61,99",
             overview: "Anel Quadrado - 16cm. O seu anel não é apenas uma joia, é uma extensão da sua história, um tesouro que carrega consigo em todos os momentos.",
             parcel: "5x de 12,40",
             buy: "https://wa.link/y6l80v"
@@ -284,7 +284,7 @@ const data = {
             image3: require('../assets/produtos/anel-v.jpeg'),
             title: "ANEL V",
             price: "64,99",
-            priceNow: "51,99",
+            priceNow: "R$ 51,99",
             overview: "Anel V com Bolinhas - 19cm. O seu anel é uma expressão de amor próprio e confiança, uma joia que ilumina sua jornada.",
             parcel: "5x de 10,40",
             buy: "https://wa.link/835yne"
@@ -297,7 +297,7 @@ const data = {
             image3: require('../assets/produtos/infantil1.jpeg'),
             title: "PULSEIRA INFANTIL",
             price: "59,99",
-            priceNow: "40,99",
+            priceNow: "R$ 40,99",
             overview: "Pulseira Feminina Infantil 1,1GR. Uma pulseira é um tesouro que carrega as memórias mais doces da infância, uma joia que acompanha as aventuras de quem mais amamos.",
             parcel: "5x de 8,20",
             buy: "https://wa.link/hdvwrq"
@@ -310,7 +310,7 @@ const data = {
             image3: require('../assets/produtos/anel-5-coracoes.jpeg'),
             title: "ANEL 5 CORAÇÕES",
             price: "59,99",
-            priceNow: "44,99",
+            priceNow: "R$ 44,99",
             overview: "Anel 5 Corações Lisos - 16cm. Um anel é mais do que uma simples joia, é uma história de amor, um compromisso com a beleza e uma celebração da vida.",
             parcel: "5x de 8,99",
             buy: "https://wa.link/6jrkrj"
@@ -323,7 +323,7 @@ const data = {
             image3: require('../assets/produtos/anel-no2.jpeg'),
             title: "ANEL LISO NÓ",
             price: "79,99",
-            priceNow: "67,99",
+            priceNow: "R$ 67,99",
             overview: "Anel Liso Nó - 16cm. Um anel é um círculo de amor que envolve nosso coração, uma joia que simboliza nossas conexões mais preciosas, esse é um anel que não pode faltar em sua coleção.",
             parcel: "5x de 13,60",
             buy: "https://wa.link/bpsojz"
@@ -336,7 +336,7 @@ const data = {
             image3: require('../assets/produtos/anel-torcido2.jpeg'),
             title: "ANEL TORCIDO",
             price: "74,99",
-            priceNow: "58,99",
+            priceNow: "R$ 58,99",
             overview: "Anel Torcido - 16cm. Com um anel, não apenas adornamos nossos dedos, mas também celebramos nossa individualidade e expressamos nossa personalidade de forma única e elegante, com certeza esse anel é a sua cara.",
             parcel: "5x de 11,80",
             buy: "https://wa.link/evulx0"
@@ -349,7 +349,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-bolinhas2.jpeg'),
             title: "PULSEIRA FEMININA",
             price: "89,99",
-            priceNow: "73,99",
+            priceNow: "R$ 73,99",
             overview: "Pulseira Feminina de Bolinhas - 17 a 20cm. Sua pulseira é mais do que um acessório, é uma extensão da sua personalidade, uma peça que conta a nossa história e acompanha os momentos mais especiais da vida. Aproveite seus momentos com DelPlata.",
             parcel: "5x de 14,80",
             buy: "https://wa.link/43hb2n"
@@ -362,7 +362,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-bolas2.jpeg'),
             title: "PULSEIRA FEMININA",
             price: "129,99",
-            priceNow: "118,99",
+            priceNow: "R$ 118,99",
             overview: "Pulseira Feminina de Bolas - 17,5 a 21,5cm. Uma pulseira é a escolha perfeita para quem quer adicionar um toque de estilo e sofisticação a qualquer look, enquanto carrega consigo um símbolo de história e significado. Simbolize sua história com um produto DelPlata.",
             parcel: "5x de 23,80",
             buy: "https://wa.link/ge3e98"
@@ -375,7 +375,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-olho-grego2.jpeg'),
             title: "PULSEIRA OLHO GREGO",
             price: "69,99",
-            priceNow: "51,99",
+            priceNow: "R$ 51,99",
             overview: "Pulseira Olho Grego - 18cm. Com a pulseira de olho grego, você se sente protegido e envolvido por energias positivas, pronto para enfrentar qualquer desafio com confiança.",
             parcel: "5x de 10,40",
             buy: "https://wa.link/s1nuog"
@@ -388,7 +388,7 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "CORRENTE MASCULINA 60CM",
             price: "139,99",
-            priceNow: "115,99",
+            priceNow: "R$ 115,99",
             overview: "Corrente Masculina 60cm 4GR. Uma corrente pode ser mais do que um acessório de moda, pode ser uma peça de valor duradouro que acrescenta um toque de elegância e sofisticação a qualquer visual. Compre uma corrente de alta qualidade hoje e você poderá desfrutar dela por anos.",
             parcel: "5x de 23,50",
             buy: "https://wa.link/izyk53" 
@@ -401,7 +401,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-3-flores2.jpeg'),
             title: "PULSEIRA 3 FLORES",
             price: "89,99",
-            priceNow: "70,99",
+            priceNow: "R$ 70,99",
             overview: "Pulseira 3 Flores - 20cm. Uma pulseira pode ser o toque final perfeito para qualquer look, seja casual ou formal. Compre uma pulseira que reflita sua personalidade e estilo, e você terá uma peça única que pode ser apreciada por anos.",
             parcel: "5s de 14,20",
             buy: "https://wa.link/1bg4z2"
@@ -414,7 +414,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-folha2.jpeg'),
             title: "PULSEIRA FOLHA",
             price: "69,99",
-            priceNow: "53,99",
+            priceNow: "R$ 53,99",
             overview: "Pulseira Folha - 18.5cm. Uma pulseira pode ser o detalhe que faltava para complementar o seu look e torná-lo ainda mais elegante e sofisticado. Invista em uma pulseira de qualidade e tenha a certeza de estar adicionando um toque de charme e estilo ao seu visual.",
             parcel: "5x de 10,80",
             buy: "https://wa.link/h1hle9"
@@ -427,7 +427,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-borboleta2.jpeg'),
             title: "PULSEIRA BORBOLETA",
             price: "67,99",
-            priceNow: "54,99",
+            priceNow: "R$ 54,99",
             overview: "Pulseira Borboleta - 18.5cm. Uma pulseira é mais do que um simples acessório - ela pode ser uma maneira de expressar sua personalidade e estilo. Além disso, uma pulseira bem escolhida pode ser um presente perfeito para alguém especial em sua vida.",
             parcel: "5x de 11,20",
             buy: "https://wa.link/egsd73"
@@ -440,7 +440,7 @@ const data = {
             image3: require('../assets/produtos/anel-estrela2.jpeg'),
             title: "ANEL ESTRELA",
             price: "49,99",
-            priceNow: "35,99",
+            priceNow: "R$ 35,99",
             overview: "Anel Estrela Lisa - 16cm. Um anel é mais do que uma joia, é uma lembrança dos momentos especiais que carrega com si mesma. Invista em um anel de alta qualidade e duradouro, e você estará criando um tesouro para toda a vida.",
             parcel: "5x de 7,50",
             buy: "https://wa.link/8l8w3e"
@@ -453,7 +453,7 @@ const data = {
             image3: require('../assets/produtos/anel-seta2.jpeg'),
             title: "ANEL SETA",
             price: "59,99",
-            priceNow: "41,99",
+            priceNow: "R$ 41,99",
             overview: "Anel Seta de Lado - 17cm. O anel seta é uma escolha elegante e sofisticada que adiciona um toque de brilho sutil às suas mãos. Além disso, sua durabilidade e resistência a manchas garantem que você possa apreciar seu brilho impecável por muitos anos.",
             parcel: "5x de 8,40",
             buy: "https://wa.link/cfg1w2"
@@ -466,7 +466,7 @@ const data = {
             image3: require('../assets/produtos/anel-coracao-vazado2.jpeg'),
             title: "ANEL CORAÇÃO VAZADO",
             price: "89,99",
-            priceNow: "71,99",
+            priceNow: "R$ 71,99",
             overview: "Anel de Prata, Coração Vazado - 16cm. O anel coração vazado é uma escolha elegante e sofisticada para quem procura uma peça de joalheria durável e atemporal, com a sua elegância, ele pode ser usado em qualquer ocasião, adicionando aquele toque final no look.",
             parcel: "5x de 14,40",
             buy: "https://wa.link/vn4t97"
@@ -479,7 +479,7 @@ const data = {
             image3: require('../assets/produtos/anel-coracao-liso2.jpeg'),
             title: "ANEL TORCIDO CORAÇÃO",
             price: "79,99",
-            priceNow: "56,99",
+            priceNow: "R$ 56,99",
             overview: "Anel de Prata com Aro Torcido e Coração Liso - 16cm. O anel coração é elegante, sofisticado e atemporal. Sua beleza discreta e durabilidade tornam-no uma escolha clássica e versátil para qualquer ocasião.",
             parcel: "5x de 11,40",
             buy: "https://wa.link/vn4t97"
@@ -492,7 +492,7 @@ const data = {
             image3: require('../assets/produtos/anel-love2.jpeg'),
             title: "ANEL LOVE",
             price: "59,99",
-            priceNow: "45,99",
+            priceNow: "R$ 45,99",
             overview: "Anel Love - 19cm. Com seu brilho único e acabamento impecável, o anel Love acrescenta um toque de classe e distinção a qualquer ocasião. Além disso, sua durabilidade e resistência o tornam uma escolha prática e acessível para quem procura um acessório de alta qualidade.",
             parcel: "5x de 9,20",
             buy: "https://wa.link/ztlxca"
@@ -505,7 +505,7 @@ const data = {
             image3: require('../assets/produtos/anel-coracao-infinito2.jpeg'),
             title: "ANEL CORAÇÃO INFINITO",
             price: "55,99",
-            priceNow: "41,99",
+            priceNow: "R$ 41,99",
             overview: "Anel Coração Infinito - 16 e 19cm. O anel Coração Infinito é uma escolha elegante e sofisticada para quem procura uma joia versátil e atemporal. Além disso, o anel pode ser facilmente combinado com outras peças de joalheria, tornando-o um item indispensável para qualquer guarda-roupa.",
             parcel: "5x de 8,40",
             buy: "https://wa.link/vww0u9"
@@ -518,7 +518,7 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "CORRENTE LAMINADA",
             price: "149,99",
-            priceNow: "135,99",
+            priceNow: "R$ 135,99",
             overview: "Corrente Laminada - 45cm. Uma corrente é mais do que um acessório, é uma expressão da sua personalidade e estilo. É a forma perfeita de realçar a sua beleza e marcar presença por onde passa. Marque presença usando Del Plata.",
             parcel: "5x de 27,20",
             buy: "https://wa.link/t2i6xm"
@@ -531,7 +531,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-masc-20cm.jpeg'),
             title: "PULSEIRA MASCULINA",
             price: "109,99",
-            priceNow: "93,99",
+            priceNow: "R$ 93,99",
             overview: "Pulseira Masculina - 20cm. - 3,2GR. Uma pulseira é mais do que um simples adorno, é um símbolo de elegância, sofisticação e personalidade. Invista em uma pulseira de qualidade e eleve o seu estilo a um novo patamar.",
             parcel: "5x de 18,80",
             buy: "https://wa.link/job6ys"
@@ -544,7 +544,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-masc2.jpeg'),
             title: "PULSEIRA MASCULINA",
             price: "94,99",
-            priceNow: "81,99",
+            priceNow: "R$ 81,99",
             overview: "Pulseira Masculina - 20cm. Um acessório que complementa o seu visual, tornando-o ainda mais charmoso e marcante. Seja para ocasiões formais ou informais, a pulseira certa é o toque final para um look perfeito",
             parcel: "5x de 16,40",
             buy: "https://wa.link/yleyb0"
@@ -557,7 +557,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-masc3.jpeg'),
             title: "PULSEIRA MASCULINA",
             price: "159,99",
-            priceNow: "134,99",
+            priceNow: "R$ 134,99",
             overview: "Pulseira Masculina - 21cm. Uma pulseira é mais do que um simples adorno, é uma peça que carrega consigo sentimentos e memórias que te acompanharão para sempre. Carregue a sua história com a Del Plata",
             parcel: "5x de 27,00",
             buy: "https://wa.link/9p10d3"
@@ -570,7 +570,7 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "COLAR GOTA",
             price: "99,99",
-            priceNow: "77,99",
+            priceNow: "R$ 77,99",
             overview: "Colar Gota - 45cm. Este colar é mais do que uma simples peça de joalharia, é uma declaração de elegância e sofisticação. Não perca a chance de adicionar um toque de luxo ao seu guarda-roupa com este colar deslumbrante.",
             parcel: "5x de 15,60",
             buy: "https://wa.link/n11knf"
@@ -583,7 +583,7 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "COLAR CHAVE",
             price: "99,99",
-            priceNow: "77,99",
+            priceNow: "R$ 77,99",
             overview: "Colar Chave - 45cm. Este colar é a escolha perfeita para adicionar um toque de elegância ao seu visual. Com seu design único e sofisticado, você certamente se destacará em qualquer ocasião.",
             parcel: "5x de 15,60",
             buy: "https://wa.link/ok6h5o"
@@ -596,7 +596,7 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "COLAR ESTRELA",
             price: "99,99",
-            priceNow: "77,99",
+            priceNow: "R$ 77,99",
             overview: "Colar Estrela - 45cm. A qualidade excepcional deste colar garante que ele durará por muitos anos, tornando-o um investimento valioso para o seu guarda-roupa. Não perca a oportunidade de adquirir este belo acessório e elevar seu estilo a um novo patamar.",
             parcel: "5x de 15,60",
             buy: "https://wa.link/8fou7x"   
@@ -604,15 +604,15 @@ const data = {
         {
             id: 51,
             name: "colar",
-            image: require('../assets/produtos/conjunto-ponto-de-luz.jpeg'),
-            image2: require('../assets/produtos/conjunto-ponto-de-luz2.jpeg'),
+            image: require('../assets/produtos/choker-coracao.jpeg'),
+            image2: require('../assets/produtos/choker-coracao2.jpeg'),
             image3: require('../assets/tamanhos-colar.webp'),
-            title: "CONJUNTO PONTO DE LUZ",
-            price: "109,99",
-            priceNow: "93,99",
-            overview: "Conjunto Ponto de Luz - 40cm. Complemente o seu look com elegância e sofisticação com este conjunto deslumbrante. Feito com materiais de alta qualidade e com um design exclusivo, este conjunto certamente irá chamar a atenção e realçar a sua beleza natural.",
-            parcel: "5x de 18,80",
-            buy: "https://wa.link/lljdmr"
+            title: "CHOKER CORAÇÃO",
+            price: "99,99",
+            priceNow: "ESGOTADO",
+            overview: "Choker Coração Lado Zircônia - 40cm. Este colar é a escolha perfeita para quem deseja adicionar um toque de elegância e sofisticação ao seu visual. Ele certamente chamará a atenção de todos ao seu redor.",
+            parcel: "5x de 15,60",
+            buy: "https://wa.link/gf3ofv"
         },
         {
             id: 52,
@@ -622,7 +622,7 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "CHOKER OLHO GREGO",
             price: "99,99",
-            priceNow: "77,99",
+            priceNow: "R$ 77,99",
             overview: "Choker Olho Grego Zircônia - 40cm. A escolha perfeita seja para uma ocasião especial ou para o dia a dia, este colar é a peça ideal para complementar o seu estilo único e fazer você se sentir ainda mais bonita e confiante.",
             parcel: "5x de 15,60",
             buy: "https://wa.link/hrgfro"
@@ -635,7 +635,7 @@ const data = {
             image3: require('../assets/produtos/anel-amor.jpeg'),
             title: "ANEL AMOR",
             price: "69,99",
-            priceNow: "48,99",
+            priceNow: "R$ 48,99",
             overview: "Anel Amor - 17cm. Este anel é mais do que uma simples joia, é uma expressão de amor, comprometimento e elegância. Não perca a chance de ter essa joia deslumbrante em sua coleção e desfrute da sensação de ter algo realmente especial e significativo em sua vida.",
             parcel: "5x de 9,80",
             buy: "https://wa.link/t3cqq1"
@@ -648,7 +648,7 @@ const data = {
             image3: require('../assets/produtos/anel-pandora2.jpeg'),
             title: "ANEL PANDORA",
             price: "79,99",
-            priceNow: "65,99",
+            priceNow: "R$ 65,99",
             overview: "Anel Pandora - 19cm. Feito com materiais de alta qualidade e design clean, ele simboliza a beleza da simplicidade e a sofisticação do minimalismo. Seja para uma ocasião especial ou para uso diário, este anel é uma escolha perfeita.",
             parcel: "5x de 13,20",
             buy: "https://wa.link/uyb0do"
@@ -661,7 +661,7 @@ const data = {
             image3: require('../assets/produtos/anel-coracao-cravejado.jpeg'),
             title: "ANEL CRAVEJADO",
             price: "109,99",
-            priceNow: "91,99",
+            priceNow: "R$ 91,99",
             overview: "Anel Coração Vazado Cravejado - 16cm. Ao colocar este anel em seu dedo, você estará mostrando ao mundo o seu bom gosto e sua personalidade única. Não perca a oportunidade de adquirir esta joia exclusiva e adicionar um toque de glamour ao seu visual.",
             parcel: "5x de 18,40",
             buy: "https://wa.link/s2vbez"
@@ -674,7 +674,7 @@ const data = {
             image3: require('../assets/produtos/anel-pedra2.jpeg'),
             title: "ANEL LISO",
             price: "149,99",
-            priceNow: "121,99",
+            priceNow: "R$ 121,99",
             overview: "Anel Liso com Pedra Coração Embutido - 19cm. Com um design incrivelmente elegante e uma qualidade excepcional, este anel é uma verdadeira obra de arte em forma de joia. Sua beleza atemporal vai iluminar qualquer look e torná-lo ainda mais especial.",
             parcel: "5x de 24,40",
             buy: "https://wa.link/1e3xyv"
@@ -687,7 +687,7 @@ const data = {
             image3: require('../assets/produtos/anel-solitario2.jpeg'),
             title: "ANEL SOLITÁRIO",
             price: "59,99",
-            priceNow: "49,99",
+            priceNow: "R$ 49,99",
             overview: "Anel Solitário - 14, 16, 17 e 19cm disponíveis. Não importa se é para uma ocasião especial ou para usar no dia a dia, este anel será um complemento perfeito para qualquer outfit. Não perca a chance de ter essa peça excepcional em sua coleção de joias e faça uma escolha que você irá valorizar por muitos anos.",
             parcel: "5x de 9,99",
             buy: "https://wa.link/jri6tc"
@@ -700,7 +700,7 @@ const data = {
             image3: require('../assets/produtos/corrente-3-elo-1.jpeg'),
             title: "CORRENTE MASCULINA",
             price: "229,99",
-            priceNow: "189,99",
+            priceNow: "R$ 189,99",
             overview: "Corrente Elo 3 por 1 - 70cm. Com um brilho radiante que nunca perde seu charme, uma corrente de prata é o complemento perfeito para qualquer roupa ou ocasião. Seja para uma ocasião especial ou para uso diário, essa peça de qualidade irá acompanhar você por muitos anos.",
             parcel: "5x de 37,99",
             buy: "https://wa.link/sr2a6k"
@@ -713,7 +713,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-zirconia-pendurada2.jpeg'),
             title: "PULSEIRA ZIRCÔNIA COLORIDA",
             price: "69,99",
-            priceNow: "54,99",
+            priceNow: "R$ 54,99",
             overview: "Pulseira Zircônia Coloridas Penduradas - 18cm. A pulseira que você está procurando para dar um toque especial ao seu estilo está aqui. Esta pulseira é perfeita para completar seu look em qualquer ocasião.",
             parcel: "5x de 10,99",
             buy: "https://wa.link/qnanht"
@@ -726,7 +726,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-zircônia-rosa2.jpeg'),
             title: "PULSEIRA ZIRCÔNIA ROSA",
             price: "74,99",
-            priceNow: "64,99",
+            priceNow: "R$ 64,99",
             overview: "Pulseira Zircônia Rosa - 18cm. Com sua beleza e sofisticação, você não vai querer tirá-la do pulso e com certeza vai receber elogios por onde passar. Não perca a chance de ter essa joia incrível em sua coleção e sinta-se ainda mais especial e bela com a sua nova pulseira.",
             parcel: "5x de 12,99",
             buy: "https://wa.link/md1d54"
@@ -739,7 +739,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-zircônias-coloridas2.jpeg'),
             title: "PULSEIRA ZIRCÔNIA COLORIDA",
             price: "79,99",
-            priceNow: "70,99",
+            priceNow: "R$ 70,99",
             overview: "Pulseira Zircônia Colorida - 18cm. Complemente seu estilo com a elegância e sofisticação de uma pulseira única, que irá destacar sua personalidade e tornar cada momento ainda mais especial.",
             parcel: "5x de 14,50",
             buy: "https://wa.link/j20uz0"
@@ -752,7 +752,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-coracao2.jpeg'),
             title: "PULSEIRA CORAÇÃO",
             price: "89,99",
-            priceNow: "79,99",
+            priceNow: "R$ 79,99",
             overview: "Pulseira Coração com Zircônia Vermelha - 18cm. Adicione um toque de elegância e estilo ao seu visual com esta deslumbrante pulseira. Com seu design único e detalhes delicados, ela é a escolha perfeita para complementar qualquer roupa e fazer você se sentir confiante e sofisticada em qualquer ocasião.",
             parcel: "5x de 15,99",
             buy: "https://wa.link/h3hki8"
@@ -765,7 +765,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-zircônia-quadrada.jpeg'),
             title: "PULSEIRA ZIRCÔNIA QUADRADA",
             price: "77,99",
-            priceNow: "67,99",
+            priceNow: "R$ 67,99",
             overview: "Pulseira Colorida com Zircônia Quadrada - 18cm. Realce sua beleza e elegância com a pulseira perfeita. Combinando estilo e sofisticação, essa pulseira vai te encantar e tornar seus looks ainda mais incríveis. Adquira agora mesmo e sinta-se ainda mais confiante e deslumbrante em qualquer ocasião.",
             parcel: "5x de 13,60",
             buy: "https://wa.link/oqfvwj"
@@ -778,7 +778,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-borboleta-colorida2.jpeg'),
             title: "PULSEIRA BORBOLETAS COLORIDAS",
             price: "83,99",
-            priceNow: "73,99",
+            priceNow: "R$ 73,99",
             overview: "Pulseira Zircônia com Borboletas Coloridas - 18cm. Eleve o seu estilo a um novo patamar com a pulseira perfeita para complementar qualquer look. Seja para uma ocasião especial ou para o dia a dia, esta pulseira é o acessório que você precisa para se sentir ainda mais confiante e elegante.",
             parcel: "5x de 14,80",
             buy: "https://wa.link/jtjwlg"
@@ -791,7 +791,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-olho-grego-redondo2.jpeg'),
             title: "PULSEIRA OLHO GREGO",
             price: "81,99",
-            priceNow: "71,99",
+            priceNow: "R$ 71,99",
             overview: "Pulseira Olho Grego Redondo - 16 a 22cm. Adicione um toque de elegância e sofisticação ao seu visual com esta deslumbrante pulseira. Não perca a oportunidade de elevar o seu estilo com esta linda pulseira em seu pulso",
             parcel: "5x de 14,40",
             buy: "https://wa.link/eo8ukk"
@@ -804,7 +804,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-olho-grego-coração2.jpeg'),
             title: "PULSEIRA OLHO GREGO",
             price: "71,99",
-            priceNow: "61,99",
+            priceNow: "R$ 61,99",
             overview: "Pulseira Olho Grego Coração - 16 a 21cm. Complete o seu look com a pulseira perfeita - um acessório elegante que irá adicionar um toque de sofisticação ao seu estilo. Esta pulseira irá durar por muitos anos e tornar-se uma peça essencial do seu guarda-roupa. ",
             parcel: "5x de 12,40",
             buy: "https://wa.link/zragc6"
@@ -817,7 +817,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-elo-vazado2.jpeg'),
             title: "PULSEIRA ELOS VAZADOS",
             price: "174,99",
-            priceNow: "154,99",
+            priceNow: "R$ 154,99",
             overview: "Pulseira Elos Redondos Vazados - 19,5cm. Complemente o seu estilo com esta pulseira elegante e sofisticada. Feita com materiais de alta qualidade, ela irá destacar a sua beleza e personalidade em qualquer ocasião. Adquira agora e sinta a confiança que uma pulseira única e charmosa pode trazer para o seu visual.",
             parcel: "5x de 32,99",
             buy: "https://wa.link/uvjskq"
@@ -830,7 +830,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-elos-coracao2.jpeg'),
             title: "PULSEIRA ELOS CORAÇÃO",
             price: "94,99",
-            priceNow: "74,99",
+            priceNow: "ESGOTADO",
             overview: "Pulseira Elos de Coração Vazado - 19,5cm. Adicione um toque de elegância ao seu visual com essa deslumbrante pulseira. Feita com materiais de alta qualidade e design sofisticado, ela é o acessório perfeito para completar seu estilo único.",
             parcel: "5x de 14,99",
             buy: "https://wa.link/w61fgs"
@@ -844,7 +844,7 @@ const data = {
             title: "PULSEIRA ACABAMENTO ENVELHECIDO",
             overview: "Pulseira Prata com Acabamento Envelhecido - 19cm. Com essa pulseira única, você pode mostrar ao mundo quem você é e o que é importante para você. Feita com materiais de alta qualidade e um design elegante, essa pulseira será a sua companheira perfeita para qualquer ocasião.",
             price: "77,99",
-            priceNow: "67,99",
+            priceNow: "R$ 67,99",
             parcel: "5x de 13,60",
             buy: "https://wa.link/1t5mcb"
         },
@@ -857,7 +857,7 @@ const data = {
             title: "PULSEIRA RETALHADA",
             overview: "Pulseira Prata Retalhada - 19cm. Complete seu look com estilo e sofisticação usando a pulseira perfeita. Nossa pulseira é a escolha ideal para dar um toque final elegante a qualquer roupa. Com design exclusivo e materiais de alta qualidade, você se sentirá confiante e estiloso(a) usando nossa pulseira.",
             price: "129,99",
-            priceNow: "109,99",
+            priceNow: "R$ 109,99",
             parcel: "5x de 21,99",
             buy: "https://wa.link/2rbjyq"
         },
@@ -869,7 +869,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-bolas-g2.jpeg'),
             title: "PULSEIRA DE BOLAS",
             price: "99,99",
-            priceNow: "87,99",
+            priceNow: "R$ 87,99",
             overview: "Pulseira Prata de Bolas - 19cm. Adicione um toque de elegância ao seu visual com essa deslumbrante pulseira! Feita com materiais de alta qualidade e com um design sofisticado, ela irá complementar perfeitamente qualquer roupa.",
             parcel: "5x de 17,60",
             buy: "https://wa.link/fs8usf"
@@ -882,7 +882,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-retalha-fino2.jpeg'),
             title: "PULSEIRA RETALHADA",
             price: "84,99",
-            priceNow: "74,99",
+            priceNow: "R$ 74,99",
             overview: "Pulseira Prata Retalho Fino - 19cm. Transforme o seu estilo em algo ainda mais marcante com a pulseira perfeita! Não há melhor maneira de expressar sua individualidade e adicionar um toque pessoal ao seu look do que com uma pulseira única.",
             parcel: "5x de 14,99",
             buy: "https://wa.link/7z3etb"
@@ -895,7 +895,7 @@ const data = {
             image3: require('../assets/produtos/brinco-duplinha-estrela-lua.jpeg'),
             title: "BRINCO DUPLINHA",
             price: "45,99",
-            priceNow: "35,99",
+            priceNow: "R$ 35,99",
             overview: "Brinco Prata Duplinha Estrela e Lua. O brinco é o acessório perfeito para dar um toque de elegância e sofisticação a qualquer visual. Seja para uma ocasião especial ou para o dia a dia, um brinco bem escolhido pode transformar completamente o seu look.",
             parcel: "5x de 7,20",
             buy: "https://wa.link/50kvz9"
@@ -908,7 +908,7 @@ const data = {
             image3: require('../assets/produtos/brinco-ponto-luz-estrela.jpeg'),
             title: "BRINCO PONTO DE LUZ ESTRELA",
             price: "79,99",
-            priceNow: "69,99",
+            priceNow: "R$ 69,99",
             overview: "Brinco Ponto de Luz Estrela - 4 e 5mm. Não perca a chance de destacar a sua beleza com um brinco incrível. Adquira já o seu e sinta-se ainda mais deslumbrante.",
             parcel: "5x de 13,99",
             buy: "https://wa.link/ojm15c"
@@ -921,7 +921,7 @@ const data = {
             image3: require('../assets/produtos/brinco-ponto-luz-redondo.jpeg'),
             title: "BRINCO PONTO DE LUZ REDONDO",
             price: "55,99",
-            priceNow: "43,99",
+            priceNow: "R$ 43,99",
             overview: "Brinco Duplinha Ponto de Luz Redondo - 5 e 7mm. Os brincos são acessórios que fazem toda a diferença em um look. Eles são capazes de transformar uma roupa simples em um visual elegante e sofisticado.",
             parcel: "5x de 8,80",
             buy: "https://wa.link/95hwyy"
@@ -934,7 +934,7 @@ const data = {
             image3: require('../assets/produtos/brinco-ponto-luz-quadrado.jpeg'),
             title: "BRINCO PONTO DE LUZ QUADRADO",
             price: "84,99",
-            priceNow: "74,99",
+            priceNow: "R$ 74,99",
             overview: "Brinco Duplinha Ponto de Luz Quadrado - 6 e 7mm. Com um brinco de qualidade, você pode realçar ainda mais a sua beleza natural e chamar a atenção por onde passar. Invista em um par de brincos excepcionais agora mesmo e se sinta ainda mais confiante e poderosa",
             parcel: "5x de 14,99",
             buy: "https://wa.link/sihvlx"
@@ -947,7 +947,7 @@ const data = {
             image3: require('../assets/produtos/argola-1g.jpeg'),
             title: "ARGOLA",
             price: "59,99",
-            priceNow: "47,99",
+            priceNow: "R$ 47,99",
             overview: "Argola 1G. As argolas são clássicos atemporais que nunca saem de moda. Elas são acessórios versáteis e elegantes, capazes de complementar qualquer look com um toque de sofisticação e estilo. . Não perca mais tempo e adquira já uma argola deslumbrante para fazer a diferença em seu visual.",
             parcel: "5x de 9,60",
             buy: "https://wa.link/waewks"
@@ -960,7 +960,7 @@ const data = {
             image3: require('../assets/produtos/tornozeleira-estrela-do-mar.jpeg'),
             title: "TORNOZELEIRA ESTRELA DO MAR",
             price: "77,99",
-            priceNow: "67,99",
+            priceNow: "R$ 67,99",
             overview: "Tornozeleira Elo Coração Estrela do Mar - 30cm. As tornozeleiras são perfeitas para destacar suas pernas e adicionar um toque de feminilidade à sua aparência. Adquira agora uma tornozeleira encantadora e sinta-se ainda mais confiante e estilosa em todos os momentos.",
             parcel: "5x de 13,60",
             buy: "https://wa.link/djkats"
@@ -973,7 +973,7 @@ const data = {
             image3: require('../assets/produtos/tornozeleira-ponto-de-luz.jpeg'),
             title: "TORNOZELEIRA CORAÇÃO",
             price: "77,99",
-            priceNow: "67,99",
+            priceNow: "R$ 67,99",
             overview: "Tornozeleira Elo Coração com Ponto de Luz - 28cm. Tornozeleiras são acessórios que trazem um charme extra para qualquer look, além de serem a escolha perfeita para quem busca uma maneira sutil de destacar as pernas. não perca mais tempo e adquira agora uma tornozeleira incrível para complementar seu estilo.",
             parcel: "5x de 13,60",
             buy: "https://wa.link/nho2n3"
@@ -986,7 +986,7 @@ const data = {
             image3: require('../assets/produtos/tornozeleira-borboleta.jpeg'),
             title: "TORNOZELEIRA BORBOLETA",
             price: "77,99",
-            priceNow: "67,99",
+            priceNow: "R$ 67,99",
             overview: "Tornozeleira Borboleta Colorida - 26cm. Um acessório delicado e charmoso, que pode fazer toda a diferença em seu visual. Ela é perfeita para quem busca um toque de elegância e descontração, sem abrir mão do estilo.",
             parcel: "5x de 13,60",
             buy: "https://wa.link/4i0oxl"
@@ -999,7 +999,7 @@ const data = {
             image3: require('../assets/produtos/corrente-masc-8.2gr.jpeg'),
             title: "CORRENTE MASCULINA",
             price: "219,99",
-            priceNow: "195,99",
+            priceNow: "R$ 195,99",
             overview: "Corrente Masculina 8.2GR - 60cm. Uma corrente masculina é muito mais do que apenas um acessório. Ela é uma afirmação de estilo e personalidade, que pode destacar ainda mais a beleza e a força do homem moderno. Invista agora em uma corrente masculina de qualidade e sinta a diferença em seu visual e em sua autoconfiança.",
             parcel: "5x de 39,20",
             buy: "https://wa.link/61290k"
@@ -1012,7 +1012,7 @@ const data = {
             image3: require('../assets/produtos/escap-masc.jpeg'),
             title: "ESCAPULÁRIO MASCULINO",
             price: "179,99",
-            priceNow: "164,99",
+            priceNow: "R$ 164,99",
             overview: "Escapulário Masculino - 40 a 45cm. O escapulário masculino é um símbolo de fé e devoção que transcende as barreiras religiosas. Além disso, é um item de estilo marcante. Adquira agora o seu escapulário masculino e sinta a força e a proteção que ele pode trazer para a sua vida.",
             parcel: "5x de 32,99",
             buy: "https://wa.link/nn275f"
@@ -1025,7 +1025,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-infantil-placa.jpeg'),
             title: "PULSEIRA INFANTIL",
             price: "79,99",
-            priceNow: "65,99",
+            priceNow: "R$ 65,99",
             overview: "Pulseira Infantil Placa Para Gravar - 15cm. Uma pulseira infantil pode ser um presente muito especial para as crianças, pois além de ser um acessório encantador, ela pode ajudá-las a desenvolver sua própria identidade e estilo pessoal. Adquira agora uma pulseira infantil encantadora e faça a alegria das crianças em sua vida.",
             parcel: "5x de 13,20",
             buy: "https://wa.link/559hym"
@@ -1038,7 +1038,7 @@ const data = {
             image3: require('../assets/produtos/pulsiera-infantil-ponto-de-luz.jpeg'),
             title: "PULSEIRA INFANTIL",
             price: "59,99",
-            priceNow: "40,99",
+            priceNow: "R$ 40,99",
             overview: "Pulseira Infantil Ponto de Luz Azul - 14.5cm. Uma pulseira infantil é um presente que pode marcar a infância de uma criança para sempre, é um acessório delicado e charmoso, que pode ser usado em diversas ocasiões especiais. Escolha agora uma pulseira infantil encantadora para presentear uma criança especial e tornar esse momento ainda mais inesquecível.",
             parcel: "5x de 8,20",
             buy: "https://wa.link/fjsw2n"
@@ -1051,11 +1051,24 @@ const data = {
             image3: require('../assets/produtos/pulseira-infantil-ponto-vermelho.jpeg'),
             title: "PULSEIRA INFANTIL",
             price: "49,99",
-            priceNow: "37,99",
+            priceNow: "R$ 37,99",
             overview: "Pulseira Infantil Ponto de Luz Vermelho - 13.5cm. As crianças adoram acessórios divertidos e coloridos, e uma pulseira infantil pode ser o presente perfeito para deixar o seu filho ou filha ainda mais feliz.  Adquira agora uma pulseira infantil de qualidade e faça o dia do seu filho ou filha ainda mais especial.",
             parcel: "5x de 7,60",
             buy: "https://wa.link/50x7kp"
-        }
+        },
+        {
+            id: 86,
+            name: "colar",
+            image: require('../assets/produtos/conjunto-ponto-de-luz.jpeg'),
+            image2: require('../assets/produtos/conjunto-ponto-de-luz2.jpeg'),
+            image3: require('../assets/tamanhos-colar.webp'),
+            title: "CONJUNTO PONTO DE LUZ",
+            price: "109,99",
+            priceNow: "R$ 93,99",
+            overview: "Conjunto Ponto de Luz - 40cm. Complemente o seu look com elegância e sofisticação com este conjunto deslumbrante. Feito com materiais de alta qualidade e com um design exclusivo, este conjunto certamente irá chamar a atenção e realçar a sua beleza natural.",
+            parcel: "5x de 18,80",
+            buy: "https://wa.link/lljdmr"
+        },
     ],
 };
 export default data;
