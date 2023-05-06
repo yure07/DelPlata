@@ -604,15 +604,15 @@ const data = {
         {
             id: 51,
             name: "colar",
-            image: require('../assets/produtos/choker-coracao.jpeg'),
-            image2: require('../assets/produtos/choker-coracao2.jpeg'),
+            image: require('../assets/produtos/conjunto-ponto-de-luz.jpeg'),
+            image2: require('../assets/produtos/conjunto-ponto-de-luz2.jpeg'),
             image3: require('../assets/tamanhos-colar.webp'),
-            title: "CHOKER CORAÇÃO",
-            price: "99,99",
-            priceNow: "77,99",
-            overview: "Choker Coração Lado Zircônia - 40cm. Este colar é a escolha perfeita para quem deseja adicionar um toque de elegância e sofisticação ao seu visual. Ele certamente chamará a atenção de todos ao seu redor.",
-            parcel: "5x de 15,60",
-            buy: "https://wa.link/gf3ofv"
+            title: "CONJUNTO PONTO DE LUZ",
+            price: "109,99",
+            priceNow: "93,99",
+            overview: "Conjunto Ponto de Luz - 40cm. Complemente o seu look com elegância e sofisticação com este conjunto deslumbrante. Feito com materiais de alta qualidade e com um design exclusivo, este conjunto certamente irá chamar a atenção e realçar a sua beleza natural.",
+            parcel: "5x de 18,80",
+            buy: "https://wa.link/lljdmr"
         },
         {
             id: 52,
