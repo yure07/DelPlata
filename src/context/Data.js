@@ -1073,8 +1073,9 @@ const data = {
             id: 87,
             name: "colar",
             image: require('../assets/produtos/kit-dia-das-maes.jpeg'),
-            image2: require('../assets/produtos/kit-dia-das-maes.jpeg'),
-            image3: require('../assets/produtos/kit-dia-das-maes.jpeg'),
+            image2: require('../assets/produtos/brinco-zirconia-coracao.jpeg'),
+            image3: require('../assets/produtos/choker-coracao-vazado.jpeg'),
+            image4: require('../assets/produtos/pulseira-elo-coracao.jpeg'),
             title: "KIT DIA DAS MÃES",
             price: "109,99",
             priceNow: "R$ 98,99",
@@ -1082,34 +1083,8 @@ const data = {
             parcel: "5x de 19,80",
             buy: "https://wa.link/o75t37"
         },
-        /*{
+        {
             id: 88,
-            name: "brinco",
-            image: require('../assets/produtos/brinco-zirconia-coracao.jpeg'),
-            image2: require('../assets/produtos/brinco-zirconia-coracao.jpeg'),
-            image3: require('../assets/produtos/brinco-zirconia-coracao.jpeg'),
-            title: "BRINCO ZIRCÔNIA CORAÇÃO",
-            price: "",
-            priceNow: "",
-            overview: "Brinco Zircônia Coração - 4mm. Realce sua beleza com um toque de brilho e elegância! Apresentamos a você o brinco dos seus sonhos, uma joia única que vai iluminar seus momentos mais especiais.  Seja para uma ocasião especial ou para o dia a dia, este brinco vai te acompanhar com estilo e sofisticação. ",
-            parcel: "",
-            buy: "https://wa.link/asvp7c"
-        },
-        {
-            id: 89,
-            name: "colar",
-            image: require('../assets/produtos/choker-coracao-vazado.jpeg'),
-            image2: require('../assets/produtos/choker-coracao-vazado.jpeg'),
-            image3: require('../assets/produtos/choker-coracao-vazado.jpeg'),
-            title: "CHOKER CORAÇÃO",
-            price: "",
-            priceNow: "",
-            overview: "Choker Pingente Coração Vazado - 40cm. Embrace sua elegância com o colar que vai roubar todos os olhares. Cada detalhe meticulosamente trabalhado reflete o brilho de sua personalidade única. Seja para uma ocasião especial ou para elevar seu estilo no dia a dia, este colar é o complemento perfeito para seu visual.",
-            parcel: "",
-            buy: "https://wa.link/atu6p8"
-        },*/
-        {
-            id: 90,
             name: "brinco",
             image: require('../assets/produtos/trio-argolas.jpeg'),
             image2: require('../assets/produtos/trio-argolas2.jpeg'),

@@ -5,9 +5,8 @@ import Filter from '../../components/Filter/index.js'
 import Footer from '../../components/Footer/index.js'
 import { useState, useEffect, useContext } from 'react'
 import { DataContext } from '../../context/Dataprovider.js'
-import { useParams, Link } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 import {GrPrevious, GrNext} from 'react-icons/gr'
-import axios from 'axios'
 
 export default function Produto () {
     const value = useContext(DataContext)
@@ -17,8 +16,8 @@ export default function Produto () {
 
     const img = document.querySelector(".tink-img")
     const imgs = [details.image, details.image2, details.image3]
+    if(details.image4 !== undefined){imgs.push(details.image4)}
     let count = 0
-
 
     useEffect(()=>{
         window.scrollTo(0, 0)
