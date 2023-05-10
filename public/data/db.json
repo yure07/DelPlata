@@ -1,6 +1,13 @@
 {
     "produtos":[
         {
+            "id": 87,
+            "image": "../images/produtos/kit-dia-das-maes.jpeg",
+            "title": "KIT DIA DAS MÃES",
+            "price": "109,99",
+            "priceNow": "R$ 98,99"
+        },
+        {
             "id": 1,
             "image": "../images/produtos/choker.jpeg",
             "title": "CHOKER PONTO DE LUZ",
@@ -383,14 +390,14 @@
             "image": "../images/produtos/pulseira-zirconia-pendurada.jpeg",
             "title": "PULSEIRA ZIRCÔNIA COLORIDA",
             "price": "69,99",
-            "priceNow": "R$ 54,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 60,
             "image": "../images/produtos/pulseira-zircônia-rosa.jpeg",
             "title": "PULSEIRA ZIRCÔNIA ROSA",
             "price": "74,99",
-            "priceNow": "R$ 64,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 61,
@@ -573,6 +580,13 @@
             "title": "CONJUNTO PONTO DE LUZ",
             "price": "109,99",
             "priceNow": "R$ 93,99"
+        },
+        {
+            "id": 90,
+            "image": "../images/produtos/trio-argolas.jpeg",
+            "title": "TRIO ARGOLAS",
+            "price": "59,99",
+            "priceNow": "R$ 47,99"
         }
     ]
 }

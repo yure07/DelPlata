@@ -713,7 +713,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-zirconia-pendurada2.jpeg'),
             title: "PULSEIRA ZIRCÔNIA COLORIDA",
             price: "69,99",
-            priceNow: "R$ 54,99",
+            priceNow: "ESGOTADO",
             overview: "Pulseira Zircônia Coloridas Penduradas - 18cm. A pulseira que você está procurando para dar um toque especial ao seu estilo está aqui. Esta pulseira é perfeita para completar seu look em qualquer ocasião.",
             parcel: "5x de 10,99",
             buy: "https://wa.link/qnanht"
@@ -726,7 +726,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-zircônia-rosa2.jpeg'),
             title: "PULSEIRA ZIRCÔNIA ROSA",
             price: "74,99",
-            priceNow: "R$ 64,99",
+            priceNow: "ESGOTADO",
             overview: "Pulseira Zircônia Rosa - 18cm. Com sua beleza e sofisticação, você não vai querer tirá-la do pulso e com certeza vai receber elogios por onde passar. Não perca a chance de ter essa joia incrível em sua coleção e sinta-se ainda mais especial e bela com a sua nova pulseira.",
             parcel: "5x de 12,99",
             buy: "https://wa.link/md1d54"
@@ -1069,6 +1069,58 @@ const data = {
             parcel: "5x de 18,80",
             buy: "https://wa.link/lljdmr"
         },
+        {
+            id: 87,
+            name: "colar",
+            image: require('../assets/produtos/kit-dia-das-maes.jpeg'),
+            image2: require('../assets/produtos/kit-dia-das-maes.jpeg'),
+            image3: require('../assets/produtos/kit-dia-das-maes.jpeg'),
+            title: "KIT DIA DAS MÃES",
+            price: "109,99",
+            priceNow: "R$ 98,99",
+            overview: "Kit Especial Dia das Mães. Celebre o amor incondicional neste Dia das Mães com um presente que brilha tanto quanto ela. Surpreenda-a com o deslumbrante kit de prata, símbolo de pureza, elegância e afeto eterno. Um kit de prata que representa todo o seu amor incondicional.",
+            parcel: "5x de 19,80",
+            buy: "https://wa.link/o75t37"
+        },
+        /*{
+            id: 88,
+            name: "brinco",
+            image: require('../assets/produtos/brinco-zirconia-coracao.jpeg'),
+            image2: require('../assets/produtos/brinco-zirconia-coracao.jpeg'),
+            image3: require('../assets/produtos/brinco-zirconia-coracao.jpeg'),
+            title: "BRINCO ZIRCÔNIA CORAÇÃO",
+            price: "",
+            priceNow: "",
+            overview: "Brinco Zircônia Coração - 4mm. Realce sua beleza com um toque de brilho e elegância! Apresentamos a você o brinco dos seus sonhos, uma joia única que vai iluminar seus momentos mais especiais.  Seja para uma ocasião especial ou para o dia a dia, este brinco vai te acompanhar com estilo e sofisticação. ",
+            parcel: "",
+            buy: "https://wa.link/asvp7c"
+        },
+        {
+            id: 89,
+            name: "colar",
+            image: require('../assets/produtos/choker-coracao-vazado.jpeg'),
+            image2: require('../assets/produtos/choker-coracao-vazado.jpeg'),
+            image3: require('../assets/produtos/choker-coracao-vazado.jpeg'),
+            title: "CHOKER CORAÇÃO",
+            price: "",
+            priceNow: "",
+            overview: "Choker Pingente Coração Vazado - 40cm. Embrace sua elegância com o colar que vai roubar todos os olhares. Cada detalhe meticulosamente trabalhado reflete o brilho de sua personalidade única. Seja para uma ocasião especial ou para elevar seu estilo no dia a dia, este colar é o complemento perfeito para seu visual.",
+            parcel: "",
+            buy: "https://wa.link/atu6p8"
+        },*/
+        {
+            id: 90,
+            name: "brinco",
+            image: require('../assets/produtos/trio-argolas.jpeg'),
+            image2: require('../assets/produtos/trio-argolas2.jpeg'),
+            image3: require('../assets/produtos/trio-argolas.jpeg'),
+            title: "TRIO ARGOLAS",
+            price: "59,99",
+            priceNow: "R$ 47,99",
+            overview: "Trio de Argolas - 1,3mm / 1,5mm / 1,7mm. Adicione um toque de glamour e versatilidade ao seu estilo com o trio de argolas que vai revolucionar seu visual. Não perca a oportunidade de elevar seu estilo com essas joias deslumbrantes que vão roubar a cena onde quer que você vá.",
+            parcel: "5x de 9,60",
+            buy: "https://wa.link/bz79gf"
+        }
     ],
 };
 export default data;
