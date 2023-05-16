@@ -1,13 +1,6 @@
 {
     "produtos":[
         {
-            "id": 87,
-            "image": "../images/produtos/kit-dia-das-maes.jpeg",
-            "title": "KIT DIA DAS MÃES",
-            "price": "109,99",
-            "priceNow": "R$ 98,99"
-        },
-        {
             "id": 1,
             "image": "../images/produtos/choker.jpeg",
             "title": "CHOKER PONTO DE LUZ",
@@ -173,7 +166,7 @@
             "image": "../images/produtos/anel-5-coracoes.jpeg",
             "title": "ANEL 5 CORAÇÕES",
             "price": "59,99",
-            "priceNow": "R$ 44,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 28,
@@ -208,7 +201,7 @@
             "image": "../images/produtos/pulseira-olho-grego.jpeg",
             "title": "PULSEIRA OLHO GREGO",
             "price": "69,99",
-            "priceNow": "R$ 51,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 33,
@@ -523,14 +516,14 @@
             "image": "../images/produtos/tornozeleira-estrela-do-mar.jpeg",
             "title": "TORNOZELEIRA ESTRELA DO MAR",
             "price": "77,99",
-            "priceNow": "R$ 67,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 79,
             "image": "../images/produtos/tornozeleira-ponto-de-luz.jpeg",
             "title": "TORNOZELEIRA CORAÇÃO",
             "price": "77,99",
-            "priceNow": "R$ 67,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 80,

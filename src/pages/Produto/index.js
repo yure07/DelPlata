@@ -16,7 +16,9 @@ export default function Produto () {
 
     const img = document.querySelector(".tink-img")
     const imgs = [details.image, details.image2, details.image3]
+
     if(details.image4 !== undefined){imgs.push(details.image4)}
+    
     let count = 0
 
     useEffect(()=>{

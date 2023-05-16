@@ -310,7 +310,7 @@ const data = {
             image3: require('../assets/produtos/anel-5-coracoes.jpeg'),
             title: "ANEL 5 CORAÇÕES",
             price: "59,99",
-            priceNow: "R$ 44,99",
+            priceNow: "ESGOTADO",
             overview: "Anel 5 Corações Lisos - 16cm. Um anel é mais do que uma simples joia, é uma história de amor, um compromisso com a beleza e uma celebração da vida.",
             parcel: "5x de 8,99",
             buy: "https://wa.link/6jrkrj"
@@ -375,7 +375,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-olho-grego2.jpeg'),
             title: "PULSEIRA OLHO GREGO",
             price: "69,99",
-            priceNow: "R$ 51,99",
+            priceNow: "ESGOTADO",
             overview: "Pulseira Olho Grego - 18cm. Com a pulseira de olho grego, você se sente protegido e envolvido por energias positivas, pronto para enfrentar qualquer desafio com confiança.",
             parcel: "5x de 10,40",
             buy: "https://wa.link/s1nuog"
@@ -960,7 +960,7 @@ const data = {
             image3: require('../assets/produtos/tornozeleira-estrela-do-mar.jpeg'),
             title: "TORNOZELEIRA ESTRELA DO MAR",
             price: "77,99",
-            priceNow: "R$ 67,99",
+            priceNow: "ESGOTADO",
             overview: "Tornozeleira Elo Coração Estrela do Mar - 30cm. As tornozeleiras são perfeitas para destacar suas pernas e adicionar um toque de feminilidade à sua aparência. Adquira agora uma tornozeleira encantadora e sinta-se ainda mais confiante e estilosa em todos os momentos.",
             parcel: "5x de 13,60",
             buy: "https://wa.link/djkats"
@@ -973,7 +973,7 @@ const data = {
             image3: require('../assets/produtos/tornozeleira-ponto-de-luz.jpeg'),
             title: "TORNOZELEIRA CORAÇÃO",
             price: "77,99",
-            priceNow: "R$ 67,99",
+            priceNow: "ESGOTADO",
             overview: "Tornozeleira Elo Coração com Ponto de Luz - 28cm. Tornozeleiras são acessórios que trazem um charme extra para qualquer look, além de serem a escolha perfeita para quem busca uma maneira sutil de destacar as pernas. não perca mais tempo e adquira agora uma tornozeleira incrível para complementar seu estilo.",
             parcel: "5x de 13,60",
             buy: "https://wa.link/nho2n3"
@@ -1068,20 +1068,6 @@ const data = {
             overview: "Conjunto Ponto de Luz - 40cm. Complemente o seu look com elegância e sofisticação com este conjunto deslumbrante. Feito com materiais de alta qualidade e com um design exclusivo, este conjunto certamente irá chamar a atenção e realçar a sua beleza natural.",
             parcel: "5x de 18,80",
             buy: "https://wa.link/lljdmr"
-        },
-        {
-            id: 87,
-            name: "colar",
-            image: require('../assets/produtos/kit-dia-das-maes.jpeg'),
-            image2: require('../assets/produtos/brinco-zirconia-coracao.jpeg'),
-            image3: require('../assets/produtos/choker-coracao-vazado.jpeg'),
-            image4: require('../assets/produtos/pulseira-elo-coracao.jpeg'),
-            title: "KIT DIA DAS MÃES",
-            price: "109,99",
-            priceNow: "R$ 98,99",
-            overview: "Kit Especial Dia das Mães. Celebre o amor incondicional neste Dia das Mães com um presente que brilha tanto quanto ela. Surpreenda-a com o deslumbrante kit de prata, símbolo de pureza, elegância e afeto eterno. Um kit de prata que representa todo o seu amor incondicional.",
-            parcel: "5x de 19,80",
-            buy: "https://wa.link/o75t37"
         },
         {
             id: 88,
