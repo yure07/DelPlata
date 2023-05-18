@@ -1081,6 +1081,19 @@ const data = {
             overview: "Trio de Argolas - 1,3mm / 1,5mm / 1,7mm. Adicione um toque de glamour e versatilidade ao seu estilo com o trio de argolas que vai revolucionar seu visual. Não perca a oportunidade de elevar seu estilo com essas joias deslumbrantes que vão roubar a cena onde quer que você vá.",
             parcel: "5x de 9,60",
             buy: "https://wa.link/bz79gf"
+        },
+        {
+            id: 89,
+            name: "pulseira",
+            image: require('../assets/produtos/pulseira-elos-coracao-pequeno.jpeg'),
+            image2: require('../assets/produtos/pulseira-elos-coracao-pequeno2.jpeg'),
+            image3: require('../assets/produtos/pulseira-elos-coracao-pequeno.jpeg'),
+            title: "PULSEIRA ELOS CORAÇÃO",
+            price: "49,99",
+            priceNow: "R$ 31,99",
+            overview: "Pulseira Elo Coração - 18cm. Descubra a magia que envolve esta pulseira encantadora. Seu brilho radiante e seu design exuberante transformam qualquer look em uma verdadeira obra de arte. Não espere mais, adquira sua pulseira e permita-se brilhar em todos os momentos.",
+            parcel: "5x de 6,40",
+            buy: "https://wa.link/482o4g"
         }
     ],
 };

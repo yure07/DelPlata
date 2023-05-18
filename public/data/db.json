@@ -580,6 +580,13 @@
             "title": "TRIO ARGOLAS",
             "price": "59,99",
             "priceNow": "R$ 47,99"
+        },
+        {
+            "id": 89,
+            "image": "../images/produtos/pulseira-elos-coracao-pequeno.jpeg",
+            "title": "PULSEIRA ELOS CORAÇÃO",
+            "price": "49,99",
+            "priceNow": "R$ 31,99"
         }
     ]
 }
