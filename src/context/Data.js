@@ -1094,6 +1094,19 @@ const data = {
             overview: "Pulseira Elo Coração - 18cm. Descubra a magia que envolve esta pulseira encantadora. Seu brilho radiante e seu design exuberante transformam qualquer look em uma verdadeira obra de arte. Não espere mais, adquira sua pulseira e permita-se brilhar em todos os momentos.",
             parcel: "5x de 6,40",
             buy: "https://wa.link/482o4g"
+        },
+        {
+            id: 90,
+            name: "colar",
+            image: require('../assets/produtos/colar-coracao-vazado.jpeg'),
+            image2: require('../assets/produtos/colar-coracao-vazado2.jpeg'),
+            image3: require('../assets/produtos/colar-coracao-vazado.jpeg'),
+            title: "COLAR CORAÇÃO VAZADO",
+            price: "79,99",
+            priceNow: "R$ 67,99",
+            overview: "Colar Coração Vazado - 40cm. Um colar que vai encantar seus sentidos e iluminar sua beleza. Não perca tempo, pois a elegância espera por você, adquira agora esse deslumbrante colar, feito com os mais preciosos materiais e adornado com detalhes brilhantes.",
+            parcel: "5x de 13,60",
+            buy: "https://wa.link/ju49cn"
         }
     ],
 };

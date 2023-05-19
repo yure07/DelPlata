@@ -587,6 +587,13 @@
             "title": "PULSEIRA ELOS CORAÇÃO",
             "price": "49,99",
             "priceNow": "R$ 31,99"
+        },
+        {
+            "id": 90,
+            "image": "../images/produtos/colar-coracao-vazado.jpeg",
+            "title": "COLAR CORAÇÃO VAZADO",
+            "price": "79,99",
+            "priceNow": "R$ 67,99"
         }
     ]
 }
