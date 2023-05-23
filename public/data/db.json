@@ -194,14 +194,14 @@
             "image": "../images/produtos/pulseira-bolas.jpeg",
             "title": "PULSEIRA FEMININA",
             "price": "129,99",
-            "priceNow": "R$ 118,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 32,
             "image": "../images/produtos/pulseira-olho-grego.jpeg",
             "title": "PULSEIRA OLHO GREGO",
             "price": "69,99",
-            "priceNow": "ESGOTADO"
+            "priceNow": "R$ 51,99"
         },
         {
             "id": 33,
@@ -425,7 +425,7 @@
             "image": "../images/produtos/pulseira-olho-grego-redondo.jpeg",
             "title": "PULSEIRA OLHO GREGO",
             "price": "81,99",
-            "priceNow": "R$ 71,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 66,
@@ -530,7 +530,7 @@
             "image": "../images/produtos/tornozeleira-borboleta.jpeg",
             "title": "TORNOZELEIRA BORBOLETA",
             "price": "77,99",
-            "priceNow": "R$ 67,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 81,

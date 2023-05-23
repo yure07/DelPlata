@@ -362,7 +362,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-bolas2.jpeg'),
             title: "PULSEIRA FEMININA",
             price: "129,99",
-            priceNow: "R$ 118,99",
+            priceNow: "ESGOTADO",
             overview: "Pulseira Feminina de Bolas - 17,5 a 21,5cm. Uma pulseira é a escolha perfeita para quem quer adicionar um toque de estilo e sofisticação a qualquer look, enquanto carrega consigo um símbolo de história e significado. Simbolize sua história com um produto DelPlata.",
             parcel: "5x de 23,80",
             buy: "https://wa.link/ge3e98"
@@ -375,7 +375,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-olho-grego2.jpeg'),
             title: "PULSEIRA OLHO GREGO",
             price: "69,99",
-            priceNow: "ESGOTADO",
+            priceNow: "R$ 51,99",
             overview: "Pulseira Olho Grego - 18cm. Com a pulseira de olho grego, você se sente protegido e envolvido por energias positivas, pronto para enfrentar qualquer desafio com confiança.",
             parcel: "5x de 10,40",
             buy: "https://wa.link/s1nuog"
@@ -791,7 +791,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-olho-grego-redondo2.jpeg'),
             title: "PULSEIRA OLHO GREGO",
             price: "81,99",
-            priceNow: "R$ 71,99",
+            priceNow: "ESGOTADO",
             overview: "Pulseira Olho Grego Redondo - 16 a 22cm. Adicione um toque de elegância e sofisticação ao seu visual com esta deslumbrante pulseira. Não perca a oportunidade de elevar o seu estilo com esta linda pulseira em seu pulso",
             parcel: "5x de 14,40",
             buy: "https://wa.link/eo8ukk"
@@ -986,7 +986,7 @@ const data = {
             image3: require('../assets/produtos/tornozeleira-borboleta.jpeg'),
             title: "TORNOZELEIRA BORBOLETA",
             price: "77,99",
-            priceNow: "R$ 67,99",
+            priceNow: "ESGOTADO",
             overview: "Tornozeleira Borboleta Colorida - 26cm. Um acessório delicado e charmoso, que pode fazer toda a diferença em seu visual. Ela é perfeita para quem busca um toque de elegância e descontração, sem abrir mão do estilo.",
             parcel: "5x de 13,60",
             buy: "https://wa.link/4i0oxl"
