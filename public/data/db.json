@@ -594,6 +594,27 @@
             "title": "COLAR CORAÇÃO VAZADO",
             "price": "79,99",
             "priceNow": "R$ 67,99"
+        },
+        {
+            "id": 91,
+            "image": "../images/produtos/corrente-groumett.jpeg",
+            "title": "CORRENTE MASCULINA",
+            "price": "279,99",
+            "priceNow": "R$ 229,99"
+        },
+        {
+            "id": 92,
+            "image": "../images/produtos/pulseira-elo-grumett2.jpeg",
+            "title": "PULSEIRA ELO GROUMETT",
+            "price": "69,99",
+            "priceNow": "R$ 55,99"
+        },
+        {
+            "id": 93,
+            "image": "../images/produtos/pulseira-piastrini2.jpeg",
+            "title": "PULSEIRA ELO PIASTRINI",
+            "price": "49,99",
+            "priceNow": "R$ 34,99"
         }
     ]
 }

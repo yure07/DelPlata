@@ -1107,6 +1107,45 @@ const data = {
             overview: "Colar Coração Vazado - 40cm. Um colar que vai encantar seus sentidos e iluminar sua beleza. Não perca tempo, pois a elegância espera por você, adquira agora esse deslumbrante colar, feito com os mais preciosos materiais e adornado com detalhes brilhantes.",
             parcel: "5x de 13,60",
             buy: "https://wa.link/ju49cn"
+        },
+        {
+            id: 91,
+            name: "masculino",
+            image: require('../assets/produtos/corrente-groumett.jpeg'),
+            image2: require('../assets/produtos/corrente-groumett2.jpeg'),
+            image3: require('../assets/produtos/corrente-groumett.jpeg'),
+            title: "CORRENTE MASCULINA",
+            price: "279,99",
+            priceNow: "R$ 229,99",
+            overview: "Corrente Groumett - 70cm - 9,6gr. Seja um verdadeiro ícone de estilo masculino com esta corrente de prata que vai elevar sua aparência a um novo patamar de sofisticação. Feita de prata genuína, cada elo brilha com um acabamento impecável, transmitindo durabilidade e qualidade excepcionais.",
+            parcel: "5x de 45,99",
+            buy: "https://wa.link/3txch7"
+        },
+        {
+            id: 92,
+            name: "pulseira",
+            image: require('../assets/produtos/pulseira-elo-grumett2.jpeg'),
+            image2: require('../assets/produtos/pulseira-elo-grumett.jpeg'),
+            image3: require('../assets/produtos/pulseira-elo-grumett2.jpeg'),
+            title: "PULSEIRA ELO GROUMETT",
+            price: "69,99",
+            priceNow: "R$ 55,99",
+            overview: "Pulseira Elo Groumett 2gr. Adicione um toque de brilho e estilo ao seu pulso com esta deslumbrante pulseira. Cada elo cuidadosamente trabalhado reflete a beleza atemporal e a elegância sofisticada que você merece.",
+            parcel: "5x de 11,20",
+            buy: "https://wa.link/jltuag"
+        },
+        {
+            id: 93,
+            name: "pulseira",
+            image: require('../assets/produtos/pulseira-piastrini2.jpeg'),
+            image2: require('../assets/produtos/pulseira-piastrini.jpeg'),
+            image3: require('../assets/produtos/pulseira-piastrini2.jpeg'),
+            title: "PULSEIRA ELO PIASTRINI",
+            price: "49,99",
+            priceNow: "R$ 34,99",
+            overview: "Pulseira Elo Piastrini 1,1gr. Sinta a confiança e a autoexpressão elevarem-se enquanto você exibe essa pulseira única em seu pulso. Aproveite a oportunidade de possuir uma peça exclusiva que será admirada por sua beleza e delicadeza em todos os momentos.",
+            parcel: "5x de 6,99",
+            buy: "https://wa.link/haejfi"
         }
     ],
 };
