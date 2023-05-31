@@ -1123,7 +1123,7 @@ const data = {
         },
         {
             id: 92,
-            name: "pulseira",
+            name: "masculino",
             image: require('../assets/produtos/pulseira-elo-grumett2.jpeg'),
             image2: require('../assets/produtos/pulseira-elo-grumett.jpeg'),
             image3: require('../assets/produtos/pulseira-elo-grumett2.jpeg'),
@@ -1136,7 +1136,7 @@ const data = {
         },
         {
             id: 93,
-            name: "pulseira",
+            name: "masculino",
             image: require('../assets/produtos/pulseira-piastrini2.jpeg'),
             image2: require('../assets/produtos/pulseira-piastrini.jpeg'),
             image3: require('../assets/produtos/pulseira-piastrini2.jpeg'),
