@@ -1,3 +1,4 @@
+import { title } from 'process';
 import { overrideMimeType } from 'stream-http/lib/capability';
 
 const data = {
@@ -1146,6 +1147,71 @@ const data = {
             overview: "Pulseira Elo Piastrini 1,1gr. Sinta a confiança e a autoexpressão elevarem-se enquanto você exibe essa pulseira única em seu pulso. Aproveite a oportunidade de possuir uma peça exclusiva que será admirada por sua beleza e delicadeza em todos os momentos.",
             parcel: "5x de 6,99",
             buy: "https://wa.link/haejfi"
+        },
+        {
+            id: 94,
+            name: "brinco",
+            image: require('../assets/produtos/brinco-coracao-vazado.jpeg'),
+            image2: require('../assets/produtos/brinco-coracao-vazado2.jpeg'),
+            image3: require('../assets/produtos/brinco-coracao-vazado.jpeg'),
+            title: "BRINCO CORAÇÃO VAZADO",
+            price: "79,99",
+            priceNow: "R$ 63,99",
+            overview: "Brinco Coração Vazado - 2,2 x 1,7cm. Descubra o poder de um detalhe elegante! Adquira agora mesmo nosso deslumbrante brinco, perfeito para realçar sua beleza e transmitir sua personalidade única. Seja o centro das atenções e encante a todos com esse acessório sofisticado.",
+            parcel: "5x de 12,80",
+            buy: "https://wa.link/apq5l9"
+        },
+        {
+            id: 95,
+            name: "brinco",
+            image: require('../assets/produtos/brinco-retangular.jpeg'),
+            image2: require('../assets/produtos/brinco-retangular2.jpeg'),
+            image3: require('../assets/produtos/brinco-retangular.jpeg'),
+            title: "BRINCO RETANGULAR",
+            price: "89,99",
+            priceNow: "R$ 77,99",
+            overview: "Brinco Retangular Vazado 1 x 3,2cm. Realce sua beleza com o brinco perfeito! Adicione um toque de elegância e sofisticação ao seu visual com nossos brincos deslumbrantes. Brilhe como nunca antes e deixe seu estilo falar por si só.",
+            parcel: "5x de 15,60",
+            buy: "https://wa.link/8fastd"
+        },
+        {
+            id: 96,
+            name: "brinco",
+            image: require('../assets/produtos/brinco-2-elos-vazados.jpeg'),
+            image2: require('../assets/produtos/brinco-2-elos-vazados.jpeg'),
+            image3: require('../assets/produtos/brinco-2-elos-vazados.jpeg'),
+            title: "BRINCO 2 ELOS VAZADOS",
+            price: "78,99",
+            priceNow: "R$ 65,99",
+            overview: "Brinco 2 Elos Vazados - 8mm x 3cm. Dê um toque de elegância ao seu visual com nosso incrível brinco! Seja o centro das atenções e brilhe com estilo em qualquer ocasião. Com design sofisticado e materiais de alta qualidade, esse brinco é a escolha perfeita para mulheres modernas e cheias de personalidade.",
+            parcel: "5x de 13,20",
+            buy: "https://wa.link/nlxr09"
+        },
+        {
+            id: 97,
+            name: "brinco",
+            image: require('../assets/produtos/brinco-coracao-vazado-peq.jpeg'),
+            image2: require('../assets/produtos/brinco-coracao-vazado-peq.jpeg'),
+            image3: require('../assets/produtos/brinco-coracao-vazado-peq.jpeg'),
+            title: "BRINCO CORAÇÃO VAZADO",
+            price: "59,99",
+            priceNow: "R$ 42,99",
+            overview: "Brinco Coração Vazado - 8mm. Adorne-se com elegância e brilho! Descubra o poder transformador de um brinco deslumbrante que elevará seu estilo a novas alturas. Com design exuberante e materiais de alta qualidade, nosso brinco é uma obra-prima que irá encantar seus sentidos.",
+            parcel: "5x de 8,60",
+            buy: "https://wa.link/m7w7ws"
+        },
+        {
+            id: 98,
+            name: "brinco",
+            image: require('../assets/produtos/brinco-corrente.jpeg'),
+            image2: require('../assets/produtos/brinco-corrente.jpeg'),
+            image3: require('../assets/produtos/brinco-corrente.jpeg'),
+            title: "BRINCO CORRENTE",
+            price: "79,99",
+            priceNow: "R$ 66,99",
+            overview: "Brinco Corrente com Ponto de Luz Coração. Não espere mais para adquirir essa joia exclusiva que irá iluminar seu rosto e sua vida. Eleve seu visual, exalte sua beleza e faça uma declaração de sofisticação com nosso brinco extraordinário. ",
+            parcel: "5x de 13,60",
+            buy: 'https://wa.link/w9wpxc'
         }
     ],
 };

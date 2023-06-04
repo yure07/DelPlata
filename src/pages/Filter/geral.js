@@ -7,6 +7,7 @@ import Footer from "../../components/Footer/index.js"
 
 export default function Geral (){
     const value = useContext(DataContext)
+    console.log(value)
     const [produtos] = value.produtos
     const params = useParams()
 

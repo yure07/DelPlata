@@ -615,6 +615,41 @@
             "title": "PULSEIRA ELO PIASTRINI",
             "price": "49,99",
             "priceNow": "R$ 34,99"
+        },
+        {
+            "id": 94,
+            "image": "../images/produtos/brinco-coracao-vazado.jpeg",
+            "title": "BRINCO CORAÇÃO VAZADO",
+            "price": "79,99",
+            "priceNow": "R$ 63,99"
+        },
+        {
+            "id": 95,
+            "image": "../images/produtos/brinco-retangular.jpeg",
+            "title": "BRINCO RETANGULAR",
+            "price": "89,99",
+            "priceNow": "R$ 77,99"
+        },
+        {
+            "id": 96,
+            "image": "../images/produtos/brinco-2-elos-vazados.jpeg",
+            "title": "BRINCO 2 ELOS VAZADOS",
+            "price": "78,99",
+            "priceNow": "R$ 65,99"
+        },
+        {
+            "id": 97,
+            "image": "../images/produtos/brinco-coracao-vazado-peq.jpeg",
+            "title": "BRINCO CORAÇÃO VAZADO",
+            "price": "59,99",
+            "priceNow": "R$ 42,99"
+        },
+        {
+            "id": 98,
+            "image": "../images/produtos/brinco-corrente.jpeg",
+            "title": "BRINCO CORRENTE",
+            "price": "79,99",
+            "priceNow": "R$ 66,99"
         }
     ]
 }
