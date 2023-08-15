@@ -1,6 +1,3 @@
-import { title } from 'process';
-import { overrideMimeType } from 'stream-http/lib/capability';
-
 const data = {
     status: "success",
     items: [
@@ -76,10 +73,10 @@ const data = {
             image2: require('../assets/produtos/corrente-masc-70cm2.jpeg'),
             image3: require('../assets/tamanhos-colar.webp'),
             title: "CORRENTE MASCULINA 70CM",
-            price: "159,99",
-            priceNow: "R$ 139,99",
+            price: "179,99",
+            priceNow: "R$ 157,99",
             overview: "Corrente Masculina 70cm. Os colares de corrente transformam qualquer visual básico, deixando você super estiloso e com presença.",
-            parcel: "5x de 27,99",
+            parcel: "5x de 31,60",
             buy: "https://wa.link/dffqji"
         },
         {
@@ -387,11 +384,11 @@ const data = {
             image: require('../assets/produtos/corrente-masc-60cm.jpeg'),
             image2: require('../assets/produtos/corrente-masc-60cm3.jpeg'),
             image3: require('../assets/tamanhos-colar.webp'),
-            title: "CORRENTE MASCULINA 60CM",
-            price: "139,99",
-            priceNow: "R$ 115,99",
-            overview: "Corrente Masculina 60cm 4GR. Uma corrente pode ser mais do que um acessório de moda, pode ser uma peça de valor duradouro que acrescenta um toque de elegância e sofisticação a qualquer visual. Compre uma corrente de alta qualidade hoje e você poderá desfrutar dela por anos.",
-            parcel: "5x de 23,50",
+            title: "CORRENTE MASCULINA 70CM",
+            price: "159,99",
+            priceNow: "R$ 142,99",
+            overview: "Corrente Masculina 70cm 4GR. Uma corrente pode ser mais do que um acessório de moda, pode ser uma peça de valor duradouro que acrescenta um toque de elegância e sofisticação a qualquer visual. Compre uma corrente de alta qualidade hoje e você poderá desfrutar dela por anos.",
+            parcel: "5x de 28,60",
             buy: "https://wa.link/izyk53" 
         },
         {
@@ -697,7 +694,7 @@ const data = {
             id: 58,
             name: "masculino",
             image: require('../assets/produtos/corrente-3-elo-1.jpeg'),
-            image2: require('../assets/produtos/corrente-3-elo-1.jpeg'),
+            image2: require('../assets/produtos/corrente-3-elo-1.2.jpeg'),
             image3: require('../assets/produtos/corrente-3-elo-1.jpeg'),
             title: "CORRENTE MASCULINA",
             price: "229,99",
@@ -992,7 +989,7 @@ const data = {
             parcel: "5x de 13,60",
             buy: "https://wa.link/4i0oxl"
         },
-        {
+        /*{
             id: 81,
             name: "masculino",
             image: require('../assets/produtos/corrente-masc-8.2gr.jpeg'),
@@ -1004,7 +1001,7 @@ const data = {
             overview: "Corrente Masculina 8.2GR - 60cm. Uma corrente masculina é muito mais do que apenas um acessório. Ela é uma afirmação de estilo e personalidade, que pode destacar ainda mais a beleza e a força do homem moderno. Invista agora em uma corrente masculina de qualidade e sinta a diferença em seu visual e em sua autoconfiança.",
             parcel: "5x de 39,20",
             buy: "https://wa.link/61290k"
-        },
+        },*/
         {
             id: 82,
             name: "masculino",

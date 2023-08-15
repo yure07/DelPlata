@@ -39,8 +39,8 @@
             "id": 7,
             "image": "../images/produtos/corrente-masc.jpeg",
             "title": "CORRENTE MASCULINA 70CM",
-            "price": "159,99",
-            "priceNow": "R$ 139,99"
+            "price": "179,99",
+            "priceNow": "R$ 157,99"
         },
         {
             "id": 8,
@@ -206,9 +206,9 @@
         {
             "id": 33,
             "image": "../images/produtos/corrente-masc-60cm.jpeg",
-            "title": "CORRENTE MASCULINA 60CM",
-            "price": "139,99",
-            "priceNow": "R$ 115,99"
+            "title": "CORRENTE MASCULINA 70CM",
+            "price": "159,99",
+            "priceNow": "R$ 142,99"
         },
         {
             "id": 34,
@@ -531,13 +531,6 @@
             "title": "TORNOZELEIRA BORBOLETA",
             "price": "77,99",
             "priceNow": "ESGOTADO"
-        },
-        {
-            "id": 81,
-            "image": "../images/produtos/corrente-masc-8.2gr.jpeg",
-            "title": "CORRENTE MASCULINA",
-            "price": "219,99",
-            "priceNow": "R$ 195,99"
         },
         {
             "id": 82,
