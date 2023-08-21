@@ -528,10 +528,10 @@ const data = {
             image2: require('../assets/produtos/pulseira-masc-20cm.jpeg'),
             image3: require('../assets/produtos/pulseira-masc-20cm.jpeg'),
             title: "PULSEIRA MASCULINA",
-            price: "109,99",
-            priceNow: "R$ 93,99",
+            price: "93,99",
+            priceNow: "R$ 74,99",
             overview: "Pulseira Masculina - 20cm. - 3,2GR. Uma pulseira é mais do que um simples adorno, é um símbolo de elegância, sofisticação e personalidade. Invista em uma pulseira de qualidade e eleve o seu estilo a um novo patamar.",
-            parcel: "5x de 18,80",
+            parcel: "5x de 14,99",
             buy: "https://wa.link/job6ys"
         },
         {
@@ -1209,6 +1209,19 @@ const data = {
             overview: "Brinco Corrente com Ponto de Luz Coração. Não espere mais para adquirir essa joia exclusiva que irá iluminar seu rosto e sua vida. Eleve seu visual, exalte sua beleza e faça uma declaração de sofisticação com nosso brinco extraordinário. ",
             parcel: "5x de 13,60",
             buy: 'https://wa.link/w9wpxc'
+        },
+        {
+            id: 99,
+            name: "masculino",
+            image: require('../assets/produtos/corrente-elo-tijolinho1.jpeg'),
+            image2: require('../assets/produtos/corrente-elo-tijolinho2.jpeg'),
+            image3: require('../assets/produtos/corrente-elo-tijolinho1.jpeg'),
+            title: "CORRENTE ELO TIJOLINHO",
+            price: "85,99",
+            priceNow: "R$ 79,99",
+            overview: "Corrente Elo Tijolinho - 60cm. Seu estilo merece a autenticidade desta corrente masculina. Feita para os que valorizam o poder da sofisticação despretensiosa. Cada elo conta uma história de força e masculinidade. Seja para aprimorar seu visual casual ou elevar seu charme formal, esta corrente é mais do que um acessório.",
+            parcel: "5x de 15,99",
+            buy: "https://wa.link/8r75j6"
         }
     ],
 };
