@@ -547,7 +547,7 @@ const data = {
             parcel: "5x de 16,40",
             buy: "https://wa.link/yleyb0"
         },
-        {
+        /*{
             id: 46,
             name: "masculino",
             image: require('../assets/produtos/pulseira-masc3.jpeg'),
@@ -559,7 +559,7 @@ const data = {
             overview: "Pulseira Masculina - 21cm. Uma pulseira é mais do que um simples adorno, é uma peça que carrega consigo sentimentos e memórias que te acompanharão para sempre. Carregue a sua história com a Del Plata",
             parcel: "5x de 27,00",
             buy: "https://wa.link/9p10d3"
-        },
+        },*/
         {
             id: 48,
             name: "colar",
@@ -1222,6 +1222,19 @@ const data = {
             overview: "Corrente Elo Tijolinho - 60cm. Seu estilo merece a autenticidade desta corrente masculina. Feita para os que valorizam o poder da sofisticação despretensiosa. Cada elo conta uma história de força e masculinidade. Seja para aprimorar seu visual casual ou elevar seu charme formal, esta corrente é mais do que um acessório.",
             parcel: "5x de 15,99",
             buy: "https://wa.link/8r75j6"
+        },
+        {
+            id: 100,
+            name: "masculino",
+            image: require('../assets/produtos/pulseira-3x1.jpeg'),
+            image2: require('../assets/produtos/pulseira-3x1.2.jpeg'),
+            image3: require('../assets/produtos/pulseira-3x1.jpeg'),
+            title: "PULSEIRA MASCULINA",
+            price: "69,99",
+            priceNow: "R$ 58,99",
+            overview: "Pulseira 3x1 - 2mm. Na sua jornada rumo à excelência no estilo, cada detalhe importa. Esta pulseira masculina não é apenas um acessório, é a expressão da sua individualidade e bom gosto. Combinando perfeitamente com qualquer visual, do casual ao sofisticado, ela irá enaltecer o seu pulso de uma forma única.",
+            parcel: "5x de 11,80",
+            buy: "https://wa.link/45d5so"
         }
     ],
 };

@@ -295,13 +295,6 @@
             "priceNow": "R$ 81,99"
         },
         {
-            "id": 46,
-            "image": "../images/produtos/pulseira-masc3.jpeg",
-            "title": "PULSEIRA MASCULINA",
-            "price": "159,99",
-            "priceNow": "R$ 134,99"
-        },
-        {
             "id": 48,
             "image": "../images/produtos/colar-gota.jpeg",
             "title": "COLAR GOTA",
