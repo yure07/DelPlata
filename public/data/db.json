@@ -636,6 +636,34 @@
             "title": "BRINCO CORRENTE",
             "price": "79,99",
             "priceNow": "R$ 66,99"
+        },
+        {
+            "id": 100,
+            "image": "../images/produtos/pulseira-3x1.jpeg",
+            "title": "PULSEIRA MASCULINA",
+            "price": "69,99",
+            "priceNow": "R$ 58,99"
+        },
+        {
+            "id": 101,
+            "image": "../images/produtos/pulseira-groumett-5.jpeg",
+            "title": "PULSEIRA MASCULINA",
+            "price": "199,99",
+            "priceNow": "R$ 174,99"
+        },
+        {
+            "id": 102,
+            "image": "../images/produtos/pulseira-groumett-6.jpeg",
+            "title": "PULSEIRA MASCULINA",
+            "price": "229,99",
+            "priceNow": "R$ 203,99"
+        },
+        {
+            "id": 103,
+            "image": "../images/produtos/pulseira-groumett-7.jpeg",
+            "title": "PULSEIRA MASCULINA",
+            "price": "319,99",
+            "priceNow": "R$ 283,99"
         }
     ]
 }

@@ -1235,6 +1235,45 @@ const data = {
             overview: "Pulseira 3x1 - 2mm. Na sua jornada rumo à excelência no estilo, cada detalhe importa. Esta pulseira masculina não é apenas um acessório, é a expressão da sua individualidade e bom gosto. Combinando perfeitamente com qualquer visual, do casual ao sofisticado, ela irá enaltecer o seu pulso de uma forma única.",
             parcel: "5x de 11,80",
             buy: "https://wa.link/45d5so"
+        },
+        {
+            id: 101,
+            name: "masculino",
+            image: require('../assets/produtos/pulseira-groumett-5.jpeg'),
+            image2: require('../assets/produtos/pulseira-groumett-5.2.jpeg'),
+            image3: require('../assets/produtos/pulseira-groumett-5.jpeg'),
+            title: "PULSEIRA MASCULINA",
+            price: "199,99",
+            priceNow: "R$ 174,99",
+            overview: "Pulseira Elo Groumett - 5mm. Eleve seu estilo com a sofisticação e a masculinidade que uma pulseira única proporciona. Uma declaração de personalidade e elegância, esta pulseira é o toque final que seu visual merece.",
+            parcel: "5x de 34,99",
+            buy: "https://wa.link/4po3l5",
+        },
+        {
+            id: 102,
+            name: "masculino",
+            image: require('../assets/produtos/pulseira-groumett-6.jpeg'),
+            image2: require('../assets/produtos/pulseira-groumett-6.2.jpeg'),
+            image3: require('../assets/produtos/pulseira-groumett-6.jpeg'),
+            title: "PULSEIRA MASCULINA",
+            price: "229,99",
+            priceNow: "R$ 203,99",
+            overview: "Pulseira Elo Groumett - 6mm. Eleve o seu estilo com a sofisticação da masculina pulseira que combina perfeitamente com qualquer ocasião. Um toque de elegância e confiança ao alcance do seu pulso.",
+            parcel: "5x de 40,80",
+            buy: "https://wa.link/oaz5x6"
+        },
+        {
+            id: 103,
+            name: "masculino",
+            image: require('../assets/produtos/pulseira-groumett-7.jpeg'),
+            image2: require('../assets/produtos/pulseira-groumett7.2.jpeg'),
+            image3: require('../assets/produtos/pulseira-groumett-7.jpeg'),
+            title: "PULSEIRA MASCULINA",
+            price: "319,99",
+            priceNow: "R$ 283,99",
+            overview: "Pulseira Elo Groumett - 7mm. Eleve seu estilo com a sofisticação ousada da nossa pulseira masculina. Feita para os que buscam mais do que simples acessórios, esta pulseira é um símbolo de poder e elegância. Faça uma declaração de moda única e destaque-se em qualquer ocasião com nossa pulseira que combina perfeitamente com a sua personalidade distintiva.",
+            parcel: "5x de 56,80",
+            buy: "https://wa.link/lcqpqs"
         }
     ],
 };
