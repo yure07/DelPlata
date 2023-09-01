@@ -1274,6 +1274,45 @@ const data = {
             overview: "Pulseira Elo Groumett - 7mm. Eleve seu estilo com a sofisticação ousada da nossa pulseira masculina. Feita para os que buscam mais do que simples acessórios, esta pulseira é um símbolo de poder e elegância. Faça uma declaração de moda única e destaque-se em qualquer ocasião com nossa pulseira que combina perfeitamente com a sua personalidade distintiva.",
             parcel: "5x de 56,80",
             buy: "https://wa.link/lcqpqs"
+        },
+        {
+            id: 104,
+            name: "colar",
+            image: require('../assets/produtos/colar-coracoes1.jpeg'),
+            image2: require('../assets/produtos/colar-coracoes2.jpeg'),
+            image3: require('../assets/produtos/colar-coracoes1.jpeg'),
+            title: "COLAR CORAÇÕES",
+            price: "169,99",
+            priceNow: "R$ 142,99",
+            overview: "Colar Corações - 40cm. Gargantilha com 13 corações. Embrace o poder do amor com cada batida do seu coração adornado por este colar de corações. Cada coração representa uma história, um momento e um sentimento, criando um elo eterno de beleza e emoção.",
+            parcel: "5x de 28,60",
+            buy: "https://wa.link/8ejkrw"
+        },
+        {
+            id: 105,
+            name: "colar",
+            image: require('../assets/produtos/choker-bolas-grandes.jpeg'),
+            image2: require('../assets/produtos/choker-bolas-grandes2.jpeg'),
+            image3: require('../assets/produtos/choker-bolas-grandes2.jpeg'),
+            title: "CHOCKER FEMININO",
+            price: "199,99",
+            priceNow: "R$ 174,99",
+            overview: "Chocker Bolas Grandes e Pequenas - 40cm. Gargantilha com 15 bloas maciças. Transforme seu estilo em uma declaração ousada com este colar deslumbrante. Cada detalhe brilha como uma promessa de elegância e sofisticação. Use-o como um símbolo do seu próprio brilho interior ou ofereça-o a alguém especial, envolvendo-os em beleza incomparável.",
+            parcel: "5x de 34,99",
+            buy: "https://wa.link/eft98v"
+        },
+        {
+            id: 106,
+            name: "colar",
+            image: require('../assets/produtos/gargantilha-aro.jpeg'),
+            image2: require('../assets/produtos/gargantilha-aro2.jpeg'),
+            image3: require('../assets/produtos/gargantilha-aro.jpeg'),
+            title: "GARGANTILHA ARO",
+            price: "219,99",
+            priceNow: "R$ 194,99",
+            overview: "Gargantilha Aro. Realce sua elegância com a ousadia desta gargantilha única. Cada curva e detalhe foram criados para capturar olhares e despertar admiração. Vista-a para acrescentar um toque de mistério e sofisticação ao seu visual, seja numa noite especial ou no seu dia a dia.",
+            parcel: "5x de 38,99",
+            buy: "https://wa.link/yl3opr"
         }
     ],
 };

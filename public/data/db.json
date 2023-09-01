@@ -664,6 +664,27 @@
             "title": "PULSEIRA MASCULINA",
             "price": "319,99",
             "priceNow": "R$ 283,99"
+        },
+        {
+            "id": 104,
+            "image": "../images/produtos/colar-coracoes1.jpeg",
+            "title": "COLAR CORAÇÕES",
+            "price": "169,99",
+            "priceNow": "R$ 142,99"
+        },
+        {
+            "id": 105,
+            "image": "../images/produtos/choker-bolas-grandes.jpeg",
+            "title": "CHOCKER FEMININO",
+            "price": "199,99",
+            "priceNow": "R$ 174,99"
+        },
+        {
+            "id": 106,
+            "image": "../images/produtos/gargantilha-aro.jpeg",
+            "title": "GARGANTILHA ARO",
+            "price": "219,99",
+            "priceNow": "R$ 194,99"
         }
     ]
 }
