@@ -14,7 +14,7 @@ const data = {
             parcel: "5x de R$ 11,99",
             buy: "https://wa.link/f4z9yt"
         },
-        {
+        /*{
             id: 3,
             name: "colar",
             image: require('../assets/produtos/colar-fe.jpeg'),
@@ -22,11 +22,11 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "COLAR PRATA FÉ",
             price: "89,99",
-            priceNow: "R$ 79,99",
+            priceNow: "ESGOTADO",
             overview: "Colar Prata Fé - 40cm. Aquela joia que vai te conquistar, um modelo simples e delicado. Um lembrete diário para carregar junto ao coração.",
             parcel: "5x de R$ 15,60",
             buy: "https://wa.link/lisc25"
-        },
+        },*/
         {
             id: 4,
             name: "colar",
@@ -339,7 +339,7 @@ const data = {
             parcel: "5x de 11,80",
             buy: "https://wa.link/evulx0"
         },
-        {
+        /*{
             id: 30,
             name: "pulseira",
             image: require('../assets/produtos/pulseira-bolinhas.jpeg'),
@@ -364,7 +364,7 @@ const data = {
             overview: "Pulseira Feminina de Bolas - 17,5 a 21,5cm. Uma pulseira é a escolha perfeita para quem quer adicionar um toque de estilo e sofisticação a qualquer look, enquanto carrega consigo um símbolo de história e significado. Simbolize sua história com um produto DelPlata.",
             parcel: "5x de 23,80",
             buy: "https://wa.link/ge3e98"
-        },
+        },*/
         {
             id: 32,
             name: "pulseira",
@@ -508,7 +508,7 @@ const data = {
             parcel: "5x de 8,40",
             buy: "https://wa.link/vww0u9"
         },
-        {
+        /*{
             id: 43,
             name: "colar",
             image: require('../assets/produtos/corrente-laminada.jpeg'),
@@ -516,11 +516,11 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "CORRENTE LAMINADA",
             price: "149,99",
-            priceNow: "R$ 135,99",
+            priceNow: "ESGOTADO",
             overview: "Corrente Laminada - 45cm. Uma corrente é mais do que um acessório, é uma expressão da sua personalidade e estilo. É a forma perfeita de realçar a sua beleza e marcar presença por onde passa. Marque presença usando Del Plata.",
             parcel: "5x de 27,20",
             buy: "https://wa.link/t2i6xm"
-        },
+        },*/
         {
             id: 44,
             name: "masculino",
@@ -573,7 +573,7 @@ const data = {
             parcel: "5x de 15,60",
             buy: "https://wa.link/n11knf"
         },
-        {
+        /*{
             id: 49,
             name: "colar",
             image: require('../assets/produtos/colar-chave.jpeg'),
@@ -581,11 +581,11 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "COLAR CHAVE",
             price: "99,99",
-            priceNow: "R$ 77,99",
+            priceNow: "ESGOTADO",
             overview: "Colar Chave - 45cm. Este colar é a escolha perfeita para adicionar um toque de elegância ao seu visual. Com seu design único e sofisticado, você certamente se destacará em qualquer ocasião.",
             parcel: "5x de 15,60",
             buy: "https://wa.link/ok6h5o"
-        },
+        },*/
         {
             id: 50,
             name: "colar",
@@ -599,7 +599,7 @@ const data = {
             parcel: "5x de 15,60",
             buy: "https://wa.link/8fou7x"   
         },
-        {
+        /*{
             id: 51,
             name: "colar",
             image: require('../assets/produtos/choker-coracao.jpeg'),
@@ -611,7 +611,7 @@ const data = {
             overview: "Choker Coração Lado Zircônia - 40cm. Este colar é a escolha perfeita para quem deseja adicionar um toque de elegância e sofisticação ao seu visual. Ele certamente chamará a atenção de todos ao seu redor.",
             parcel: "5x de 15,60",
             buy: "https://wa.link/gf3ofv"
-        },
+        },*/
         {
             id: 52,
             name: "colar",
@@ -703,7 +703,7 @@ const data = {
             parcel: "5x de 37,99",
             buy: "https://wa.link/sr2a6k"
         },
-        {
+        /*{
             id: 59,
             name: "pulseira",
             image: require('../assets/produtos/pulseira-zirconia-pendurada.jpeg'),
@@ -728,7 +728,7 @@ const data = {
             overview: "Pulseira Zircônia Rosa - 18cm. Com sua beleza e sofisticação, você não vai querer tirá-la do pulso e com certeza vai receber elogios por onde passar. Não perca a chance de ter essa joia incrível em sua coleção e sinta-se ainda mais especial e bela com a sua nova pulseira.",
             parcel: "5x de 12,99",
             buy: "https://wa.link/md1d54"
-        },
+        },*/
         {
             id: 61,
             name: "pulseira",
@@ -755,7 +755,7 @@ const data = {
             parcel: "5x de 15,99",
             buy: "https://wa.link/h3hki8"
         },
-        {
+        /*{
             id: 63,
             name: "pulseira",
             image: require('../assets/produtos/pulseira-zircônia-quadrada.jpeg'),
@@ -767,7 +767,7 @@ const data = {
             overview: "Pulseira Colorida com Zircônia Quadrada - 18cm. Realce sua beleza e elegância com a pulseira perfeita. Combinando estilo e sofisticação, essa pulseira vai te encantar e tornar seus looks ainda mais incríveis. Adquira agora mesmo e sinta-se ainda mais confiante e deslumbrante em qualquer ocasião.",
             parcel: "5x de 13,60",
             buy: "https://wa.link/oqfvwj"
-        },
+        },*/
         {
             id: 64,
             name: "pulseira",
@@ -781,7 +781,7 @@ const data = {
             parcel: "5x de 14,80",
             buy: "https://wa.link/jtjwlg"
         },
-        {
+        /*{
             id: 65,
             name: "pulseira",
             image: require('../assets/produtos/pulseira-olho-grego-redondo.jpeg'),
@@ -832,7 +832,7 @@ const data = {
             overview: "Pulseira Elos de Coração Vazado - 19,5cm. Adicione um toque de elegância ao seu visual com essa deslumbrante pulseira. Feita com materiais de alta qualidade e design sofisticado, ela é o acessório perfeito para completar seu estilo único.",
             parcel: "5x de 14,99",
             buy: "https://wa.link/w61fgs"
-        },
+        },*/
         {
             id: 69,
             name: "pulseira",
@@ -846,7 +846,7 @@ const data = {
             parcel: "5x de 13,60",
             buy: "https://wa.link/1t5mcb"
         },
-        {
+        /*{
             id: 70,
             name: "pulseira",
             image: require('../assets/produtos/pulseira-retalhada.jpeg'),
@@ -871,7 +871,7 @@ const data = {
             overview: "Pulseira Prata de Bolas - 19cm. Adicione um toque de elegância ao seu visual com essa deslumbrante pulseira! Feita com materiais de alta qualidade e com um design sofisticado, ela irá complementar perfeitamente qualquer roupa.",
             parcel: "5x de 17,60",
             buy: "https://wa.link/fs8usf"
-        },
+        },*/
         {
             id: 72,
             name: "pulseira",
@@ -1080,7 +1080,7 @@ const data = {
             parcel: "5x de 9,60",
             buy: "https://wa.link/bz79gf"
         },
-        {
+        /*{
             id: 89,
             name: "pulseira",
             image: require('../assets/produtos/pulseira-elos-coracao-pequeno.jpeg'),
@@ -1092,7 +1092,7 @@ const data = {
             overview: "Pulseira Elo Coração - 18cm. Descubra a magia que envolve esta pulseira encantadora. Seu brilho radiante e seu design exuberante transformam qualquer look em uma verdadeira obra de arte. Não espere mais, adquira sua pulseira e permita-se brilhar em todos os momentos.",
             parcel: "5x de 6,40",
             buy: "https://wa.link/482o4g"
-        },
+        },*/
         {
             id: 90,
             name: "colar",
