@@ -554,13 +554,6 @@
             "priceNow": "R$ 283,99"
         },
         {
-            "id": 104,
-            "image": "../images/produtos/colar-coracoes1.jpeg",
-            "title": "COLAR CORAÇÕES",
-            "price": "169,99",
-            "priceNow": "R$ 142,99"
-        },
-        {
             "id": 105,
             "image": "../images/produtos/choker-bolas-grandes.jpeg",
             "title": "CHOCKER FEMININO",
@@ -573,6 +566,13 @@
             "title": "GARGANTILHA ARO",
             "price": "219,99",
             "priceNow": "R$ 194,99"
+        },
+        {
+            "id": 107,
+            "image": "../images/produtos/colar-coracao-grande-vazado1.jpeg",
+            "title": "COLAR CORAÇÃO VAZADO",
+            "price": "139,99",
+            "priceNow": "R$ 103,99"
         }
     ]
 }

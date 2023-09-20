@@ -1274,7 +1274,7 @@ const data = {
             overview: "Pulseira Elo Groumett - 7mm. Eleve seu estilo com a sofisticação ousada da nossa pulseira masculina. Feita para os que buscam mais do que simples acessórios, esta pulseira é um símbolo de poder e elegância. Faça uma declaração de moda única e destaque-se em qualquer ocasião com nossa pulseira que combina perfeitamente com a sua personalidade distintiva.",
             parcel: "5x de 56,80",
             buy: "https://wa.link/lcqpqs"
-        },
+        },/*
         {
             id: 104,
             name: "colar",
@@ -1287,7 +1287,7 @@ const data = {
             overview: "Colar Corações - 40cm. Gargantilha com 13 corações. Embrace o poder do amor com cada batida do seu coração adornado por este colar de corações. Cada coração representa uma história, um momento e um sentimento, criando um elo eterno de beleza e emoção.",
             parcel: "5x de 28,60",
             buy: "https://wa.link/8ejkrw"
-        },
+        },*/
         {
             id: 105,
             name: "colar",
@@ -1313,6 +1313,19 @@ const data = {
             overview: "Gargantilha Aro. Realce sua elegância com a ousadia desta gargantilha única. Cada curva e detalhe foram criados para capturar olhares e despertar admiração. Vista-a para acrescentar um toque de mistério e sofisticação ao seu visual, seja numa noite especial ou no seu dia a dia.",
             parcel: "5x de 38,99",
             buy: "https://wa.link/yl3opr"
+        },
+        {
+            id: 107,
+            name: "colar",
+            image: require('../assets/produtos/colar-coracao-grande-vazado1.jpeg'),
+            image2: require('../assets/produtos/colar-coracao-grande-vazado2.jpeg'),
+            image3: require('../assets/produtos/colar-coracao-grande-vazado1.jpeg'),
+            title: "COLAR CORAÇÃO VAZADO",
+            price: "139,99",
+            priceNow: "R$ 103,99",
+            overview: "Colar Coração grande vazado - 45cm. Adoce o seu estilo com o colar dos sonhos. Este não é apenas um acessório, é uma declaração de elegância e personalidade. Feito com detalhes cuidadosamente trabalhados, este colar é a combinação perfeita entre moda e sofisticação!.",
+            parcel: "5x de 20,80",
+            buy: "https://wa.link/poqa4d"
         }
     ],
 };
