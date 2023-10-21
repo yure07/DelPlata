@@ -5,7 +5,7 @@
             "image": "../images/produtos/choker.jpeg",
             "title": "CHOKER PONTO DE LUZ",
             "price": "79,99",
-            "priceNow": "R$ 59,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 4,
@@ -55,13 +55,6 @@
             "title": "BRINCO TRIO CORAÇÃO",
             "price": "75,99",
             "priceNow": "R$ 62,99"
-        },
-        {
-            "id": 11,
-            "image": "../images/produtos/brinco-trio-cor.jpeg",
-            "title": "BRINCO TRIO COLORIDO",
-            "price": "59,99",
-            "priceNow": "R$ 46,99"
         },
         {
             "id": 12,
@@ -187,7 +180,7 @@
             "image": "../images/produtos/corrente-masc-60cm.jpeg",
             "title": "CORRENTE MASCULINA 70CM",
             "price": "159,99",
-            "priceNow": "R$ 142,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 34,
@@ -208,7 +201,7 @@
             "image": "../images/produtos/pulseira-borboleta.jpeg",
             "title": "PULSEIRA BORBOLETA",
             "price": "67,99",
-            "priceNow": "R$ 54,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 37,
@@ -218,39 +211,11 @@
             "priceNow": "R$ 35,99"
         },
         {
-            "id": 38,
-            "image": "../images/produtos/anel-seta.jpeg",
-            "title": "ANEL SETA",
-            "price": "59,99",
-            "priceNow": "R$ 41,99"
-        },
-        {
-            "id": 39,
-            "image": "../images/produtos/anel-coracao-vazado.jpeg",
-            "title": "ANEL CORAÇÃO VAZADO",
-            "price": "89,99",
-            "priceNow": "R$ 71,99"
-        },
-        {
-            "id": 40,
-            "image": "../images/produtos/anel-coracao-liso.jpeg",
-            "title": "ANEL TORCIDO CORAÇÃO",
-            "price": "79,99",
-            "priceNow": "R$ 56,99"
-        },
-        {
             "id": 41,
             "image": "../images/produtos/anel-love.jpeg",
             "title": "ANEL LOVE",
             "price": "59,99",
             "priceNow": "R$ 45,99"
-        },
-        {
-            "id": 42,
-            "image": "../images/produtos/anel-coracao-infinito.jpeg",
-            "title": "ANEL CORAÇÃO INFINITO",
-            "price": "55,99",
-            "priceNow": "R$ 41,99"
         },
         {
             "id": 44,
@@ -274,13 +239,6 @@
             "priceNow": "R$ 77,99"
         },
         {
-            "id": 50,
-            "image": "../images/produtos/colar-estrela.jpeg",
-            "title": "COLAR ESTRELA",
-            "price": "99,99",
-            "priceNow": "R$ 77,99"
-        },
-        {
             "id": 52,
             "image": "../images/produtos/choker-olho-grego.jpeg",
             "title": "CHOKER OLHO GREGO",
@@ -295,25 +253,11 @@
             "priceNow": "R$ 48,99"
         },
         {
-            "id": 54,
-            "image": "../images/produtos/anel-pandora.jpeg",
-            "title": "ANEL PANDORA",
-            "price": "79,99",
-            "priceNow": "R$ 65,99"
-        },
-        {
             "id": 55,
             "image": "../images/produtos/anel-coracao-cravejado.jpeg",
             "title": "ANEL CRAVEJADO",
             "price": "109,99",
-            "priceNow": "R$ 91,99"
-        },
-        {
-            "id": 56,
-            "image": "../images/produtos/anel-pedra.jpeg",
-            "title": "ANEL LISO",
-            "price": "149,99",
-            "priceNow": "R$ 121,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 57,
@@ -358,13 +302,6 @@
             "priceNow": "R$ 67,99"
         },
         {
-            "id": 72,
-            "image": "../images/produtos/pulseira-retalha-fina.jpeg",
-            "title": "PULSEIRA RETALHADA",
-            "price": "84,99",
-            "priceNow": "R$ 74,99"
-        },
-        {
             "id": 73,
             "image": "../images/produtos/brinco-duplinha-estrela-lua.jpeg",
             "title": "BRINCO DUPLINHA",
@@ -400,27 +337,6 @@
             "priceNow": "R$ 47,99"
         },
         {
-            "id": 78,
-            "image": "../images/produtos/tornozeleira-estrela-do-mar.jpeg",
-            "title": "TORNOZELEIRA ESTRELA DO MAR",
-            "price": "77,99",
-            "priceNow": "ESGOTADO"
-        },
-        {
-            "id": 79,
-            "image": "../images/produtos/tornozeleira-ponto-de-luz.jpeg",
-            "title": "TORNOZELEIRA CORAÇÃO",
-            "price": "77,99",
-            "priceNow": "ESGOTADO"
-        },
-        {
-            "id": 80,
-            "image": "../images/produtos/tornozeleira-borboleta.jpeg",
-            "title": "TORNOZELEIRA BORBOLETA",
-            "price": "77,99",
-            "priceNow": "ESGOTADO"
-        },
-        {
             "id": 82,
             "image": "../images/produtos/escap-masc.jpeg",
             "title": "ESCAPULÁRIO MASCULINO",
@@ -428,39 +344,11 @@
             "priceNow": "R$ 164,99"
         },
         {
-            "id": 83,
-            "image": "../images/produtos/pulseira-infantil-placa.jpeg",
-            "title": "PULSEIRA INFANTIL",
-            "price": "79,99",
-            "priceNow": "R$ 65,99"
-        },
-        {
-            "id": 84,
-            "image": "../images/produtos/pulsiera-infantil-ponto-de-luz.jpeg",
-            "title": "PULSEIRA INFANTIL",
-            "price": "59,99",
-            "priceNow": "R$ 40,99"
-        },
-        {
-            "id": 85,
-            "image": "../images/produtos/pulseira-infantil-ponto-vermelho.jpeg",
-            "title": "PULSEIRA INFANTIL",
-            "price": "49,99",
-            "priceNow": "R$ 37,99"
-        },
-        {
             "id": 86,
             "image": "../images/produtos/conjunto-ponto-de-luz.jpeg",
             "title": "CONJUNTO PONTO DE LUZ",
             "price": "109,99",
             "priceNow": "R$ 93,99"
-        },
-        {
-            "id": 88,
-            "image": "../images/produtos/trio-argolas.jpeg",
-            "title": "TRIO ARGOLAS",
-            "price": "59,99",
-            "priceNow": "R$ 47,99"
         },
         {
             "id": 90,
@@ -488,14 +376,7 @@
             "image": "../images/produtos/pulseira-piastrini2.jpeg",
             "title": "PULSEIRA ELO PIASTRINI",
             "price": "49,99",
-            "priceNow": "R$ 34,99"
-        },
-        {
-            "id": 94,
-            "image": "../images/produtos/brinco-coracao-vazado.jpeg",
-            "title": "BRINCO CORAÇÃO VAZADO",
-            "price": "79,99",
-            "priceNow": "R$ 63,99"
+            "priceNow": "ESGOTADO"
         },
         {
             "id": 95,
@@ -554,13 +435,6 @@
             "priceNow": "R$ 283,99"
         },
         {
-            "id": 105,
-            "image": "../images/produtos/choker-bolas-grandes.jpeg",
-            "title": "CHOCKER FEMININO",
-            "price": "199,99",
-            "priceNow": "R$ 174,99"
-        },
-        {
             "id": 106,
             "image": "../images/produtos/gargantilha-aro.jpeg",
             "title": "GARGANTILHA ARO",
@@ -573,6 +447,153 @@
             "title": "COLAR CORAÇÃO VAZADO",
             "price": "139,99",
             "priceNow": "R$ 103,99"
+        },
+        {
+            "id": 108,
+            "image": "../images/produtos/colar-singapura-A.jpeg",
+            "title": "COLAR SINGAPURA A",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 109,
+            "image": "../images/produtos/colar-singapura-B.jpeg",
+            "title": "COLAR SINGAPURA B",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 110,
+            "image": "../images/produtos/colar-singapura-C.jpeg",
+            "title": "COLAR SINGAPURA C",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 111,
+            "image": "../images/produtos/colar-singapura-D.jpeg",
+            "title": "COLAR SINGAPURA D",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 112,
+            "image": "../images/produtos/colar-singapura-E.jpeg",
+            "title": "COLAR SINGAPURA E",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 113,
+            "image": "../images/produtos/colar-singapura-F.jpeg",
+            "title": "COLAR SINGAPURA F",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 114,
+            "image": "../images/produtos/colar-singapura-G.jpeg",
+            "title": "COLAR SINGAPURA G",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 115,
+            "image": "../images/produtos/colar-singapura-H.jpeg",
+            "title": "COLAR SINGAPURA H",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 116,
+            "image": "../images/produtos/colar-singapura-I.jpeg",
+            "title": "COLAR SINGAPURA I",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 117,
+            "image": "../images/produtos/colar-singapura-J.jpeg",
+            "title": "COLAR SINGAPURA J",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 118,
+            "image": "../images/produtos/colar-singapura-K.jpeg",
+            "title": "COLAR SINGAPURA K",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 119,
+            "image": "../images/produtos/colar-singapura-L.jpeg",
+            "title": "COLAR SINGAPURA L",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 120,
+            "image": "../images/produtos/colar-singapura-M.jpeg",
+            "title": "COLAR SINGAPURA M",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 121,
+            "image": "../images/produtos/colar-singapura-O.jpeg",
+            "title": "COLAR SINGAPURA O",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 122,
+            "image": "../images/produtos/colar-singapura-P.jpeg",
+            "title": "COLAR SINGAPURA P",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 123,
+            "image": "../images/produtos/colar-singapura-Q.jpeg",
+            "title": "COLAR SINGAPURA Q",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 124,
+            "image": "../images/produtos/colar-singapura-R.jpeg",
+            "title": "COLAR SINGAPURA R",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 125,
+            "image": "../images/produtos/colar-singapura-S.jpeg",
+            "title": "COLAR SINGAPURA S",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 126,
+            "image": "../images/produtos/colar-singapura-T.jpeg",
+            "title": "COLAR SINGAPURA T",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 127,
+            "image": "../images/produtos/colar-singapura-U.jpeg",
+            "title": "COLAR SINGAPURA U",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 128,
+            "image": "../images/produtos/colar-singapura-V.jpeg",
+            "title": "COLAR SINGAPURA V",
+            "price": "99,99",
+            "priceNow": "R$ 87,99"
         }
     ]
 }

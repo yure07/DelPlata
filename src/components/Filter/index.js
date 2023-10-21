@@ -12,7 +12,6 @@ export default function Filter () {
                   <Link to={"/filter/colar"}> <li>colares</li> </Link>
                   <Link to={"/filter/anel"}> <li>anéis</li> </Link>
                   <Link to={"/filter/brinco"}> <li>brincos</li> </Link>
-                  <Link to={"/filter/tornozeleira"}> <li>tornozeleiras</li> </Link>
                   <Link to={"/filter/masculino"}> <li>masculino</li> </Link>
                   <Link to={"/filter/infantil"}> <li>infantil</li> </Link>
                   <Link to={"/filter/piercing"}> <li>piercing</li> </Link>

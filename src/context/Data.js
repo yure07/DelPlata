@@ -9,7 +9,7 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "CHOKER PONTO DE LUZ",
             price: "79,99",
-            priceNow: "R$ 59,99",
+            priceNow: "ESGOTADO",
             overview: "Choker Ponto de Luz 40cm. Um colar com um design exclusivo e com cada detalhe pensado para completar e trazer mais beleza ao estilo de cada mulher.",
             parcel: "5x de R$ 11,99",
             buy: "https://wa.link/f4z9yt"
@@ -118,7 +118,7 @@ const data = {
             parcel: "5x de 12,60",
             buy: "https://wa.link/32uugj"
         },
-        {
+        /*{
             id: 11,
             name: "brinco",
             image: require('../assets/produtos/brinco-trio-cor.jpeg'),
@@ -130,7 +130,7 @@ const data = {
             overview: "Brinco Trio Corações Colorido. Com tamanho de 4mm. Brilhe com confiança, use um brinco como uma coroa de estilo!, se tem um brinco que que te surpreenderá em belza, com certeza é esse.",
             parcel: "5x de 9,40",
             buy: "https://wa.link/hobdlw"
-        },
+        },*/
         {
             id: 12,
             name: "brinco",
@@ -386,7 +386,7 @@ const data = {
             image3: require('../assets/tamanhos-colar.webp'),
             title: "CORRENTE MASCULINA 70CM",
             price: "159,99",
-            priceNow: "R$ 142,99",
+            priceNow: "ESGOTADO",
             overview: "Corrente Masculina 70cm 4GR. Uma corrente pode ser mais do que um acessório de moda, pode ser uma peça de valor duradouro que acrescenta um toque de elegância e sofisticação a qualquer visual. Compre uma corrente de alta qualidade hoje e você poderá desfrutar dela por anos.",
             parcel: "5x de 28,60",
             buy: "https://wa.link/izyk53" 
@@ -425,7 +425,7 @@ const data = {
             image3: require('../assets/produtos/pulseira-borboleta2.jpeg'),
             title: "PULSEIRA BORBOLETA",
             price: "67,99",
-            priceNow: "R$ 54,99",
+            priceNow: "ESGOTADO",
             overview: "Pulseira Borboleta - 18.5cm. Uma pulseira é mais do que um simples acessório - ela pode ser uma maneira de expressar sua personalidade e estilo. Além disso, uma pulseira bem escolhida pode ser um presente perfeito para alguém especial em sua vida.",
             parcel: "5x de 11,20",
             buy: "https://wa.link/egsd73"
@@ -443,7 +443,7 @@ const data = {
             parcel: "5x de 7,50",
             buy: "https://wa.link/8l8w3e"
         },
-        {
+        /*{
             id: 38,
             name: "anel",
             image: require('../assets/produtos/anel-seta.jpeg'),
@@ -481,7 +481,7 @@ const data = {
             overview: "Anel de Prata com Aro Torcido e Coração Liso - 16cm. O anel coração é elegante, sofisticado e atemporal. Sua beleza discreta e durabilidade tornam-no uma escolha clássica e versátil para qualquer ocasião.",
             parcel: "5x de 11,40",
             buy: "https://wa.link/vn4t97"
-        },
+        },*/
         {
             id: 41,
             name: "anel",
@@ -495,7 +495,7 @@ const data = {
             parcel: "5x de 9,20",
             buy: "https://wa.link/ztlxca"
         },
-        {
+        /*{
             id: 42,
             name: "anel",
             image: require('../assets/produtos/anel-coracao-infinito.jpeg'),
@@ -508,7 +508,7 @@ const data = {
             parcel: "5x de 8,40",
             buy: "https://wa.link/vww0u9"
         },
-        /*{
+        {
             id: 43,
             name: "colar",
             image: require('../assets/produtos/corrente-laminada.jpeg'),
@@ -585,7 +585,7 @@ const data = {
             overview: "Colar Chave - 45cm. Este colar é a escolha perfeita para adicionar um toque de elegância ao seu visual. Com seu design único e sofisticado, você certamente se destacará em qualquer ocasião.",
             parcel: "5x de 15,60",
             buy: "https://wa.link/ok6h5o"
-        },*/
+        },
         {
             id: 50,
             name: "colar",
@@ -638,7 +638,7 @@ const data = {
             parcel: "5x de 9,80",
             buy: "https://wa.link/t3cqq1"
         },
-        {
+        /*{
             id: 54,
             name: "anel",
             image: require('../assets/produtos/anel-pandora.jpeg'),
@@ -650,7 +650,7 @@ const data = {
             overview: "Anel Pandora - 19cm. Feito com materiais de alta qualidade e design clean, ele simboliza a beleza da simplicidade e a sofisticação do minimalismo. Seja para uma ocasião especial ou para uso diário, este anel é uma escolha perfeita.",
             parcel: "5x de 13,20",
             buy: "https://wa.link/uyb0do"
-        },
+        },*/
         {
             id: 55,
             name: "anel",
@@ -659,12 +659,12 @@ const data = {
             image3: require('../assets/produtos/anel-coracao-cravejado.jpeg'),
             title: "ANEL CRAVEJADO",
             price: "109,99",
-            priceNow: "R$ 91,99",
+            priceNow: "ESGOTADO",
             overview: "Anel Coração Vazado Cravejado - 16cm. Ao colocar este anel em seu dedo, você estará mostrando ao mundo o seu bom gosto e sua personalidade única. Não perca a oportunidade de adquirir esta joia exclusiva e adicionar um toque de glamour ao seu visual.",
             parcel: "5x de 18,40",
             buy: "https://wa.link/s2vbez"
         },
-        {
+        /*{
             id: 56,
             name: "anel",
             image: require('../assets/produtos/anel-pedra.jpeg'),
@@ -676,7 +676,7 @@ const data = {
             overview: "Anel Liso com Pedra Coração Embutido - 19cm. Com um design incrivelmente elegante e uma qualidade excepcional, este anel é uma verdadeira obra de arte em forma de joia. Sua beleza atemporal vai iluminar qualquer look e torná-lo ainda mais especial.",
             parcel: "5x de 24,40",
             buy: "https://wa.link/1e3xyv"
-        },
+        },*/
         {
             id: 57,
             name: "anel",
@@ -871,7 +871,7 @@ const data = {
             overview: "Pulseira Prata de Bolas - 19cm. Adicione um toque de elegância ao seu visual com essa deslumbrante pulseira! Feita com materiais de alta qualidade e com um design sofisticado, ela irá complementar perfeitamente qualquer roupa.",
             parcel: "5x de 17,60",
             buy: "https://wa.link/fs8usf"
-        },*/
+        },
         {
             id: 72,
             name: "pulseira",
@@ -884,7 +884,7 @@ const data = {
             overview: "Pulseira Prata Retalho Fino - 19cm. Transforme o seu estilo em algo ainda mais marcante com a pulseira perfeita! Não há melhor maneira de expressar sua individualidade e adicionar um toque pessoal ao seu look do que com uma pulseira única.",
             parcel: "5x de 14,99",
             buy: "https://wa.link/7z3etb"
-        },
+        },*/
         {
             id: 73,
             name: "brinco",
@@ -950,7 +950,7 @@ const data = {
             parcel: "5x de 9,60",
             buy: "https://wa.link/waewks"
         },
-        {
+        /*{
             id: 78,
             name: "tornozeleira",
             image: require('../assets/produtos/tornozeleira-estrela-do-mar.jpeg'),
@@ -989,7 +989,7 @@ const data = {
             parcel: "5x de 13,60",
             buy: "https://wa.link/4i0oxl"
         },
-        /*{
+        {
             id: 81,
             name: "masculino",
             image: require('../assets/produtos/corrente-masc-8.2gr.jpeg'),
@@ -1015,7 +1015,7 @@ const data = {
             parcel: "5x de 32,99",
             buy: "https://wa.link/nn275f"
         },
-        {
+        /*{
             id: 83,
             name: "infantil",
             image: require('../assets/produtos/pulseira-infantil-placa.jpeg'),
@@ -1053,7 +1053,7 @@ const data = {
             overview: "Pulseira Infantil Ponto de Luz Vermelho - 13.5cm. As crianças adoram acessórios divertidos e coloridos, e uma pulseira infantil pode ser o presente perfeito para deixar o seu filho ou filha ainda mais feliz.  Adquira agora uma pulseira infantil de qualidade e faça o dia do seu filho ou filha ainda mais especial.",
             parcel: "5x de 7,60",
             buy: "https://wa.link/50x7kp"
-        },
+        },*/
         {
             id: 86,
             name: "colar",
@@ -1067,7 +1067,7 @@ const data = {
             parcel: "5x de 18,80",
             buy: "https://wa.link/lljdmr"
         },
-        {
+        /*{
             id: 88,
             name: "brinco",
             image: require('../assets/produtos/trio-argolas.jpeg'),
@@ -1080,7 +1080,7 @@ const data = {
             parcel: "5x de 9,60",
             buy: "https://wa.link/bz79gf"
         },
-        /*{
+        {
             id: 89,
             name: "pulseira",
             image: require('../assets/produtos/pulseira-elos-coracao-pequeno.jpeg'),
@@ -1140,12 +1140,12 @@ const data = {
             image3: require('../assets/produtos/pulseira-piastrini2.jpeg'),
             title: "PULSEIRA ELO PIASTRINI",
             price: "49,99",
-            priceNow: "R$ 34,99",
+            priceNow: "ESGOTADO",
             overview: "Pulseira Elo Piastrini 1,1gr. Sinta a confiança e a autoexpressão elevarem-se enquanto você exibe essa pulseira única em seu pulso. Aproveite a oportunidade de possuir uma peça exclusiva que será admirada por sua beleza e delicadeza em todos os momentos.",
             parcel: "5x de 6,99",
             buy: "https://wa.link/haejfi"
         },
-        {
+        /*{
             id: 94,
             name: "brinco",
             image: require('../assets/produtos/brinco-coracao-vazado.jpeg'),
@@ -1157,7 +1157,7 @@ const data = {
             overview: "Brinco Coração Vazado - 2,2 x 1,7cm. Descubra o poder de um detalhe elegante! Adquira agora mesmo nosso deslumbrante brinco, perfeito para realçar sua beleza e transmitir sua personalidade única. Seja o centro das atenções e encante a todos com esse acessório sofisticado.",
             parcel: "5x de 12,80",
             buy: "https://wa.link/apq5l9"
-        },
+        },*/
         {
             id: 95,
             name: "brinco",
@@ -1287,7 +1287,7 @@ const data = {
             overview: "Colar Corações - 40cm. Gargantilha com 13 corações. Embrace o poder do amor com cada batida do seu coração adornado por este colar de corações. Cada coração representa uma história, um momento e um sentimento, criando um elo eterno de beleza e emoção.",
             parcel: "5x de 28,60",
             buy: "https://wa.link/8ejkrw"
-        },*/
+        },
         {
             id: 105,
             name: "colar",
@@ -1300,7 +1300,7 @@ const data = {
             overview: "Chocker Bolas Grandes e Pequenas - 40cm. Gargantilha com 15 bloas maciças. Transforme seu estilo em uma declaração ousada com este colar deslumbrante. Cada detalhe brilha como uma promessa de elegância e sofisticação. Use-o como um símbolo do seu próprio brilho interior ou ofereça-o a alguém especial, envolvendo-os em beleza incomparável.",
             parcel: "5x de 34,99",
             buy: "https://wa.link/eft98v"
-        },
+        },*/
         {
             id: 106,
             name: "colar",
@@ -1326,7 +1326,281 @@ const data = {
             overview: "Colar Coração grande vazado - 45cm. Adoce o seu estilo com o colar dos sonhos. Este não é apenas um acessório, é uma declaração de elegância e personalidade. Feito com detalhes cuidadosamente trabalhados, este colar é a combinação perfeita entre moda e sofisticação!.",
             parcel: "5x de 20,80",
             buy: "https://wa.link/poqa4d"
-        }
+        },
+        {
+            id: 108,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-A.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-A.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-A.jpeg'),
+            title: "COLAR SINGAPURA A",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra A. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/glf5ku"
+        },
+        {
+            id: 109,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-B.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-B.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-B.jpeg'),
+            title: "COLAR SINGAPURA B",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra B. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/b0y7z2"
+        },
+        {
+            id: 110,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-C.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-C.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-C.jpeg'),
+            title: "COLAR SINGAPURA C",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra C. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/m4x0du"
+        },
+        {
+            id: 111,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-D.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-D.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-D.jpeg'),
+            title: "COLAR SINGAPURA D",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra D. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/50oz2b"
+        },
+        {
+            id: 112,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-E.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-E.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-E.jpeg'),
+            title: "COLAR SINGAPURA E",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra E. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/q3gjiq"
+        },
+        {
+            id: 113,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-F.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-F.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-F.jpeg'),
+            title: "COLAR SINGAPURA F",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra F. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/dfh3vc"
+        },
+        {
+            id: 114,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-G.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-G.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-G.jpeg'),
+            title: "COLAR SINGAPURA G",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra G. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/m72fmm"
+        },
+        {
+            id: 115,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-H.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-H.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-H.jpeg'),
+            title: "COLAR SINGAPURA H",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra H. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/zfhoxi"
+        },
+        {
+            id: 116,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-I.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-I.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-I.jpeg'),
+            title: "COLAR SINGAPURA I",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra I. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/bcvkbb"
+        },
+        {
+            id: 117,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-J.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-J.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-J.jpeg'),
+            title: "COLAR SINGAPURA J",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra J. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/1p0yrv"
+        },
+        {
+            id: 118,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-K.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-K.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-K.jpeg'),
+            title: "COLAR SINGAPURA K",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra K. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/gzjuug"
+        },
+        {
+            id: 119,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-L.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-L.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-L.jpeg'),
+            title: "COLAR SINGAPURA L",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra L. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/918a3k"
+        },
+        {
+            id: 120,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-M.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-M.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-M.jpeg'),
+            title: "COLAR SINGAPURA M",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra M. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/wie0xs"
+        },
+        {
+            id: 121,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-O.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-O.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-O.jpeg'),
+            title: "COLAR SINGAPURA O",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra O. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/wzul1n"
+        },
+        {
+            id: 122,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-P.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-P.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-P.jpeg'),
+            title: "COLAR SINGAPURA P",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra P. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/frol5h"
+        },
+        {
+            id: 123,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-Q.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-Q.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-Q.jpeg'),
+            title: "COLAR SINGAPURA Q",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra Q. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/2zqkwg"
+        },
+        {
+            id: 124,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-R.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-R.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-R.jpeg'),
+            title: "COLAR SINGAPURA R",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra R. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/r632na"
+        },
+        {
+            id: 125,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-S.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-S.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-S.jpeg'),
+            title: "COLAR SINGAPURA S",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra S. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/xumj2v"
+        },
+        {
+            id: 126,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-T.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-T.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-T.jpeg'),
+            title: "COLAR SINGAPURA T",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra T. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/azr9vm"
+        },
+        {
+            id: 127,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-U.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-U.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-U.jpeg'),
+            title: "COLAR SINGAPURA U",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra U. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/kri2kr"
+        },
+        {
+            id: 128,
+            name: "colar",
+            image: require('../assets/produtos/colar-singapura-V.jpeg'),
+            image2: require('../assets/produtos/colar-singapura-V.jpeg'),
+            image3: require('../assets/produtos/colar-singapura-V.jpeg'),
+            title: "COLAR SINGAPURA V",
+            price: "99,99",
+            priceNow: "R$ 87,99",
+            overview: "Colar Singapura com pedras de zircônia - 45cm. Adicione um toque pessoal à sua moda com este deslumbrante colar com pingente da letra V. Não é apenas uma peça de joia, mas uma declaração de estilo única para você. Mostre ao mundo sua individualidade e elegância com essa inicial que representa tanto o seu nome quanto a sua personalidade.",
+            parcel: "4x de 21,99",
+            buy: "https://wa.link/30l6d6"
+        },
+        
     ],
 };
 export default data;
