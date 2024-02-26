@@ -50,41 +50,6 @@
             "priceNow": "R$ 46,50"
         },
         {
-            "id": 10,
-            "image": "../images/produtos/brinco-trio-coracao.jpeg",
-            "title": "BRINCO TRIO CORAÇÃO",
-            "price": "75,99",
-            "priceNow": "R$ 62,99"
-        },
-        {
-            "id": 12,
-            "image": "../images/produtos/brinco-trio-rosa.jpeg",
-            "title": "BRINCO TRIO ROSA",
-            "price": "59,99",
-            "priceNow": "R$ 49,99"
-        },
-        {
-            "id": 13,
-            "image": "../images/produtos/brinco-duplinha.jpeg",
-            "title": "BRINCO DUPLO PONTO DE LUZ",
-            "price": "64,99",
-            "priceNow": "R$ 49,99"
-        },
-        {
-            "id": 14,
-            "image": "../images/produtos/argola-lisa.jpeg",
-            "title": "ARGOLA LISA",
-            "price": "149,99",
-            "priceNow": "R$ 126,99"
-        },
-        {
-            "id": 15,
-            "image": "../images/produtos/brinco-luz-coracao.jpeg",
-            "title": "BRINCO CORAÇÃO",
-            "price": "44,99",
-            "priceNow": "R$ 33,99"
-        },
-        {
             "id": 16,
             "image": "../images/produtos/anel-4-fio.jpeg",
             "title": "ANEL 4 FIOS",
@@ -300,41 +265,6 @@
             "title": "PULSEIRA ACABAMENTO ENVELHECIDO",
             "price": "77,99",
             "priceNow": "R$ 67,99"
-        },
-        {
-            "id": 73,
-            "image": "../images/produtos/brinco-duplinha-estrela-lua.jpeg",
-            "title": "BRINCO DUPLINHA",
-            "price": "45,99",
-            "priceNow": "R$ 35,99"
-        },
-        {
-            "id": 74,
-            "image": "../images/produtos/brinco-ponto-luz-estrela.jpeg",
-            "title": "BRINCO PONTO DE LUZ ESTRELA",
-            "price": "79,99",
-            "priceNow": "R$ 69,99"
-        },
-        {
-            "id": 75,
-            "image": "../images/produtos/brinco-ponto-luz-redondo.jpeg",
-            "title": "BRINCO PONTO DE LUZ REDONDO",
-            "price": "55,99",
-            "priceNow": "R$ 43,99"
-        },
-        {
-            "id": 76,
-            "image": "../images/produtos/brinco-ponto-luz-quadrado.jpeg",
-            "title": "BRINCO PONTO DE LUZ QUADRADO",
-            "price": "84,99",
-            "priceNow": "R$ 74,99"
-        },
-        {
-            "id": 77,
-            "image": "../images/produtos/argola-1g.jpeg",
-            "title": "ARGOLA",
-            "price": "59,99",
-            "priceNow": "R$ 47,99"
         },
         {
             "id": 82,
@@ -594,6 +524,13 @@
             "title": "COLAR SINGAPURA V",
             "price": "99,99",
             "priceNow": "R$ 87,99"
+        },
+        {
+            "id": 129,
+            "image": "../images/produtos/trio-argola-com-click.jpeg",
+            "title": "TRIO DE ARGOLA",
+            "price": "169,99",
+            "priceNow": "156,99"
         }
     ]
 }

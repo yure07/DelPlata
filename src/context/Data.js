@@ -99,13 +99,13 @@ const data = {
             image2: require('../assets/produtos/brinco-ponto.jpeg'),
             image3: require('../assets/produtos/brinco-ponto.jpeg'),
             title: "BRINCO PONTO DE LUZ",
-            price: "59,99",
-            priceNow: "R$ 46,50",
+            price: "46,50",
+            priceNow: "R$ 24,99",
             overview: "Brinco Ponto de Luz Quadrado 9x9. Com certeza esse será o brinco favorito da sua coleção, se encaixa a qualquer ambiente, dia a dia, festas, trabalho(leve, básico e confortável",
-            parcel: "5x de 9,30",
+            parcel: "5x de 4,99",
             buy: "https://wa.link/e7p04t" 
         },
-        {
+        /*{
             id: 10,
             name: "brinco",
             image: require('../assets/produtos/brinco-trio-coracao.jpeg'),
@@ -118,7 +118,7 @@ const data = {
             parcel: "5x de 12,60",
             buy: "https://wa.link/32uugj"
         },
-        /*{
+        {
             id: 11,
             name: "brinco",
             image: require('../assets/produtos/brinco-trio-cor.jpeg'),
@@ -130,7 +130,7 @@ const data = {
             overview: "Brinco Trio Corações Colorido. Com tamanho de 4mm. Brilhe com confiança, use um brinco como uma coroa de estilo!, se tem um brinco que que te surpreenderá em belza, com certeza é esse.",
             parcel: "5x de 9,40",
             buy: "https://wa.link/hobdlw"
-        },*/
+        },
         {
             id: 12,
             name: "brinco",
@@ -182,7 +182,7 @@ const data = {
             overview: "Brinco Ponto de Luz Coração. O brinco é o toque de estilo que completa o seu visual, essa joia não pode ficar de fora da sua coleção.",
             parcel: "5x de 6,80",
             buy: "https://wa.link/4h86xt"
-        },
+        },*/
         {
             id: 16,
             name: "anel",
@@ -884,7 +884,7 @@ const data = {
             overview: "Pulseira Prata Retalho Fino - 19cm. Transforme o seu estilo em algo ainda mais marcante com a pulseira perfeita! Não há melhor maneira de expressar sua individualidade e adicionar um toque pessoal ao seu look do que com uma pulseira única.",
             parcel: "5x de 14,99",
             buy: "https://wa.link/7z3etb"
-        },*/
+        },
         {
             id: 73,
             name: "brinco",
@@ -950,7 +950,7 @@ const data = {
             parcel: "5x de 9,60",
             buy: "https://wa.link/waewks"
         },
-        /*{
+        {
             id: 78,
             name: "tornozeleira",
             image: require('../assets/produtos/tornozeleira-estrela-do-mar.jpeg'),
@@ -1600,7 +1600,19 @@ const data = {
             parcel: "4x de 21,99",
             buy: "https://wa.link/30l6d6"
         },
-        
+        {
+            id: 129,
+            name: "brinco",
+            image: require('../assets/produtos/trio-argola-com-click.jpeg'),
+            image2: require('../assets/produtos/trio-argola-com-click.jpeg'),
+            image3: require('../assets/produtos/trio-argola-com-click.jpeg'),
+            title: "TRIO DE ARGOLA",
+            price: "169,99",
+            priceNow: "156,99",
+            overview: "Trio de argola com click. Renove seu estilo instantaneamente, versáteis, elegantes e práticas, essas argolas são perfeitas para qualquer ocasião. Adquira já o seu conjunto e adicione um toque de sofisticação ao seu visual.",
+            parcel: "5x de 31,40",
+            buy: "https://wa.link/b1n2ll"
+        }
     ],
 };
 export default data;
