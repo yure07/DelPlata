@@ -531,6 +531,139 @@
             "title": "TRIO DE ARGOLA",
             "price": "169,99",
             "priceNow": "156,99"
+        },
+        {
+            "id": 130,
+            "image": "../images/produtos/brinco-earcuff.jpeg",
+            "title": "BRINCO EARCUFF",
+            "price": "69,99",
+            "priceNow": "R$ 55,99"
+        },
+        {
+            "id": 131,
+            "image": "../images/produtos/brinco-coracao-medio.jpeg",
+            "title": "BRINCO CORAÇÃO MÉDIO",
+            "price": "109,99",
+            "priceNow": "R$ 91,99"
+        },
+        {
+            "id": 132,
+            "image": "../images/produtos/brinco-coracao-grande.jpeg",
+            "title": "BRINCO CORAÇÃO GRANDE",
+            "price": "119,99",
+            "priceNow": "R$ 97,99"
+        },
+        {
+            "id": 133,
+            "image": "../images/produtos/brinco-coracao-turmalina.jpeg",
+            "title": "BRINCO CORAÇÃO TURMALINA",
+            "price": "79,99",
+            "priceNow": "R$ 61,99"
+        },
+        {
+            "id": 134,
+            "image": "../images/produtos/brinco-coracao-crista-zirconia.jpeg",
+            "title": "BRINCO CORAÇÃO CRISTAL COM ZIRCÔNIA",
+            "price": "109,99",
+            "priceNow": "R$ 89,99"
+        },
+        {
+            "id": 135,
+            "image": "../images/produtos/brinco-asas-de-borboleta1.jpeg",
+            "title": "BRINCO ASAS DE BORBOLETA",
+            "price": "99,99",
+            "priceNow": "R$ 88,99"
+        },
+        {
+            "id": 136,
+            "image": "../images/produtos/brinco-argola-borboleta.jpeg",
+            "title": "BRINCO ARGOLA BORBOLETA",
+            "price": "69,99",
+            "priceNow": "R$ 48,99"
+        },
+        {
+            "id": 137,
+            "image": "../images/produtos/brinco-earcuff-folhas.jpeg",
+            "title": "BRINCO EARCUFF",
+            "price": "49,99",
+            "priceNow": "R$ 69,99"
+        },
+        {
+            "id": 138,
+            "image": "../images/produtos/brinco-earcuff-pontinhos-de-luz.jpeg",
+            "title": "BRINCO EARCUFF",
+            "price": "67,99",
+            "priceNow": "R$ 46,99"
+        },
+        {
+            "id": 139,
+            "image": "../images/produtos/argola-coracao-pequeno.jpeg",
+            "title": "ARGOLA CORAÇÃO",
+            "price": "47,99",
+            "priceNow": "R$ 37,99"
+        },
+        {
+            "id": 140,
+            "image": "../images/produtos/argola-coracao-grande.jpeg",
+            "title": "ARGOLA CORAÇÃO",
+            "price": "79,99",
+            "priceNow": "R$ 60,99"
+        },
+        {
+            "id": 141,
+            "image": "../images/produtos/argola-torcida-media.jpeg",
+            "title": "ARGOLA TORCIDA",
+            "price": "69,99",
+            "priceNow": "R$ 55,99"
+        },
+        {
+            "id": 142,
+            "image": "../images/produtos/brinco-lua-medio.jpeg",
+            "title": "BRINCO LUA MÉDIO",
+            "price": "39,99",
+            "priceNow": "R$ 33,99"
+        },
+        {
+            "id": 143,
+            "image": "../images/produtos/brinco-lua-pequeno.jpeg",
+            "title": "BRINCO LUA PEQUENO",
+            "price": "34,99",
+            "priceNow": "R$ 29,99"
+        },
+        {
+            "id": 144,
+            "image": "../images/produtos/brinco-lua-grande.jpeg",
+            "title": "BRINCO LUA GRANDE",
+            "price": "49,99",
+            "priceNow": "R$ 40,99"
+        },
+        {
+            "id": 145,
+            "image": "../images/produtos/brinco-3-gotas.jpeg",
+            "title": "BRINCO 3 GOTAS",
+            "price": "99,99",
+            "priceNow": "R$ 82,99"
+        },
+        {
+            "id": 146,
+            "image": "../images/produtos/argola-dupla-corrente.jpeg",
+            "title": "ARGOLA DUPLA CORRENTE",
+            "price": "139,99",
+            "priceNow": "R$ 111,99"
+        },
+        {
+            "id": 147,
+            "image": "../images/produtos/argolinha-navete.jpeg",
+            "title": "ARGOLINHA NAVETE",
+            "price": "99,99",
+            "priceNow": "R$ 81,99"
+        },
+        {
+            "id": 148,
+            "image": "../images/produtos/argola-corrente-pingo-verde.jpeg",
+            "title": "ARGOLA CORRENTE",
+            "price": "109,99",
+            "priceNow": "R$ 88,99"
         }
     ]
 }
