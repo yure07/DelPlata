@@ -1711,8 +1711,8 @@ const data = {
             image2: require('../assets/produtos/brinco-earcuff-folhas2.jpeg'),
             image3: require('../assets/produtos/brinco-earcuff-folhas.jpeg'),
             title: "BRINCO EARCUFF",
-            price: "49,99",
-            priceNow: "R$ 69,99",
+            price: "69,99",
+            priceNow: "R$ 49,99",
             overview: "Brinco Earcuff Folhas. Feito com detalhes cuidadosamente elaborados e materiais de alta qualidade, este brinco não apenas adiciona charme instantâneo, mas também é uma declaração de moda por si só. ",
             parcel: "5x de 9,99",
             buy: "https://wa.link/elzu9p"
