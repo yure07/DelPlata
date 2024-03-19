@@ -1,20 +1,6 @@
 {
     "produtos":[
         {
-            "id": 1,
-            "image": "../images/produtos/choker.jpeg",
-            "title": "CHOKER PONTO DE LUZ",
-            "price": "79,99",
-            "priceNow": "ESGOTADO"
-        },
-        {
-            "id": 4,
-            "image": "../images/produtos/corrente-lua2.jpeg",
-            "title": "CORRENTE LUA",
-            "price": "139,99",
-            "priceNow": "R$ 114,99"
-        },
-        {
             "id": 5,
             "image": "../images/produtos/argola.jpeg",
             "title": "ARGOLA MEIA CANA",
@@ -204,13 +190,6 @@
             "priceNow": "R$ 77,99"
         },
         {
-            "id": 52,
-            "image": "../images/produtos/choker-olho-grego.jpeg",
-            "title": "CHOKER OLHO GREGO",
-            "price": "99,99",
-            "priceNow": "R$ 77,99"
-        },
-        {
             "id": 53,
             "image": "../images/produtos/anel-amor.jpeg",
             "title": "ANEL AMOR",
@@ -272,20 +251,6 @@
             "title": "ESCAPULÁRIO MASCULINO",
             "price": "179,99",
             "priceNow": "R$ 164,99"
-        },
-        {
-            "id": 86,
-            "image": "../images/produtos/conjunto-ponto-de-luz.jpeg",
-            "title": "CONJUNTO PONTO DE LUZ",
-            "price": "109,99",
-            "priceNow": "R$ 93,99"
-        },
-        {
-            "id": 90,
-            "image": "../images/produtos/colar-coracao-vazado.jpeg",
-            "title": "COLAR CORAÇÃO VAZADO",
-            "price": "79,99",
-            "priceNow": "R$ 67,99"
         },
         {
             "id": 91,
@@ -365,79 +330,16 @@
             "priceNow": "R$ 283,99"
         },
         {
-            "id": 106,
-            "image": "../images/produtos/gargantilha-aro.jpeg",
-            "title": "GARGANTILHA ARO",
-            "price": "219,99",
-            "priceNow": "R$ 194,99"
-        },
-        {
             "id": 107,
             "image": "../images/produtos/colar-coracao-grande-vazado1.jpeg",
             "title": "COLAR CORAÇÃO VAZADO",
-            "price": "139,99",
-            "priceNow": "R$ 103,99"
-        },
-        {
-            "id": 108,
-            "image": "../images/produtos/colar-singapura-A.jpeg",
-            "title": "COLAR SINGAPURA A",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
-            "id": 109,
-            "image": "../images/produtos/colar-singapura-B.jpeg",
-            "title": "COLAR SINGAPURA B",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
-            "id": 110,
-            "image": "../images/produtos/colar-singapura-C.jpeg",
-            "title": "COLAR SINGAPURA C",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
+            "price": "103,99",
+            "priceNow": "R$ 98,99"
         },
         {
             "id": 111,
             "image": "../images/produtos/colar-singapura-D.jpeg",
             "title": "COLAR SINGAPURA D",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
-            "id": 112,
-            "image": "../images/produtos/colar-singapura-E.jpeg",
-            "title": "COLAR SINGAPURA E",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
-            "id": 113,
-            "image": "../images/produtos/colar-singapura-F.jpeg",
-            "title": "COLAR SINGAPURA F",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
-            "id": 114,
-            "image": "../images/produtos/colar-singapura-G.jpeg",
-            "title": "COLAR SINGAPURA G",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
-            "id": 115,
-            "image": "../images/produtos/colar-singapura-H.jpeg",
-            "title": "COLAR SINGAPURA H",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
-            "id": 116,
-            "image": "../images/produtos/colar-singapura-I.jpeg",
-            "title": "COLAR SINGAPURA I",
             "price": "99,99",
             "priceNow": "R$ 87,99"
         },
@@ -452,20 +354,6 @@
             "id": 118,
             "image": "../images/produtos/colar-singapura-K.jpeg",
             "title": "COLAR SINGAPURA K",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
-            "id": 119,
-            "image": "../images/produtos/colar-singapura-L.jpeg",
-            "title": "COLAR SINGAPURA L",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
-            "id": 120,
-            "image": "../images/produtos/colar-singapura-M.jpeg",
-            "title": "COLAR SINGAPURA M",
             "price": "99,99",
             "priceNow": "R$ 87,99"
         },
@@ -491,37 +379,9 @@
             "priceNow": "R$ 87,99"
         },
         {
-            "id": 124,
-            "image": "../images/produtos/colar-singapura-R.jpeg",
-            "title": "COLAR SINGAPURA R",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
-            "id": 125,
-            "image": "../images/produtos/colar-singapura-S.jpeg",
-            "title": "COLAR SINGAPURA S",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
             "id": 126,
             "image": "../images/produtos/colar-singapura-T.jpeg",
             "title": "COLAR SINGAPURA T",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
-            "id": 127,
-            "image": "../images/produtos/colar-singapura-U.jpeg",
-            "title": "COLAR SINGAPURA U",
-            "price": "99,99",
-            "priceNow": "R$ 87,99"
-        },
-        {
-            "id": 128,
-            "image": "../images/produtos/colar-singapura-V.jpeg",
-            "title": "COLAR SINGAPURA V",
             "price": "99,99",
             "priceNow": "R$ 87,99"
         },
