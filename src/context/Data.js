@@ -1944,12 +1944,51 @@ const data = {
             image: require('../assets/produtos/choker-pingente-ponto-de-luz-verde.jpeg'),
             image2: require('../assets/produtos/choker-pingente-ponto-de-luz-verde.jpeg'),
             image3: require('../assets/produtos/choker-pingente-ponto-de-luz-verde.jpeg'),
-            title: 'CHOKER PONTO DE LUZ',
+            title: 'CHOKER PONTO DE LUZ VERDE',
             price: '95,99',
             priceNow: "R$ 75,99",
             overview: 'Choker Pingente Pontos de Luz Verde. Seja para uma ocasião especial ou para o dia a dia, este acessório é a escolha perfeita para quem busca estilo e distinção. Não perca a chance de elevar o seu visual com este choker deslumbrante. Garanta o seu agora e brilhe com confiança!',
             parcel: '5x de 15,20',
             buy: 'https://wa.link/hd921b'
+        },
+        {
+            id: 156,
+            name: 'colar',
+            image: require('../assets/produtos/choker-pingente-ponto-de-luz-azul.jpeg'),
+            image2: require('../assets/produtos/choker-pingente-ponto-de-luz-azul.jpeg'),
+            image3: require('../assets/produtos/choker-pingente-ponto-de-luz-azul.jpeg'),
+            title: 'CHOKER PONTO DE LUZ AZUL',
+            price: '95,99',
+            priceNow: "R$ 75,99",
+            overview: 'Choker Pingente Pontos de Luz Azul. Complete seu estilo com nosso choker único! Feito para os apaixonados por moda que desejam destacar seu visual com um toque de ousadia e elegância. Com seu design moderno e detalhes encantadores, este choker é a escolha ideal para adicionar um toque de sofisticação a qualquer conjunto.',
+            parcel: '5x de 15,20',
+            buy: 'https://wa.link/2os195'
+        },
+        {
+            id: 157,
+            name: 'colar',
+            image: require('../assets/produtos/choker-veneziana-pingente-gota-fusion.jpeg'),
+            image2: require('../assets/produtos/choker-veneziana-pingente-gota-fusion.jpeg'),
+            image3: require('../assets/produtos/choker-veneziana-pingente-gota-fusion.jpeg'),
+            title: 'CHOKER VENEZIANA FUSION',
+            price: '133,99',
+            priceNow: 'R$ 113,99',
+            overview: 'Choker Veneziana Pingente Gota Fusion Azul. Seja para uma noite especial ou para um look casual, este acessório versátil é garantia de estilo. Não deixe escapar a oportunidade de aprimorar sua coleção de acessórios com nosso choker exclusivo. Adquira o seu agora e deixe sua personalidade brilhar!',
+            parcel: '5x de 22,80',
+            buy: 'https://wa.link/1pryfs'
+        },
+        {
+            id: 158,
+            name: 'colar',
+            image: require('../assets/produtos/colar-45cm-singapura-coracao-azul.jpeg'),
+            image2: require('../assets/produtos/colar-45cm-singapura-coracao-azul.jpeg'),
+            image3: require('../assets/produtos/colar-45cm-singapura-coracao-azul.jpeg'),
+            title: 'COLAR SINGAPURA CORAÇÃO AZUL',
+            price: '117,99',
+            priceNow: 'R$ 97,99',
+            overview: 'Colar 45cm Singapura Pingente Coração Azul Céu. Transforme seu visual com o nosso deslumbrante colar! Feito com materiais de alta qualidade e um design que exala elegância, este colar é o acessório perfeito para realçar sua beleza natural. ',
+            parcel: '5x de 19,60',
+            buy: 'https://wa.link/xit9gw'
         }
     ],
 };

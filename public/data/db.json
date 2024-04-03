@@ -524,6 +524,76 @@
             "title": "ARGOLA CORRENTE",
             "price": "109,99",
             "priceNow": "R$ 88,99"
+        },
+        {
+            "id": 149,
+            "image": "../images/produtos/colar-coracao-verde-agua.jpeg",
+            "title": "COLAR CORAÇÃO VERDE",
+            "price": "109,99",
+            "priceNow": "R$ 88,99"
+        },
+        {
+            "id": 150,
+            "image": "../images/produtos/colar-pingente-gota-fusion.jpeg",
+            "title": "COLAR PINGENTE GOTA",
+            "price": "169,99",
+            "priceNow": "R$ 143,99"
+        },
+        {
+            "id": 151,
+            "image": "../images/produtos/choker-elo-tijolinho-pingente.jpeg",
+            "title": "CHOKER ELO TIJOLINHO",
+            "price": "118,99",
+            "priceNow": "R$ 98,99"
+        },
+        {
+            "id": 152,
+            "image": "../images/produtos/colar-singapura-pingente-pedra.jpeg",
+            "title": "COLAR PINGENTE TURMALINA",
+            "price": "129,99",
+            "priceNow": "R$ 109,99"
+        },
+        {
+            "id": 153,
+            "image": "../images/produtos/choker-veneziana-coracao-cristal.jpeg",
+            "title": "CHOKER VENEZIANA",
+            "price": "103,99",
+            "priceNow": "R$ 93,99"
+        },
+        {
+           "id": 154,
+           "image": "../images/produtos/colar-50cm-veneziana.jpeg",
+           "title": "COLAR VENEZIANA",
+           "price": "99,99",
+           "priceNow": "R$ 89,99"
+        },
+        {
+            "id": 155,
+            "image": "../images/produtos/choker-pingente-ponto-de-luz-verde.jpeg",
+            "title": "CHOKER DE LUZ VERDE",
+            "price": "95,99",
+            "priceNow": "R$ 75,99"
+        },
+        {
+            "id": 156,
+            "image": "../images/produtos/choker-pingente-ponto-de-luz-azul.jpeg",
+            "title": "CHOKER DE LUZ AZUL",
+            "price": "95,99",
+            "priceNow": "R$ 75,99"
+        },
+        {
+            "id": 157,
+            "image": "../images/produtos/choker-veneziana-pingente-gota-fusion.jpeg",
+            "title": "CHOKER FUSION",
+            "price": "133,99",
+            "priceNow": "R$ 113,99"
+        },
+        {
+            "id": 158,
+            "image": "../images/produtos/colar-45cm-singapura-coracao-azul.jpeg",
+            "title": "COLAR CORAÇÃO AZUL",
+            "price": "117,99",
+            "priceNow": "R$ 97,99"
         }
     ]
 }
