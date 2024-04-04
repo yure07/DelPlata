@@ -70,14 +70,14 @@ const data = {
             id: 7,
             name: "masculino",
             image: require('../assets/produtos/corrente-masc.jpeg'),
-            image2: require('../assets/produtos/corrente-masc-70cm2.jpeg'),
+            image2: require('../assets/produtos/corrente-masculina-60cm-2.jpeg'),
             image3: require('../assets/tamanhos-colar.webp'),
-            title: "CORRENTE MASCULINA 70CM",
-            price: "179,99",
-            priceNow: "R$ 157,99",
-            overview: "Corrente Masculina 70cm. Os colares de corrente transformam qualquer visual básico, deixando você super estiloso e com presença.",
-            parcel: "5x de 31,60",
-            buy: "https://wa.link/dffqji"
+            title: "CORRENTE MASCULINA 60CM",
+            price: "124,99",
+            priceNow: "R$ 94,99",
+            overview: "Corrente Masculina 60cm. Os colares de corrente transformam qualquer visual básico, deixando você super estiloso e com presença.",
+            parcel: "5x de 19,00",
+            buy: "https://wa.link/1qnaj9"
         },
         {
             id: 8,
@@ -379,19 +379,6 @@ const data = {
             buy: "https://wa.link/s1nuog"
         },
         {
-            id: 33,
-            name: "masculino",
-            image: require('../assets/produtos/corrente-masc-60cm.jpeg'),
-            image2: require('../assets/produtos/corrente-masc-60cm3.jpeg'),
-            image3: require('../assets/tamanhos-colar.webp'),
-            title: "CORRENTE MASCULINA 70CM",
-            price: "159,99",
-            priceNow: "ESGOTADO",
-            overview: "Corrente Masculina 70cm 4GR. Uma corrente pode ser mais do que um acessório de moda, pode ser uma peça de valor duradouro que acrescenta um toque de elegância e sofisticação a qualquer visual. Compre uma corrente de alta qualidade hoje e você poderá desfrutar dela por anos.",
-            parcel: "5x de 28,60",
-            buy: "https://wa.link/izyk53" 
-        },
-        {
             id: 34,
             name: "pulseira",
             image: require('../assets/produtos/pulseira-3-flores.jpeg'),
@@ -520,7 +507,7 @@ const data = {
             overview: "Corrente Laminada - 45cm. Uma corrente é mais do que um acessório, é uma expressão da sua personalidade e estilo. É a forma perfeita de realçar a sua beleza e marcar presença por onde passa. Marque presença usando Del Plata.",
             parcel: "5x de 27,20",
             buy: "https://wa.link/t2i6xm"
-        },*/
+        },
         {
             id: 44,
             name: "masculino",
@@ -533,7 +520,7 @@ const data = {
             overview: "Pulseira Masculina - 20cm. - 3,2GR. Uma pulseira é mais do que um simples adorno, é um símbolo de elegância, sofisticação e personalidade. Invista em uma pulseira de qualidade e eleve o seu estilo a um novo patamar.",
             parcel: "5x de 14,99",
             buy: "https://wa.link/job6ys"
-        },
+        },*/
         {
             id: 45,
             name: "masculino",
@@ -541,11 +528,11 @@ const data = {
             image2: require('../assets/produtos/pulseira-masc2-2.jpeg'),
             image3: require('../assets/produtos/pulseira-masc2.jpeg'),
             title: "PULSEIRA MASCULINA",
-            price: "94,99",
-            priceNow: "R$ 81,99",
-            overview: "Pulseira Masculina - 20cm. Um acessório que complementa o seu visual, tornando-o ainda mais charmoso e marcante. Seja para ocasiões formais ou informais, a pulseira certa é o toque final para um look perfeito",
-            parcel: "5x de 16,40",
-            buy: "https://wa.link/yleyb0"
+            price: "84,99",
+            priceNow: "R$ 73,99",
+            overview: "Pulseira Masculina - 21.5cm. Um acessório que complementa o seu visual, tornando-o ainda mais charmoso e marcante. Seja para ocasiões formais ou informais, a pulseira certa é o toque final para um look perfeito",
+            parcel: "5x de 14,80",
+            buy: "https://wa.link/islgne"
         },
         /*{
             id: 46,
@@ -695,12 +682,12 @@ const data = {
             name: "masculino",
             image: require('../assets/produtos/corrente-3-elo-1.jpeg'),
             image2: require('../assets/produtos/corrente-3-elo-1.2.jpeg'),
-            image3: require('../assets/produtos/corrente-3-elo-1.jpeg'),
+            image3: require('../assets/produtos/corrente-3-elo-3.jpeg'),
             title: "CORRENTE MASCULINA",
-            price: "229,99",
-            priceNow: "R$ 189,99",
+            price: "189,99",
+            priceNow: "R$ 157,99",
             overview: "Corrente Elo 3 por 1 - 70cm. Com um brilho radiante que nunca perde seu charme, uma corrente de prata é o complemento perfeito para qualquer roupa ou ocasião. Seja para uma ocasião especial ou para uso diário, essa peça de qualidade irá acompanhar você por muitos anos.",
-            parcel: "5x de 37,99",
+            parcel: "5x de 31,60",
             buy: "https://wa.link/sr2a6k"
         },
         /*{
@@ -1111,28 +1098,28 @@ const data = {
             name: "masculino",
             image: require('../assets/produtos/corrente-groumett.jpeg'),
             image2: require('../assets/produtos/corrente-groumett2.jpeg'),
-            image3: require('../assets/produtos/corrente-groumett.jpeg'),
+            image3: require('../assets/produtos/corrente-elo-groumett-3.jpeg'),
             title: "CORRENTE MASCULINA",
-            price: "279,99",
-            priceNow: "R$ 229,99",
-            overview: "Corrente Groumett - 70cm - 9,6gr. Seja um verdadeiro ícone de estilo masculino com esta corrente de prata que vai elevar sua aparência a um novo patamar de sofisticação. Feita de prata genuína, cada elo brilha com um acabamento impecável, transmitindo durabilidade e qualidade excepcionais.",
-            parcel: "5x de 45,99",
-            buy: "https://wa.link/3txch7"
+            price: "189,99",
+            priceNow: "R$ 166,99",
+            overview: "Corrente Groumett - 70cm - 7gr. Seja um verdadeiro ícone de estilo masculino com esta corrente de prata que vai elevar sua aparência a um novo patamar de sofisticação. Feita de prata genuína, cada elo brilha com um acabamento impecável, transmitindo durabilidade e qualidade excepcionais.",
+            parcel: "5x de 33,40",
+            buy: "https://wa.link/uj6acf"
         },
         {
             id: 92,
             name: "masculino",
-            image: require('../assets/produtos/pulseira-elo-grumett2.jpeg'),
+            image: require('../assets/produtos/pulseira-elo-groumett-3.jpeg'),
             image2: require('../assets/produtos/pulseira-elo-grumett.jpeg'),
             image3: require('../assets/produtos/pulseira-elo-grumett2.jpeg'),
             title: "PULSEIRA ELO GROUMETT",
             price: "69,99",
-            priceNow: "R$ 55,99",
-            overview: "Pulseira Elo Groumett 2gr. Adicione um toque de brilho e estilo ao seu pulso com esta deslumbrante pulseira. Cada elo cuidadosamente trabalhado reflete a beleza atemporal e a elegância sofisticada que você merece.",
-            parcel: "5x de 11,20",
-            buy: "https://wa.link/jltuag"
+            priceNow: "R$ 59,99",
+            overview: "Pulseira Elo Groumett 19.5cm. Adicione um toque de brilho e estilo ao seu pulso com esta deslumbrante pulseira. Cada elo cuidadosamente trabalhado reflete a beleza atemporal e a elegância sofisticada que você merece.",
+            parcel: "5x de 12,00",
+            buy: "https://wa.link/sodvha"
         },
-        {
+        /*{
             id: 93,
             name: "masculino",
             image: require('../assets/produtos/pulseira-piastrini2.jpeg'),
@@ -1145,7 +1132,7 @@ const data = {
             parcel: "5x de 6,99",
             buy: "https://wa.link/haejfi"
         },
-        /*{
+        {
             id: 94,
             name: "brinco",
             image: require('../assets/produtos/brinco-coracao-vazado.jpeg'),
@@ -1217,10 +1204,10 @@ const data = {
             image2: require('../assets/produtos/corrente-elo-tijolinho2.jpeg'),
             image3: require('../assets/produtos/corrente-elo-tijolinho1.jpeg'),
             title: "CORRENTE ELO TIJOLINHO",
-            price: "85,99",
-            priceNow: "R$ 79,99",
+            price: "119,99",
+            priceNow: "R$ 104,99",
             overview: "Corrente Elo Tijolinho - 60cm. Seu estilo merece a autenticidade desta corrente masculina. Feita para os que valorizam o poder da sofisticação despretensiosa. Cada elo conta uma história de força e masculinidade. Seja para aprimorar seu visual casual ou elevar seu charme formal, esta corrente é mais do que um acessório.",
-            parcel: "5x de 15,99",
+            parcel: "5x de 21,00",
             buy: "https://wa.link/8r75j6"
         },
         {
@@ -1230,17 +1217,17 @@ const data = {
             image2: require('../assets/produtos/pulseira-3x1.2.jpeg'),
             image3: require('../assets/produtos/pulseira-3x1.jpeg'),
             title: "PULSEIRA MASCULINA",
-            price: "69,99",
-            priceNow: "R$ 58,99",
-            overview: "Pulseira 3x1 - 2mm. Na sua jornada rumo à excelência no estilo, cada detalhe importa. Esta pulseira masculina não é apenas um acessório, é a expressão da sua individualidade e bom gosto. Combinando perfeitamente com qualquer visual, do casual ao sofisticado, ela irá enaltecer o seu pulso de uma forma única.",
-            parcel: "5x de 11,80",
-            buy: "https://wa.link/45d5so"
+            price: "112,99",
+            priceNow: "R$ 101,99",
+            overview: "Pulseira Masculina 20cm. Na sua jornada rumo à excelência no estilo, cada detalhe importa. Esta pulseira masculina não é apenas um acessório, é a expressão da sua individualidade e bom gosto. Combinando perfeitamente com qualquer visual, do casual ao sofisticado, ela irá enaltecer o seu pulso de uma forma única.",
+            parcel: "5x de 20,40",
+            buy: "https://wa.link/p72etw"
         },
         {
             id: 101,
             name: "masculino",
             image: require('../assets/produtos/pulseira-groumett-5.jpeg'),
-            image2: require('../assets/produtos/pulseira-groumett-5.2.jpeg'),
+            image2: require('../assets/produtos/pulseira-groummet-5-2.jpeg'),
             image3: require('../assets/produtos/pulseira-groumett-5.jpeg'),
             title: "PULSEIRA MASCULINA",
             price: "199,99",
@@ -1249,7 +1236,7 @@ const data = {
             parcel: "5x de 34,99",
             buy: "https://wa.link/4po3l5",
         },
-        {
+        /* {
             id: 102,
             name: "masculino",
             image: require('../assets/produtos/pulseira-groumett-6.jpeg'),
@@ -1261,12 +1248,12 @@ const data = {
             overview: "Pulseira Elo Groumett - 6mm. Eleve o seu estilo com a sofisticação da masculina pulseira que combina perfeitamente com qualquer ocasião. Um toque de elegância e confiança ao alcance do seu pulso.",
             parcel: "5x de 40,80",
             buy: "https://wa.link/oaz5x6"
-        },
+        }, */
         {
             id: 103,
             name: "masculino",
             image: require('../assets/produtos/pulseira-groumett-7.jpeg'),
-            image2: require('../assets/produtos/pulseira-groumett7.2.jpeg'),
+            image2: require('../assets/produtos/pulseira-groumett-7-2.jpeg'),
             image3: require('../assets/produtos/pulseira-groumett-7.jpeg'),
             title: "PULSEIRA MASCULINA",
             price: "319,99",
@@ -1989,6 +1976,84 @@ const data = {
             overview: 'Colar 45cm Singapura Pingente Coração Azul Céu. Transforme seu visual com o nosso deslumbrante colar! Feito com materiais de alta qualidade e um design que exala elegância, este colar é o acessório perfeito para realçar sua beleza natural. ',
             parcel: '5x de 19,60',
             buy: 'https://wa.link/xit9gw'
+        },
+        {
+            id: 159,
+            name: 'masculino',
+            image: require('../assets/produtos/corrente-groumett-5gr-70cm.jpeg'),
+            image2: require('../assets/produtos/corrente-groumett-5gr-70cm.jpeg'),
+            image3: require('../assets/produtos/corrente-groumett-5gr-70cm.jpeg'),
+            title: 'CORRENTE GROUMETT 5GR',
+            price: '139,99',
+            priceNow: "R$ 129,99",
+            overview: 'Corrente Groumett 5gr. 70cm. Exiba sua masculinidade com estilo com nossa corrente exclusiva! Feita para homens que valorizam qualidade e elegância, esta corrente é o acessório perfeito para complementar seu visual.',
+            parcel: '5x de 26,00',
+            buy: 'https://wa.link/qz5fdf'
+        },
+        {
+            id: 160,
+            name: 'masculino',
+            image: require('../assets/produtos/pulseira-groumett-21cm.jpeg'),
+            image2: require('../assets/produtos/pulseira-groumett-21cm.jpeg'),
+            image3: require('../assets/produtos/pulseira-groumett-21cm.jpeg'),
+            title: "PULSEIRA GROUMETT",
+            price: '94,99',
+            priceNow: "R$ 73,99",
+            overview: 'Pulseira Groumett 21cm. Destaque-se com nossa pulseira exclusiva! Feita com materiais de alta qualidade e um design moderno, esta pulseira é o acessório perfeito para complementar seu estilo único.',
+            parcel: '5x de 14,80',
+            buy: 'https://wa.link/b9zs8u'
+        },
+        {
+            id: 161,
+            name: 'masculino',
+            image: require('../assets/produtos/pulseira-elo-3x1.jpeg'),
+            image2: require('../assets/produtos/pulseira-elo-3x1.jpeg'),
+            image3: require('../assets/produtos/pulseira-elo-3x1.jpeg'),
+            title: 'PULSEIRA ELO 3X1',
+            price: '99,99',
+            priceNow: 'R$ 86,99',
+            overview: 'Pulseira Elo 3x1 19cm. Mostre sua personalidade e bom gosto com esta pulseira versátil e deslumbrante. Não perca a oportunidade de adicionar um toque especial ao seu visual. Adquira a sua agora e brilhe com confiança!',
+            parcel: '5x de 17,40',
+            buy: 'https://wa.link/n78nzj'
+        },
+        {
+            id: 162,
+            name: 'masculino',
+            image: require('../assets/produtos/pulseira-elo-tijolinho.jpeg'),
+            image2: require('../assets/produtos/pulseira-elo-tijolinho.jpeg'),
+            image3: require('../assets/produtos/pulseira-elo-tijolinho.jpeg'),
+            title: 'PULSEIRA ELO TJOLINHO',
+            price: '67,99',
+            priceNow: "R$ 51,99",
+            overview: 'Pulseira Elo Tijolinho 21cm. Complete seu estilo com nossa pulseira exclusiva! Feita para os amantes de moda que buscam um toque de elegância e personalidade em seu visual. Com materiais de alta qualidade e um design cuidadosamente elaborado, esta pulseira é o acessório perfeito para adicionar um toque de sofisticação a qualquer look.',
+            parcel: '5x de 10,40',
+            buy: 'https://wa.link/3e3han'
+        },
+        {
+            id: 163,
+            name: 'masculino',
+            image: require('../assets/produtos/pulseira-elo-cartier.jpeg'),
+            image2: require('../assets/produtos/pulseira-elo-cartier.jpeg'),
+            image3: require('../assets/produtos/pulseira-elo-cartier.jpeg'),
+            title: 'PULSEIRA ELO CARTIER',
+            price: '79,99',
+            priceNow: 'R$ 67,99',
+            overview: 'Pulseira Elo Cartier. Seja para o dia a dia ou para uma ocasião especial, esta pulseira versátil é garantia de estilo e charme. Não deixe escapar a oportunidade de aprimorar seu estilo com nossa pulseira única. Adquira a sua agora e faça uma declaração de moda que não passará despercebida!',
+            parcel: '5x de 13,60',
+            buy: 'https://wa.link/x9iro6'
+        },
+        {
+            id: 164,
+            name: 'masculino',
+            image: require('../assets/produtos/pulseira-elo-groumett-20cm.jpeg'),
+            image2: require('../assets/produtos/pulseira-elo-groumett-20cm.jpeg'),
+            image3: require('../assets/produtos/pulseira-elo-groumett-20cm.jpeg'),
+            title: 'PULSEIRA ELO GROUMETT 20CM',
+            price: '129,99',
+            priceNow: 'R$ 117,99',
+            overview: 'Pulseira Elo Groumett 20cm. Complete seu visual com nossa pulseira exclusiva! Feita para quem busca estilo e sofisticação, esta pulseira é o toque final perfeito para qualquer look. Com um design elegante e materiais de alta qualidade, esta pulseira é a escolha ideal para adicionar um toque de charme ao seu pulso',
+            parcel: '5x de 23,60',
+            buy: 'https://wa.link/g581ij'
         }
     ],
 };

@@ -15,13 +15,6 @@
             "priceNow": "R$ 85,99"
         },
         {
-            "id": 7,
-            "image": "../images/produtos/corrente-masc.jpeg",
-            "title": "CORRENTE MASCULINA 70CM",
-            "price": "179,99",
-            "priceNow": "R$ 157,99"
-        },
-        {
             "id": 8,
             "image": "../images/produtos/anel-liso.jpeg",
             "title": "ANEL TRIÂNGULO LISO",
@@ -127,13 +120,6 @@
             "priceNow": "R$ 51,99"
         },
         {
-            "id": 33,
-            "image": "../images/produtos/corrente-masc-60cm.jpeg",
-            "title": "CORRENTE MASCULINA 70CM",
-            "price": "159,99",
-            "priceNow": "ESGOTADO"
-        },
-        {
             "id": 34,
             "image": "../images/produtos/pulseira-3-flores.jpeg",
             "title": "PULSEIRA 3 FLORES",
@@ -169,18 +155,11 @@
             "priceNow": "R$ 45,99"
         },
         {
-            "id": 44,
-            "image": "../images/produtos/pulseira-masc-20cm.jpeg",
-            "title": "PULSEIRA MASCULINA",
-            "price": "93,99",
-            "priceNow": "R$ 74,99"
-        },
-        {
             "id": 45,
             "image": "../images/produtos/pulseira-masc2.jpeg",
             "title": "PULSEIRA MASCULINA",
-            "price": "94,99",
-            "priceNow": "R$ 81,99"
+            "price": "84,99",
+            "priceNow": "R$ 73,99"
         },
         {
             "id": 48,
@@ -212,10 +191,17 @@
         },
         {
             "id": 58,
-            "image": "../images/produtos/corrente-3-elo-1.jpeg",
+            "image": "../images/produtos/corrente-3-elo-2.jpeg",
             "title": "CORRENTE MASCULINA",
-            "price": "229,99",
-            "priceNow": "R$ 189,99"
+            "price": "189,99",
+            "priceNow": "R$ 157,99"
+        },
+        {
+            "id": 7,
+            "image": "../images/produtos/corrente-masc.jpeg",
+            "title": "CORRENTE MASCULINA 60CM",
+            "price": "124,99",
+            "priceNow": "R$ 94,99"
         },
         {
             "id": 61,
@@ -256,22 +242,15 @@
             "id": 91,
             "image": "../images/produtos/corrente-groumett.jpeg",
             "title": "CORRENTE MASCULINA",
-            "price": "279,99",
-            "priceNow": "R$ 229,99"
+            "price": "189,99",
+            "priceNow": "R$ 166,99"
         },
         {
             "id": 92,
-            "image": "../images/produtos/pulseira-elo-grumett2.jpeg",
+            "image": "../images/produtos/pulseira-elo-groumett-3.jpeg",
             "title": "PULSEIRA ELO GROUMETT",
             "price": "69,99",
-            "priceNow": "R$ 55,99"
-        },
-        {
-            "id": 93,
-            "image": "../images/produtos/pulseira-piastrini2.jpeg",
-            "title": "PULSEIRA ELO PIASTRINI",
-            "price": "49,99",
-            "priceNow": "ESGOTADO"
+            "priceNow": "R$ 59,99"
         },
         {
             "id": 95,
@@ -302,11 +281,18 @@
             "priceNow": "R$ 66,99"
         },
         {
+            "id": 99,
+            "image": "../images/produtos/corrente-elo-tijolinho1.jpeg",
+            "title": "CORRENTE ELO TIJOLINHO",
+            "price": "119,99",
+            "priceNow": "R$ 104,99"
+        },
+        {
             "id": 100,
             "image": "../images/produtos/pulseira-3x1.jpeg",
             "title": "PULSEIRA MASCULINA",
-            "price": "69,99",
-            "priceNow": "R$ 58,99"
+            "price": "112,99",
+            "priceNow": "R$ 101,99"
         },
         {
             "id": 101,
@@ -314,13 +300,6 @@
             "title": "PULSEIRA MASCULINA",
             "price": "199,99",
             "priceNow": "R$ 174,99"
-        },
-        {
-            "id": 102,
-            "image": "../images/produtos/pulseira-groumett-6.jpeg",
-            "title": "PULSEIRA MASCULINA",
-            "price": "229,99",
-            "priceNow": "R$ 203,99"
         },
         {
             "id": 103,
@@ -594,6 +573,48 @@
             "title": "COLAR CORAÇÃO AZUL",
             "price": "117,99",
             "priceNow": "R$ 97,99"
+        },
+        {
+            "id": 159,
+            "image": "../images/produtos/corrente-groumett-5gr-70cm.jpeg",
+            "title": "CORRENTE GROUMETT 5GR",
+            "price": "139,99",
+            "priceNow": "R$ 129,99"
+        },
+        {
+            "id": 160,
+            "image": "../images/produtos/pulseira-groumett-21cm.jpeg",
+            "title": "PULSEIRA GROUMETT",
+            "price": "94,99",
+            "priceNow": "R$ 73,99"
+        },
+        {
+            "id": 161,
+            "image": "../images/produtos/pulseira-elo-3x1.jpeg",
+            "title": "PULSEIRA ELO 3X1",
+            "price": "99,99",
+            "priceNow": "R$ 86,99"
+        },
+        {
+            "id": 162,
+            "image": "../images/produtos/pulseira-elo-tijolinho.jpeg",
+            "title": "PULSEIRA ELO TJOLINHO",
+            "price": "67,99",
+            "priceNow": "R$ 51,99"
+        },
+        {
+            "id": 163,
+            "image": "../images/produtos/pulseira-elo-cartier.jpeg",
+            "title": "PULSEIRA ELO CARTIER",
+            "price": "79,99",
+            "priceNow": "R$ 67,99"
+        },
+        {
+            "id": 164,
+            "image": "../images/produtos/pulseira-elo-groumett-20cm.jpeg",
+            "title": "PULSEIRA ELO GROUMETT 20CM",
+            "price": "129,99",
+            "priceNow": "R$ 117,99"
         }
     ]
 }
