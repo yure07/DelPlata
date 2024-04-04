@@ -991,7 +991,7 @@ const data = {
         },*/
         {
             id: 82,
-            name: "masculino",
+            name: "escapulario",
             image: require('../assets/produtos/escap-masc.jpeg'),
             image2: require('../assets/tamanhos-colar.webp'),
             image3: require('../assets/produtos/escap-masc.jpeg'),

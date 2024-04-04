@@ -61,6 +61,7 @@ export default function Header () {
                   <Link to={"/filter/piercing"}> <li>Piercing</li> </Link>
                   <Link to={"/filter/pulseira"}> <li>Pulseiras</li> </Link>
                   <Link to={"/filter/berloque"}> <li>Berloques</li> </Link>
+                  <Link to={"/filter/escapulario"}> <li>Escapulários</li> </Link>
                 </ul>
             </nav>
 
